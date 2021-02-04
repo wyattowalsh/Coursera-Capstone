@@ -15,3 +15,6 @@ dependencies:
   - scikit-learn
   - yapf
   - isort
+  - html5lib
+  - beautifulsoup4
+  - folium
