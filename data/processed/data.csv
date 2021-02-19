@@ -1,0 +1,1502 @@
+,Venue Weighted Rating,Venue Review Count,Venue Price,Venue Category,Venue Category 0,Venue Category 1,Venue Category 2,Venue Category 3,Neighborhood 0,Distance to Neighborhood 0,Neighborhood 1,Neighborhood 2,Neighborhood 3,Neighborhood 4,Neighborhood 5,Neighborhood 6,Neighborhood 7,Neighborhood 8
+0,4.318295739348371,1197,$$,Dessert Shop,macarons,none,none,none,Little Tokyo,234,none,none,none,none,none,none,none,none
+1,5.0,29,$,Coffee Shop,coffee,coffeeroasteries,desserts,none,Cypress Park,488,none,none,none,none,none,none,none,none
+2,4.5,138,$$,Smoke Shop,cigarbars,none,none,none,Toy District,496,none,none,none,none,none,none,none,none
+3,4.0,528,$$,Bar,bars,none,none,none,Sunset Junction,75,none,none,none,none,none,none,none,none
+4,3.5,381,$$,Bar,cocktailbars,gastropubs,beerbar,none,Eagle Rock,71,none,none,none,none,none,none,none,none
+5,2.5,96,$$,Smoke Shop,tobaccoshops,headshops,vapeshops,none,Granada Hills,195,none,none,none,none,none,none,none,none
+6,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Los Feliz,354,none,none,none,none,none,none,none,none
+7,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Pico Robertson,472,none,none,none,none,none,none,none,none
+8,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Silver Lake,55,none,none,none,none,none,none,none,none
+9,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Eagle Rock,471,none,none,none,none,none,none,none,none
+10,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Park La Brea,418,none,none,none,none,none,none,none,none
+11,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Arlington Heights,495,none,none,none,none,none,none,none,none
+12,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Laurel Canyon,80,Valley Village,none,none,none,none,none,none,none
+13,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Mar Vista,468,none,none,none,none,none,none,none,none
+14,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Baldwin Village,140,none,none,none,none,none,none,none,none
+15,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Edendale,478,none,none,none,none,none,none,none,none
+16,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,East Hollywood,88,none,none,none,none,none,none,none,none
+17,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Palms,53,none,none,none,none,none,none,none,none
+18,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Toluca Lake,370,none,none,none,none,none,none,none,none
+19,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Chatsworth,387,none,none,none,none,none,none,none,none
+20,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,San Pedro,66,none,none,none,none,none,none,none,none
+21,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Pico-Union,125,none,none,none,none,none,none,none,none
+22,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Tarzana,379,none,none,none,none,none,none,none,none
+23,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,North Hollywood,124,none,none,none,none,none,none,none,none
+24,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Van Nuys,437,none,none,none,none,none,none,none,none
+25,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Lincoln Heights,425,none,none,none,none,none,none,none,none
+26,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Van Nuys,223,none,none,none,none,none,none,none,none
+27,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Financial District,364,none,none,none,none,none,none,none,none
+28,2.5050029429075926,1699,$,Convenience Store,convenience,coffee,none,none,Leimert Park,433,none,none,none,none,none,none,none,none
+29,4.5,136,$,Lounge,divebars,sportsbars,none,none,Del Rey,485,none,none,none,none,none,none,none,none
+30,3.1166107382550337,596,$,Discount Store,partysupplies,discountstore,none,none,Sunset Junction,433,none,none,none,none,none,none,none,none
+31,3.1166107382550337,596,$,Discount Store,partysupplies,discountstore,none,none,Little Armenia,61,Thai Town,none,none,none,none,none,none,none
+32,3.1166107382550337,596,$,Discount Store,partysupplies,discountstore,none,none,Northridge,146,none,none,none,none,none,none,none,none
+33,3.1166107382550337,596,$,Discount Store,partysupplies,discountstore,none,none,Wilmington,428,none,none,none,none,none,none,none,none
+34,4.5,1323,$$,French Restaurant,french,none,none,none,Pico Robertson,293,none,none,none,none,none,none,none,none
+35,4.0,449,$$,Cupcake Shop,bakeries,cupcakes,none,none,Granada Hills,415,none,none,none,none,none,none,none,none
+36,4.5,152,$$,Salon / Barbershop,hair,none,none,none,Toluca Lake,346,none,none,none,none,none,none,none,none
+37,3.0,48,$$$,Hotel,hotels,none,none,none,Carthay,340,none,none,none,none,none,none,none,none
+38,2.7195121951219514,41,$$,Shoe Store,shoes,none,none,none,Whitley Heights,413,none,none,none,none,none,none,none,none
+39,2.818982387475538,511,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,none,none,Playa Vista,117,none,none,none,none,none,none,none,none
+40,2.818982387475538,511,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,none,none,South Central,333,none,none,none,none,none,none,none,none
+41,4.0,1047,$,Pizza Place,pizza,none,none,none,Venice,466,none,none,none,none,none,none,none,none
+42,4.0,394,$$,Caribbean Restaurant,caribbean,none,none,none,Leimert Park,299,none,none,none,none,none,none,none,none
+43,4.0,662,$$,Breakfast Spot,newamerican,coffee,breakfast_brunch,none,Toluca Lake,318,none,none,none,none,none,none,none,none
+44,4.5,1390,$$,Korean Restaurant,korean,bbq,none,none,Koreatown,230,none,none,none,none,none,none,none,none
+45,4.0,352,$,Gay Bar,gaybars,none,none,none,Sunset Junction,475,none,none,none,none,none,none,none,none
+46,4.0,214,$$,Japanese Restaurant,sushi,japanese,seafood,none,West Los Angeles,419,none,none,none,none,none,none,none,none
+47,4.502958579881657,338,$$,Coffee Shop,coffeeroasteries,venues,none,none,Mar Vista,393,none,none,none,none,none,none,none,none
+48,3.0,133,$$,Grocery Store,grocery,pharmacy,none,none,Los Feliz,212,none,none,none,none,none,none,none,none
+49,4.0,78,$$,Café,coffee,none,none,none,Koreatown,415,none,none,none,none,none,none,none,none
+50,4.0,450,$$,Middle Eastern Restaurant,persian,none,none,none,Granada Hills,193,none,none,none,none,none,none,none,none
+51,3.5,478,$$$,Italian Restaurant,italian,wine_bars,none,none,Silver Lake,90,none,none,none,none,none,none,none,none
+52,4.0,309,$$,Coffee Shop,coffee,breakfast_brunch,none,none,Los Feliz,256,none,none,none,none,none,none,none,none
+53,4.0,613,$$,Italian Restaurant,italian,pizza,none,none,Atwater Village,405,none,none,none,none,none,none,none,none
+54,4.0,695,$$,Restaurant,breakfast_brunch,hawaiian,salad,none,Little Tokyo,442,none,none,none,none,none,none,none,none
+55,4.0,473,$$,Gluten-free Restaurant,coffee,gluten_free,breakfast_brunch,none,Garvanza,167,none,none,none,none,none,none,none,none
+56,4.5,540,$$,Food Truck,juicebars,acaibowls,none,none,North University Park,167,University Park,University Park,none,none,none,none,none,none
+57,4.5,540,$$,Smoothie Shop,juicebars,acaibowls,none,none,Arts District,354,none,none,none,none,none,none,none,none
+58,3.5,51,$$,Bookstore,bookstores,toys,electronics,none,Pacific Palisades,101,none,none,none,none,none,none,none,none
+59,4.0,352,$$,Thai Restaurant,thai,none,none,none,Sherman Oaks,409,none,none,none,none,none,none,none,none
+60,4.5,56,$$,Boutique,womenscloth,accessories,bookstores,none,Venice,498,none,none,none,none,none,none,none,none
+61,4.372477064220184,1090,$$,Indian Restaurant,indpak,none,none,none,Los Feliz,362,none,none,none,none,none,none,none,none
+62,4.5,528,$$,Indian Restaurant,indpak,none,none,none,Beverly Hills Post Office,499,none,none,none,none,none,none,none,none
+63,4.5,113,$$,Hardware Store,hardware,none,none,none,North Hollywood,314,none,none,none,none,none,none,none,none
+64,3.6666666666666665,6,$,Donut Shop,donuts,none,none,none,Green Meadows,395,none,none,none,none,none,none,none,none
+65,4.5,676,$$,Bakery,bakeries,cakeshop,desserts,none,Del Rey,353,none,none,none,none,none,none,none,none
+66,4.5,79,$$,Café,breakfast_brunch,salad,italian,none,Fairfax,410,none,none,none,none,none,none,none,none
+67,4.5,1798,$$$,Italian Restaurant,italian,wine_bars,pizza,none,Fairfax,431,none,none,none,none,none,none,none,none
+68,3.5,100,$$$,Women's Store,womenscloth,accessories,none,none,Century City,388,none,none,none,none,none,none,none,none
+69,3.5,293,$$,Mexican Restaurant,mexican,none,none,none,Fairfax,496,none,none,none,none,none,none,none,none
+70,4.5,175,$$,Salon / Barbershop,hair_extensions,none,none,none,Beverly Hills Post Office,344,none,none,none,none,none,none,none,none
+71,2.5,556,$$$,Electronics Store,computers,mobilephones,itservices,none,Century City,336,none,none,none,none,none,none,none,none
+72,4.5,263,$$,Massage Studio,massage,spas,massage_therapy,none,Westwood Village,269,none,none,none,none,none,none,none,none
+73,3.5,60,$,Bakery,bakeries,none,none,none,Granada Hills,124,none,none,none,none,none,none,none,none
+74,4.5,3,$$$,American Restaurant,bakeries,desserts,customcakes,none,Ladera,361,none,none,none,none,none,none,none,none
+75,3.5,74,$$,Pub,newamerican,pubs,none,none,Playa Vista,83,none,none,none,none,none,none,none,none
+76,4.0,265,$,Greek Restaurant,greek,breakfast_brunch,mexican,none,Reseda,184,none,none,none,none,none,none,none,none
+77,4.0,332,$$$,Restaurant,newamerican,cocktailbars,none,none,Los Feliz,480,none,none,none,none,none,none,none,none
+78,3.5,420,$$,Lounge,mexican,bars,none,none,Atwater Village,412,none,none,none,none,none,none,none,none
+79,4.2940792337831954,2297,$$,Vegetarian / Vegan Restaurant,vietnamese,raw_food,juicebars,none,Bunker Hill,170,none,none,none,none,none,none,none,none
+80,4.0,278,$$$,French Restaurant,french,cocktailbars,breakfast_brunch,none,Beverly Hills Post Office,310,none,none,none,none,none,none,none,none
+81,4.0,278,$$$,Restaurant,french,cocktailbars,breakfast_brunch,none,Beverly Hills Post Office,309,none,none,none,none,none,none,none,none
+82,4.0,778,$$$,Greek Restaurant,greek,seafood,mediterranean,none,Beverly Hills Post Office,385,none,none,none,none,none,none,none,none
+83,2.0,10,$$,Clothing Store,accessories,womenscloth,menscloth,none,Panorama City,401,none,none,none,none,none,none,none,none
+84,4.0,29,$$$,Cosmetics Shop,cosmetics,skincare,none,none,Venice,357,none,none,none,none,none,none,none,none
+85,3.9156523392925067,5258,$$,Korean Restaurant,korean,none,none,none,Koreatown,252,none,none,none,none,none,none,none,none
+86,4.140378548895899,1268,$,Asian Restaurant,salad,korean,hotdogs,none,Beverly Grove,369,none,none,none,none,none,none,none,none
+87,4.140378548895899,1268,$,Asian Restaurant,salad,korean,hotdogs,none,Hollywood,181,none,none,none,none,none,none,none,none
+88,3.5,179,$$,Greek Restaurant,greek,mediterranean,sandwiches,none,Harbor Gateway,100,none,none,none,none,none,none,none,none
+89,2.711243929772133,2677,$$,Brewery,pizza,breweries,newamerican,none,Canoga Park,420,none,none,none,none,none,none,none,none
+90,4.5,119,$,Bubble Tea Shop,tea,none,none,none,Lake Balboa,121,none,none,none,none,none,none,none,none
+91,4.0,427,$$,Moroccan Restaurant,moroccan,none,none,none,San Pedro,88,none,none,none,none,none,none,none,none
+92,3.9526315789473685,2755,$$,BBQ Joint,bbq,catering,none,none,Echo Park,470,none,none,none,none,none,none,none,none
+93,4.379703534777651,1754,$$,Breakfast Spot,vegetarian,juicebars,acaibowls,none,Beverly Grove,24,none,none,none,none,none,none,none,none
+94,4.379703534777651,1754,$$,Vegetarian / Vegan Restaurant,vegetarian,juicebars,acaibowls,none,Financial District,73,none,none,none,none,none,none,none,none
+95,4.0,289,$,Mexican Restaurant,mexican,desserts,salad,none,Westdale,409,none,none,none,none,none,none,none,none
+96,2.9647404505386876,1021,$,Taco Place,mexican,tex-mex,hotdogs,none,Sherman Oaks,253,none,none,none,none,none,none,none,none
+97,2.9647404505386876,1021,$,Fast Food Restaurant,mexican,tex-mex,hotdogs,none,Northridge,239,none,none,none,none,none,none,none,none
+98,4.0,255,$$,Asian Restaurant,filipino,buffets,karaoke,none,Panorama City,311,none,none,none,none,none,none,none,none
+99,4.0,311,$$,Sports Bar,sportsbars,tacos,venues,none,Exposition Park,416,none,none,none,none,none,none,none,none
+100,4.0,127,$,Supermarket,intlgrocery,none,none,none,Reseda,240,none,none,none,none,none,none,none,none
+101,4.0,3019,$$,Dim Sum Restaurant,dimsum,bars,tapasmallplates,none,Beverly Grove,10,none,none,none,none,none,none,none,none
+102,4.5,102,$$,Bar,cocktailbars,none,none,none,Echo Park,470,none,none,none,none,none,none,none,none
+103,4.5,73,$$,Cocktail Bar,cocktailbars,none,none,none,Angelino Heights,422,none,none,none,none,none,none,none,none
+104,4.0,27,$$,Cocktail Bar,bars,none,none,none,Arts District,269,none,none,none,none,none,none,none,none
+105,3.5,201,$$,Nightclub,bars,none,none,none,Whitley Heights,475,none,none,none,none,none,none,none,none
+106,4.0,397,$$,Cuban Restaurant,cuban,none,none,none,Atwater Village,489,none,none,none,none,none,none,none,none
+107,3.5,466,$$,Coffee Shop,coffee,breakfast_brunch,cafes,none,Windsor Square,329,none,none,none,none,none,none,none,none
+108,3.4821947674418605,1376,$,Ice Cream Shop,icecream,desserts,customcakes,none,Woodland Hills,115,none,none,none,none,none,none,none,none
+109,3.4821947674418605,1376,$,Ice Cream Shop,icecream,desserts,customcakes,none,Thai Town,481,none,none,none,none,none,none,none,none
+110,3.4821947674418605,1376,$,Ice Cream Shop,icecream,desserts,customcakes,none,Toluca Lake,362,none,none,none,none,none,none,none,none
+111,3.4821947674418605,1376,$,Ice Cream Shop,icecream,desserts,customcakes,none,Pacific Palisades,147,none,none,none,none,none,none,none,none
+112,3.4821947674418605,1376,$,Ice Cream Shop,icecream,desserts,customcakes,none,Leimert Park,439,none,none,none,none,none,none,none,none
+113,3.4821947674418605,1376,$,Ice Cream Shop,icecream,desserts,customcakes,none,Boyle Heights,410,none,none,none,none,none,none,none,none
+114,3.4821947674418605,1376,$,Ice Cream Shop,icecream,desserts,customcakes,none,San Pedro,126,none,none,none,none,none,none,none,none
+115,4.5,1400,$$$,Mediterranean Restaurant,mideastern,none,none,none,Arts District,141,none,none,none,none,none,none,none,none
+116,4.0,434,$$,Bakery,bakeries,none,none,none,Tarzana,143,none,none,none,none,none,none,none,none
+117,4.0,463,$$,Café,newamerican,breakfast_brunch,pizza,none,Beachwood Canyon,273,none,none,none,none,none,none,none,none
+118,4.0,361,$$,Bakery,bakeries,desserts,none,none,Koreatown,364,none,none,none,none,none,none,none,none
+119,3.427396710790213,2493,$$,Furniture / Home Store,kitchenandbath,homedecor,baby_gear,none,Hollywood,272,none,none,none,none,none,none,none,none
+120,3.427396710790213,2493,$$,Furniture / Home Store,kitchenandbath,homedecor,baby_gear,none,Sawtelle,415,none,none,none,none,none,none,none,none
+121,3.427396710790213,2493,$$,Furniture / Home Store,kitchenandbath,homedecor,baby_gear,none,Canoga Park,182,none,none,none,none,none,none,none,none
+122,3.60967993754879,1281,$$,Nail Salon,othersalons,hairremoval,none,none,Windsor Square,378,none,none,none,none,none,none,none,none
+123,3.3034682080924855,173,$$$,Ice Cream Shop,icecream,none,none,none,Whitley Heights,376,none,none,none,none,none,none,none,none
+124,3.5,744,$,Mexican Restaurant,mexican,none,none,none,West Los Angeles,313,none,none,none,none,none,none,none,none
+125,4.0,359,$,Japanese Restaurant,japanese,sushi,asianfusion,none,Harvard Heights,384,none,none,none,none,none,none,none,none
+126,3.0,851,$$,Mediterranean Restaurant,pizza,hookah_bars,burgers,none,Beverly Grove,482,none,none,none,none,none,none,none,none
+127,4.5,306,$,Juice Bar,juicebars,coffee,sandwiches,none,Whitley Heights,381,none,none,none,none,none,none,none,none
+128,3.5,837,$$,Electronics Store,electronics,mobilephones,computers,none,Canoga Park,459,none,none,none,none,none,none,none,none
+129,3.5,837,$$,Electronics Store,electronics,mobilephones,computers,none,Sherman Oaks,277,none,none,none,none,none,none,none,none
+130,3.5,62,$$,Hotel,hotels,none,none,none,Westdale,453,none,none,none,none,none,none,none,none
+131,3.5,78,$$,Hotel,hotels,none,none,none,Woodland Hills,259,none,none,none,none,none,none,none,none
+132,3.3011363636363638,176,$$,Liquor Store,beer_and_wine,none,none,none,Canoga Park,233,none,none,none,none,none,none,none,none
+133,3.5,132,$$,Hotel,hotels,none,none,none,Beverly Grove,498,none,none,none,none,none,none,none,none
+134,4.0,472,$$,Coffee Shop,coffee,desserts,none,none,Koreatown,323,none,none,none,none,none,none,none,none
+135,4.5,253,$,Kosher Restaurant,bakeries,pizza,cafes,none,Pico Robertson,209,none,none,none,none,none,none,none,none
+136,3.5,261,$,Korean Restaurant,korean,none,none,none,Century City,429,none,none,none,none,none,none,none,none
+137,2.894878706199461,371,$$,Sporting Goods Shop,sportgoods,none,none,none,Northridge,239,none,none,none,none,none,none,none,none
+138,2.894878706199461,371,$$,Sporting Goods Shop,sportgoods,none,none,none,Garvanza,482,none,none,none,none,none,none,none,none
+139,4.0,157,$$,Cocktail Bar,cocktailbars,none,none,none,Los Feliz,312,none,none,none,none,none,none,none,none
+140,3.197887323943662,710,$$,Pizza Place,pizza,sandwiches,salad,none,Eagle Rock,80,none,none,none,none,none,none,none,none
+141,4.5,78,$,Burger Joint,burgers,none,none,none,Florence,56,none,none,none,none,none,none,none,none
+142,4.0,1954,$$,Fried Chicken Joint,chickenshop,donuts,coffee,none,Financial District,437,none,none,none,none,none,none,none,none
+143,3.7903225806451615,217,$$,Mexican Restaurant,mexican,none,none,none,Florence,136,none,none,none,none,none,none,none,none
+144,3.5,540,$$,Andhra Restaurant,diners,breakfast_brunch,tradamerican,none,Tarzana,326,none,none,none,none,none,none,none,none
+145,4.5,199,$,Coffee Shop,coffee,salad,sandwiches,none,Atwater Village,462,none,none,none,none,none,none,none,none
+146,4.0,339,$$,Bar,cocktailbars,theater,magicians,none,Hollywood,480,none,none,none,none,none,none,none,none
+147,5.0,178,$$,Beer Store,beer_and_wine,none,none,none,West Los Angeles,401,none,none,none,none,none,none,none,none
+148,4.0,521,$$$,American Restaurant,italian,none,none,none,Edendale,223,none,none,none,none,none,none,none,none
+149,4.0,1298,$$,Arts & Crafts Store,artsupplies,hobbyshops,framing,none,West Los Angeles,465,none,none,none,none,none,none,none,none
+150,4.0,1298,$$,Arts & Crafts Store,artsupplies,hobbyshops,framing,none,Fairfax,435,none,none,none,none,none,none,none,none
+151,3.5,135,$$$,Spa,spas,massage,skincare,none,Hollywood,482,none,none,none,none,none,none,none,none
+152,5.0,64,$,Bakery,bakeries,desserts,cupcakes,none,South Central,195,none,none,none,none,none,none,none,none
+153,3.0,473,$$$,Department Store,deptstores,none,none,none,Century City,455,none,none,none,none,none,none,none,none
+154,4.110370537731586,4426,$$,Breakfast Spot,cafes,breakfast_brunch,none,none,Tarzana,442,none,none,none,none,none,none,none,none
+155,3.9405825242718446,2575,$$,Coffee Shop,coffee,none,none,none,Arts District,293,none,none,none,none,none,none,none,none
+156,3.9405825242718446,2575,$$,Coffee Shop,coffee,none,none,none,Beverly Grove,20,none,none,none,none,none,none,none,none
+157,3.9405825242718446,2575,$$,Coffee Shop,coffee,none,none,none,Gallery Row,487,Historic Core,Toy District,none,none,none,none,none,none
+158,3.9405825242718446,2575,$$,Coffee Shop,coffee,none,none,none,Beverly Hills Post Office,486,none,none,none,none,none,none,none,none
+159,3.9405825242718446,2575,$$,Coffee Shop,coffee,none,none,none,Los Feliz,284,none,none,none,none,none,none,none,none
+160,4.0,1292,$$,Gastropub,newamerican,bars,none,none,Bunker Hill,358,none,none,none,none,none,none,none,none
+161,2.0,41,$,Spa,massage,none,none,none,Lake Balboa,42,none,none,none,none,none,none,none,none
+162,4.0,464,$$,Cocktail Bar,divebars,lounges,danceclubs,none,Whitley Heights,488,none,none,none,none,none,none,none,none
+163,3.5,53,$,Burger Joint,burgers,tacos,breakfast_brunch,none,Harbor City,375,none,none,none,none,none,none,none,none
+164,4.5,26,$,Convenience Store,convenience,none,none,none,Angelino Heights,381,none,none,none,none,none,none,none,none
+165,4.0,609,$,Bubble Tea Shop,bubbletea,coffee,none,none,Northridge,240,none,none,none,none,none,none,none,none
+166,3.0,502,$,Café,coffee,icecream,shavedice,none,Westdale,407,none,none,none,none,none,none,none,none
+167,4.5,109,$$,Snack Place,juicebars,vitaminssupplements,healthmarkets,none,Hollywood,458,none,none,none,none,none,none,none,none
+168,3.7806691449814127,269,$$,Juice Bar,healthmarkets,cosmetics,juicebars,none,Hollywood,147,none,none,none,none,none,none,none,none
+169,3.957983193277311,476,$,Burger Joint,burgers,none,none,none,Woodland Hills,414,none,none,none,none,none,none,none,none
+170,4.5,480,$$,Middle Eastern Restaurant,lebanese,mediterranean,none,none,Sunset Junction,264,none,none,none,none,none,none,none,none
+171,2.5,460,$$,Clothing Store,womenscloth,jewelry,accessories,none,Westwood Village,424,none,none,none,none,none,none,none,none
+172,3.0,582,$$,Speakeasy,danceclubs,karaoke,speakeasies,none,Koreatown,401,none,none,none,none,none,none,none,none
+173,3.5,340,$$,Coffee Shop,coffee,none,none,none,Los Feliz,386,none,none,none,none,none,none,none,none
+174,3.2209302325581395,86,$$,Men's Store,menscloth,none,none,none,Venice,207,none,none,none,none,none,none,none,none
+175,3.0,322,$$,Thrift / Vintage Store,vintage,womenscloth,thrift_stores,none,Sherman Oaks,268,none,none,none,none,none,none,none,none
+176,4.099236641221374,131,$$,Toy / Game Store,toys,kids_activities,none,none,Whitley Heights,459,none,none,none,none,none,none,none,none
+177,4.5,2428,$$,Korean Restaurant,korean,bbq,asianfusion,none,Koreatown,207,none,none,none,none,none,none,none,none
+178,4.029236868186323,1009,$,Ice Cream Shop,icecream,none,none,none,Koreatown,433,none,none,none,none,none,none,none,none
+179,4.5,53,$,Gift Shop,homedecor,giftshops,none,none,Little Tokyo,245,none,none,none,none,none,none,none,none
+180,4.0,339,$$,Italian Restaurant,italian,none,none,none,Mission Hills,329,none,none,none,none,none,none,none,none
+181,2.154255319148936,376,$,Fast Food Restaurant,hotdogs,burgers,none,none,Valley Glen,498,none,none,none,none,none,none,none,none
+182,2.154255319148936,376,$,Fast Food Restaurant,hotdogs,burgers,none,none,Watts,341,none,none,none,none,none,none,none,none
+183,2.154255319148936,376,$,Fast Food Restaurant,hotdogs,burgers,none,none,Central City,289,none,none,none,none,none,none,none,none
+184,4.0,294,$$,Dive Bar,divebars,cocktailbars,none,none,Hollywood,269,none,none,none,none,none,none,none,none
+185,4.0,48,$$,Boutique,stationery,homedecor,giftshops,none,Venice,465,none,none,none,none,none,none,none,none
+186,4.5,459,$$,Café,sandwiches,coffee,breakfast_brunch,none,Palms,149,none,none,none,none,none,none,none,none
+187,4.152213188798554,1107,$$,Mediterranean Restaurant,mediterranean,salad,none,none,Westwood Village,263,none,none,none,none,none,none,none,none
+188,4.152213188798554,1107,$$,Mediterranean Restaurant,mediterranean,salad,none,none,North University Park,293,University Park,University Park,none,none,none,none,none,none
+189,3.8616625310173696,806,$$,Diner,soulfood,breakfast_brunch,mexican,none,Village Green,428,none,none,none,none,none,none,none,none
+190,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Woodland Hills,171,none,none,none,none,none,none,none,none
+191,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Crenshaw,493,none,none,none,none,none,none,none,none
+192,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Brentwood,293,Brentwood Circle,none,none,none,none,none,none,none
+193,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Pacific Palisades,201,none,none,none,none,none,none,none,none
+194,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Tarzana,173,none,none,none,none,none,none,none,none
+195,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Hermon,422,none,none,none,none,none,none,none,none
+196,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Westwood Village,287,none,none,none,none,none,none,none,none
+197,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Westchester,358,none,none,none,none,none,none,none,none
+198,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,San Pedro,165,none,none,none,none,none,none,none,none
+199,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Village Green,497,none,none,none,none,none,none,none,none
+200,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Sherman Oaks,494,none,none,none,none,none,none,none,none
+201,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Little Tokyo,418,none,none,none,none,none,none,none,none
+202,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Eagle Rock,401,none,none,none,none,none,none,none,none
+203,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Watts,471,none,none,none,none,none,none,none,none
+204,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Playa Vista,214,none,none,none,none,none,none,none,none
+205,2.2104294478527606,4075,$$,Pharmacy,drugstores,pharmacy,convenience,none,Financial District,122,Jewelry District,none,none,none,none,none,none,none
+206,2.6883169934640523,1224,$$,Bar,mexican,sportsbars,breakfast_brunch,none,Whitley Heights,410,none,none,none,none,none,none,none,none
+207,4.5,202,$,Café,coffee,breakfast_brunch,bakeries,none,Arlington Heights,484,none,none,none,none,none,none,none,none
+208,3.0,192,$$,Karaoke Bar,asianfusion,coffee,desserts,none,Koreatown,462,none,none,none,none,none,none,none,none
+209,4.0,995,$$,Bakery,coffee,sandwiches,breakfast_brunch,none,Los Feliz,357,none,none,none,none,none,none,none,none
+210,3.5,409,$$,Café,korean,bars,none,none,Koreatown,228,none,none,none,none,none,none,none,none
+211,4.5,648,$$,Café,breakfast_brunch,cafes,sandwiches,none,Pacific Palisades,87,none,none,none,none,none,none,none,none
+212,4.0,1265,$$,Café,italian,bakeries,pizza,none,Koreatown,165,none,none,none,none,none,none,none,none
+213,4.090736040609137,788,$$,Coffee Shop,coffee,none,none,none,Pacific Palisades,274,none,none,none,none,none,none,none,none
+214,4.5,85,$$,Italian Restaurant,italian,juicebars,cafes,none,Century City,438,none,none,none,none,none,none,none,none
+215,4.0,149,$$$,Italian Restaurant,italian,none,none,none,Rustic Canyon,157,none,none,none,none,none,none,none,none
+216,5.0,10,$,Market,grocery,none,none,none,Garvanza,464,none,none,none,none,none,none,none,none
+217,3.719128329297821,413,$,Asian Restaurant,japanese,sushi,none,none,Northridge,478,none,none,none,none,none,none,none,none
+218,3.8181818181818183,1243,$$,American Restaurant,tradamerican,salad,wraps,none,Northridge,221,none,none,none,none,none,none,none,none
+219,4.0,537,$$,Seafood Restaurant,seafood,tacos,fishnchips,none,Canoga Park,417,none,none,none,none,none,none,none,none
+220,3.0,35,$,Pizza Place,pizza,none,none,none,Financial District,385,none,none,none,none,none,none,none,none
+221,3.5,439,$$,Pizza Place,pizza,newamerican,salad,none,Whitley Heights,297,none,none,none,none,none,none,none,none
+222,3.0,453,$$,Sushi Restaurant,sushi,japanese,none,none,Warner Center,303,none,none,none,none,none,none,none,none
+223,2.5,113,$,American Restaurant,steak,hotdogs,mediterranean,none,Village Green,457,none,none,none,none,none,none,none,none
+224,4.5,130,$$,Middle Eastern Restaurant,indpak,none,none,none,Lake Balboa,154,none,none,none,none,none,none,none,none
+225,3.055393586005831,686,$$,Chinese Restaurant,chinese,soup,none,none,Encino,462,none,none,none,none,none,none,none,none
+226,4.0,784,$,Mexican Restaurant,tacos,foodtrucks,none,none,Hollywood,439,none,none,none,none,none,none,none,none
+227,4.0,289,$,Café,coffee,banks,none,none,Financial District,91,none,none,none,none,none,none,none,none
+228,1.5,26,$,Fast Food Restaurant,hotdogs,mexican,none,none,Carthay,451,none,none,none,none,none,none,none,none
+229,4.5,11,$$$,Boutique,womenscloth,jewelry,shoes,none,Los Feliz,261,none,none,none,none,none,none,none,none
+230,4.0,1280,$$,Mexican Restaurant,mexican,none,none,none,Del Rey,360,none,none,none,none,none,none,none,none
+231,4.0,1623,$$,Burger Joint,tradamerican,burgers,breakfast_brunch,none,Koreatown,498,none,none,none,none,none,none,none,none
+232,4.0,464,$,Seafood Restaurant,seafood,none,none,none,Skid Row,400,none,none,none,none,none,none,none,none
+233,4.0,494,$$,Cocktail Bar,cocktailbars,newamerican,lounges,none,Toluca Lake,336,none,none,none,none,none,none,none,none
+234,3.5,113,$$,Chinese Restaurant,chinese,none,none,none,Pacific Palisades,105,none,none,none,none,none,none,none,none
+235,4.5,65,$$,Record Shop,vinyl_records,guitarstores,none,none,Naud Junction,302,none,none,none,none,none,none,none,none
+236,3.5,35,$,Bakery,bakeries,customcakes,none,none,Echo Park,408,none,none,none,none,none,none,none,none
+237,4.5,123,$$,Vegetarian / Vegan Restaurant,vegan,none,none,none,South Central,464,none,none,none,none,none,none,none,none
+238,4.0,309,$$,Tea Room,coffee,none,none,none,Venice,483,none,none,none,none,none,none,none,none
+239,4.0,375,$$,Vietnamese Restaurant,vietnamese,chicken_wings,none,none,Eagle Rock,350,none,none,none,none,none,none,none,none
+240,4.5,73,$$,Dry Cleaner,laundryservices,none,none,none,Chatsworth,356,none,none,none,none,none,none,none,none
+241,4.5,174,$$,Salon / Barbershop,hair,none,none,none,Hollywood,444,none,none,none,none,none,none,none,none
+242,4.0,388,$,Pizza Place,pizza,italian,sandwiches,none,Los Feliz,374,none,none,none,none,none,none,none,none
+243,5.0,163,$$,Cheese Shop,cheese,none,none,none,Sherman Oaks,52,none,none,none,none,none,none,none,none
+244,4.5,79,$$,Bookstore,bookstores,none,none,none,Windsor Square,294,none,none,none,none,none,none,none,none
+245,3.5,529,$$,Chinese Restaurant,chinese,bars,none,none,Los Feliz,489,none,none,none,none,none,none,none,none
+246,4.5,169,$$,Mediterranean Restaurant,mediterranean,mideastern,salad,none,Chesterfield Square,400,none,none,none,none,none,none,none,none
+247,3.207627118644068,2124,$,Fast Food Restaurant,hotdogs,none,none,none,Westwood Village,458,none,none,none,none,none,none,none,none
+248,3.207627118644068,2124,$,Fast Food Restaurant,hotdogs,none,none,none,Century City,481,none,none,none,none,none,none,none,none
+249,3.207627118644068,2124,$,Fast Food Restaurant,hotdogs,none,none,none,Financial District,403,none,none,none,none,none,none,none,none
+250,3.2371134020618557,291,$,Mexican Restaurant,mexican,hotdogs,breakfast_brunch,none,Crenshaw,208,none,none,none,none,none,none,none,none
+251,4.0,202,$$,Chinese Restaurant,chinese,none,none,none,Beverly Grove,360,none,none,none,none,none,none,none,none
+252,4.5,124,$,Chinese Restaurant,chinese,none,none,none,Baldwin Village,462,none,none,none,none,none,none,none,none
+253,3.5,168,$,Chinese Restaurant,chinese,japanese,fishnchips,none,Reseda,474,none,none,none,none,none,none,none,none
+254,4.0,353,$$,Chinese Restaurant,chinese,seafood,soup,none,Chinatown,301,none,none,none,none,none,none,none,none
+255,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Woodland Hills,162,none,none,none,none,none,none,none,none
+256,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Hollywood,300,none,none,none,none,none,none,none,none
+257,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Tarzana,499,none,none,none,none,none,none,none,none
+258,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Canoga Park,401,none,none,none,none,none,none,none,none
+259,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Sherman Oaks,433,none,none,none,none,none,none,none,none
+260,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Century City,472,none,none,none,none,none,none,none,none
+261,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Eagle Rock,97,none,none,none,none,none,none,none,none
+262,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Beverly Grove,412,none,none,none,none,none,none,none,none
+263,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Pacific Palisades,250,none,none,none,none,none,none,none,none
+264,2.593835867374977,10918,$,Burrito Place,hotdogs,mexican,none,none,Financial District,425,none,none,none,none,none,none,none,none
+265,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Mission Hills,247,none,none,none,none,none,none,none,none
+266,2.593835867374977,10918,$,Mexican Restaurant,hotdogs,mexican,none,none,Northridge,284,none,none,none,none,none,none,none,none
+267,3.36088295687885,1948,$$,Japanese Restaurant,sushi,desserts,ramen,none,Encino,106,none,none,none,none,none,none,none,none
+268,4.0,1901,$,Dessert Shop,cafes,desserts,sandwiches,none,West Los Angeles,431,none,none,none,none,none,none,none,none
+269,4.0,879,$,Mexican Restaurant,mexican,none,none,none,Naud Junction,304,none,none,none,none,none,none,none,none
+270,4.5,3,$,Grocery Store,grocery,none,none,none,Jefferson Park,466,none,none,none,none,none,none,none,none
+271,4.0,108,$,Video Store,videoandgames,none,none,none,West Los Angeles,8,none,none,none,none,none,none,none,none
+272,4.0,335,$,Bakery,bakeries,vegan,desserts,none,Echo Park,484,none,none,none,none,none,none,none,none
+273,3.0,17,$,Convenience Store,convenience,servicestations,none,none,Harbor City,444,none,none,none,none,none,none,none,none
+274,4.0,83,$$,Liquor Store,beer_and_wine,none,none,none,North Hollywood,377,none,none,none,none,none,none,none,none
+275,4.068627450980392,51,$,Accessories Store,jewelry,piercing,accessories,none,Warner Center,289,none,none,none,none,none,none,none,none
+276,5.0,128,$$,Tattoo Parlor,tattoo,none,none,none,Tarzana,180,none,none,none,none,none,none,none,none
+277,4.5,86,$$,Boutique,womenscloth,accessories,toys,none,Edendale,181,none,none,none,none,none,none,none,none
+278,4.5,376,$,Ice Cream Shop,vegan,icecream,desserts,none,Hollywood,450,none,none,none,none,none,none,none,none
+279,3.7384760112888054,2126,$$,Coffee Shop,coffee,none,none,none,Palms,358,none,none,none,none,none,none,none,none
+280,3.5,76,$,Café,newamerican,breakfast_brunch,cafes,none,Bunker Hill,206,none,none,none,none,none,none,none,none
+281,3.5,245,$$,Ice Cream Shop,icecream,customcakes,cupcakes,none,Sherman Oaks,263,none,none,none,none,none,none,none,none
+282,3.5,245,$$,Ice Cream Shop,icecream,customcakes,cupcakes,none,Thai Town,322,none,none,none,none,none,none,none,none
+283,4.0,474,$,Coffee Shop,coffee,none,none,none,South Central,166,none,none,none,none,none,none,none,none
+284,2.107142857142857,14,$$,Bookstore,comicbooks,none,none,none,South Central,462,none,none,none,none,none,none,none,none
+285,4.5,128,$,Hobby Shop,comicbooks,tabletopgames,galleries,none,Winnetka,304,none,none,none,none,none,none,none,none
+286,4.5,426,$$,Wine Bar,wine_bars,none,none,none,Eagle Rock,148,none,none,none,none,none,none,none,none
+287,4.5,426,$$,Wine Shop,wine_bars,none,none,none,Eagle Rock,239,none,none,none,none,none,none,none,none
+288,4.0,453,$$,American Restaurant,newamerican,cocktailbars,breakfast_brunch,none,Mid-Wilshire,439,none,none,none,none,none,none,none,none
+289,5.0,3,$,Pharmacy,drugstores,none,none,none,Village Green,438,none,none,none,none,none,none,none,none
+290,4.0,154,$$,Mexican Restaurant,seafood,mexican,none,none,Del Rey,358,none,none,none,none,none,none,none,none
+291,4.5,194,$$,Poke Place,sushi,hawaiian,poke,none,Carthay,280,none,none,none,none,none,none,none,none
+292,3.5,184,$,Chinese Restaurant,chinese,none,none,none,Atwater Village,442,none,none,none,none,none,none,none,none
+293,4.5,953,$,Food Truck,foodstands,mexican,none,none,Lincoln Heights,486,none,none,none,none,none,none,none,none
+294,2.5,3,$$,Bakery,bakeries,none,none,none,Warner Center,335,none,none,none,none,none,none,none,none
+295,4.0,329,$$,Pizza Place,pizza,sandwiches,wine_bars,none,Echo Park,464,none,none,none,none,none,none,none,none
+296,4.0,90,$$,Nail Salon,othersalons,none,none,none,Toluca Lake,474,none,none,none,none,none,none,none,none
+297,4.4392523364485985,214,$,Café,newamerican,breakfast_brunch,cafes,none,Bunker Hill,283,none,none,none,none,none,none,none,none
+298,3.5,185,$$,Rock Club,danceclubs,none,none,none,Chatsworth,244,none,none,none,none,none,none,none,none
+299,3.5,1666,$$,Breakfast Spot,cafes,breakfast_brunch,sandwiches,none,Sherman Oaks,4,none,none,none,none,none,none,none,none
+300,3.0,544,$$,Sushi Restaurant,sushi,japanese,none,none,Woodland Hills,247,none,none,none,none,none,none,none,none
+301,4.5,285,$,Creperie,desserts,creperies,icecream,none,Whitley Heights,430,none,none,none,none,none,none,none,none
+302,4.0,72,$$,Food Court,food_court,none,none,none,South Central,248,none,none,none,none,none,none,none,none
+303,4.0,367,$,Greek Restaurant,persian,greek,none,none,Los Feliz,390,none,none,none,none,none,none,none,none
+304,3.610294117647059,476,$,Hot Dog Joint,hotdog,none,none,none,Winnetka,433,none,none,none,none,none,none,none,none
+305,4.0,305,$$,Asian Restaurant,asianfusion,japacurry,none,none,Woodland Hills,142,none,none,none,none,none,none,none,none
+306,3.5,135,$$,Café,salad,breakfast_brunch,wine_bars,none,Century City,183,none,none,none,none,none,none,none,none
+307,3.0,397,$,Pizza Place,pizza,italian,none,none,Beverly Grove,403,none,none,none,none,none,none,none,none
+308,3.6081223628691985,948,$,Pizza Place,pizza,italian,salad,none,Tarzana,428,none,none,none,none,none,none,none,none
+309,2.5,200,$,Filipino Restaurant,seafood,breakfast_brunch,filipino,none,Panorama City,312,none,none,none,none,none,none,none,none
+310,4.5,182,$$,Cosmetics Shop,medicalspa,laser_hair_removal,skincare,none,Windsor Square,304,none,none,none,none,none,none,none,none
+311,3.5,129,$$,Shoe Store,shoes,none,none,none,Canoga Park,259,none,none,none,none,none,none,none,none
+312,3.8555555555555556,45,$$,Men's Store,shoes,menscloth,accessories,none,Warner Center,473,none,none,none,none,none,none,none,none
+313,3.5,195,$$,Hawaiian Restaurant,hawaiian,shavedice,poke,none,Playa Vista,49,none,none,none,none,none,none,none,none
+314,3.9246031746031744,126,$,Donut Shop,donuts,none,none,none,Los Feliz,383,none,none,none,none,none,none,none,none
+315,4.0256410256410255,429,$,Convenience Store,discountstore,none,none,none,Koreatown,424,none,none,none,none,none,none,none,none
+316,3.47926267281106,434,$,Food Truck,foodtrucks,tacos,none,none,Financial District,379,none,none,none,none,none,none,none,none
+317,4.0,321,$$,Bar,newamerican,gastropubs,pubs,none,Tarzana,145,none,none,none,none,none,none,none,none
+318,3.0,1004,$$,Sports Bar,bars,arcades,tradamerican,none,Whitley Heights,351,none,none,none,none,none,none,none,none
+319,3.0,4,$$$,Art Gallery,galleries,none,none,none,Mid-Wilshire,380,none,none,none,none,none,none,none,none
+320,4.5,1304,$$,Pizza Place,pizza,italian,none,none,East Hollywood,124,none,none,none,none,none,none,none,none
+321,4.0,427,$$,Deli / Bodega,delis,sandwiches,none,none,Playa del Rey,407,none,none,none,none,none,none,none,none
+322,4.5,151,$$,Optical Shop,optometrists,laserlasikeyes,opticians,none,Playa del Rey,390,none,none,none,none,none,none,none,none
+323,4.5,63,$$,Smoke Shop,tobaccoshops,vapeshops,headshops,none,Del Rey,349,none,none,none,none,none,none,none,none
+324,2.352517985611511,1390,$,Fast Food Restaurant,mexican,none,none,none,Lake Balboa,97,none,none,none,none,none,none,none,none
+325,2.352517985611511,1390,$,Fast Food Restaurant,mexican,none,none,none,Harbor City,283,none,none,none,none,none,none,none,none
+326,2.352517985611511,1390,$,Fast Food Restaurant,mexican,none,none,none,Eagle Rock,435,none,none,none,none,none,none,none,none
+327,4.0,339,$$,Bakery,cupcakes,bakeries,desserts,none,Northridge,244,none,none,none,none,none,none,none,none
+328,4.5,85,$$,Coffee Shop,coffee,none,none,none,Carthay,286,none,none,none,none,none,none,none,none
+329,2.7947279865395402,1783,$$,Breakfast Spot,tradamerican,diners,breakfast_brunch,none,Woodland Hills,424,none,none,none,none,none,none,none,none
+330,2.7947279865395402,1783,$$,Breakfast Spot,tradamerican,diners,breakfast_brunch,none,Westwood Village,138,none,none,none,none,none,none,none,none
+331,2.7947279865395402,1783,$$,Breakfast Spot,tradamerican,diners,breakfast_brunch,none,Panorama City,300,none,none,none,none,none,none,none,none
+332,3.5,750,$$,BBQ Joint,bbq,tradamerican,southern,none,Northridge,44,none,none,none,none,none,none,none,none
+333,3.5,750,$$,BBQ Joint,bbq,tradamerican,southern,none,Woodland Hills,221,none,none,none,none,none,none,none,none
+334,4.0,1656,$$,Chinese Restaurant,taiwanese,chinese,desserts,none,Century City,272,none,none,none,none,none,none,none,none
+335,3.5,222,$$,Breakfast Spot,cafes,pizza,sandwiches,none,Echo Park,421,none,none,none,none,none,none,none,none
+336,4.0,569,$$,Coffee Shop,coffee,none,none,none,Sunset Junction,410,none,none,none,none,none,none,none,none
+337,3.5,93,$$,Italian Restaurant,italian,wine_bars,pizza,none,South Central,317,none,none,none,none,none,none,none,none
+338,4.2483778873604985,3853,$,Hot Dog Joint,hotdog,burgers,beergardens,none,Northridge,212,none,none,none,none,none,none,none,none
+339,4.0,891,$$,Sushi Restaurant,sushi,none,none,none,Sherman Oaks,177,none,none,none,none,none,none,none,none
+340,4.0,201,$$$,Theater,theater,musicvenues,none,none,Whitley Heights,425,none,none,none,none,none,none,none,none
+341,2.670152091254753,526,$,Discount Store,discountstore,none,none,none,Panorama City,276,none,none,none,none,none,none,none,none
+342,2.670152091254753,526,$,Discount Store,discountstore,none,none,none,Harbor Gateway,167,none,none,none,none,none,none,none,none
+343,2.670152091254753,526,$,Discount Store,discountstore,none,none,none,Laurel Canyon,449,Valley Village,none,none,none,none,none,none,none
+344,2.670152091254753,526,$,Discount Store,discountstore,none,none,none,Cypress Park,171,none,none,none,none,none,none,none,none
+345,2.670152091254753,526,$,Discount Store,discountstore,none,none,none,Harvard Heights,474,none,none,none,none,none,none,none,none
+346,2.670152091254753,526,$,Discount Store,discountstore,none,none,none,Gramercy Park,261,none,none,none,none,none,none,none,none
+347,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Westwood Village,458,none,none,none,none,none,none,none,none
+348,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Sylmar,8,none,none,none,none,none,none,none,none
+349,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Granada Hills,246,none,none,none,none,none,none,none,none
+350,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Encino,249,none,none,none,none,none,none,none,none
+351,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Westdale,141,none,none,none,none,none,none,none,none
+352,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Panorama City,416,none,none,none,none,none,none,none,none
+353,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Van Nuys,265,none,none,none,none,none,none,none,none
+354,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Tujunga,367,none,none,none,none,none,none,none,none
+355,2.1885502705781827,3511,$,Pizza Place,pizza,chicken_wings,sandwiches,none,Angelino Heights,490,none,none,none,none,none,none,none,none
+356,4.0,103,$,Mexican Restaurant,mexican,none,none,none,Laurel Canyon,390,none,none,none,none,none,none,none,none
+357,3.865771812080537,149,$,Donut Shop,donuts,none,none,none,Garvanza,325,none,none,none,none,none,none,none,none
+358,4.0,1786,$$,Vegetarian / Vegan Restaurant,tradamerican,bakeries,none,none,Hollywood,466,none,none,none,none,none,none,none,none
+359,4.5,203,$$$,Performing Arts Venue,theater,musicvenues,none,none,Bunker Hill,276,none,none,none,none,none,none,none,none
+360,4.5,21,$$$,Men's Store,menscloth,accessories,shoes,none,Beverly Grove,364,none,none,none,none,none,none,none,none
+361,4.5,169,$,Movie Theater,movietheaters,bars,venues,none,Toy District,348,none,none,none,none,none,none,none,none
+362,3.0,179,$$$,Hotel,hotels,none,none,none,Hollywood,217,none,none,none,none,none,none,none,none
+363,4.5,185,$$,Café,cafes,none,none,none,Hollywood,254,none,none,none,none,none,none,none,none
+364,4.5,785,$$,Mediterranean Restaurant,falafel,salad,sandwiches,none,Sonoratown ,466,none,none,none,none,none,none,none,none
+365,2.976516272189349,2704,$,Donut Shop,coffee,donuts,none,none,Encino,123,none,none,none,none,none,none,none,none
+366,2.976516272189349,2704,$,Donut Shop,coffee,donuts,none,none,Financial District,259,Jewelry District,none,none,none,none,none,none,none
+367,2.976516272189349,2704,$,Donut Shop,coffee,donuts,none,none,Mission Hills,388,none,none,none,none,none,none,none,none
+368,2.976516272189349,2704,$,Donut Shop,coffee,donuts,none,none,Woodland Hills,81,none,none,none,none,none,none,none,none
+369,4.0,142,$$,Gay Bar,gaybars,none,none,none,Sunset Junction,336,none,none,none,none,none,none,none,none
+370,3.5,61,$,Sandwich Place,sandwiches,salad,wraps,none,Bunker Hill,406,none,none,none,none,none,none,none,none
+371,5.0,4,$$,Arts & Crafts Store,framing,copyshops,none,none,South Central,214,none,none,none,none,none,none,none,none
+372,4.0,361,$,American Restaurant,tradamerican,breakfast_brunch,mexican,none,North Hollywood,118,none,none,none,none,none,none,none,none
+373,3.5,500,$$,Rock Club,musicvenues,bars,danceclubs,none,Echo Park,411,none,none,none,none,none,none,none,none
+374,3.5,544,$$,New American Restaurant,newamerican,cocktailbars,none,none,Edendale,18,none,none,none,none,none,none,none,none
+375,3.2213855421686746,332,$$,Dessert Shop,giftshops,florists,chocolate,none,Beverly Grove,474,none,none,none,none,none,none,none,none
+376,4.0,45,$,Café,breakfast_brunch,cafes,none,none,Century City,432,none,none,none,none,none,none,none,none
+377,4.0,247,$$,Coffee Shop,coffee,none,none,none,Angelino Heights,392,none,none,none,none,none,none,none,none
+378,4.0,956,$$,Mexican Restaurant,mexican,cocktailbars,none,none,Beverly Grove,493,none,none,none,none,none,none,none,none
+379,4.5,64,$,South American Restaurant,salvadoran,none,none,none,El Sereno,389,none,none,none,none,none,none,none,none
+380,3.5,288,$,Mexican Restaurant,mexican,none,none,none,Mar Vista,440,none,none,none,none,none,none,none,none
+381,4.5,1304,$,Food Truck,mexican,foodtrucks,none,none,Mid-Wilshire,24,none,none,none,none,none,none,none,none
+382,3.5,2141,$$,Mexican Restaurant,mexican,cocktailbars,none,none,Financial District,494,none,none,none,none,none,none,none,none
+383,4.0,245,$$,Cuban Restaurant,cuban,none,none,none,Pico-Union,63,none,none,none,none,none,none,none,none
+384,4.0,785,$,Food Truck,mexican,foodtrucks,none,none,Echo Park,448,none,none,none,none,none,none,none,none
+385,3.5,415,$,Mexican Restaurant,mexican,catering,none,none,Panorama City,424,none,none,none,none,none,none,none,none
+386,3.5,338,$,Taco Place,mexican,none,none,none,East Hollywood,371,none,none,none,none,none,none,none,none
+387,4.5,113,$,Mexican Restaurant,mexican,none,none,none,Pico-Union,164,none,none,none,none,none,none,none,none
+388,4.5,637,$,Mexican Restaurant,mexican,none,none,none,Lincoln Heights,301,none,none,none,none,none,none,none,none
+389,4.0,296,$$,Spa,skincare,saunas,massage_therapy,none,Beverly Grove,125,none,none,none,none,none,none,none,none
+390,2.5,3,$,Mexican Restaurant,mexican,none,none,none,Palms,453,none,none,none,none,none,none,none,none
+391,4.0,1255,$$,Mexican Restaurant,mexican,cocktailbars,venues,none,Naud Junction,373,none,none,none,none,none,none,none,none
+392,3.25,68,$$,Bakery,bakeries,none,none,none,Boyle Heights,414,none,none,none,none,none,none,none,none
+393,2.112520128824477,2484,$,Fast Food Restaurant,hotdogs,mexican,none,none,Westlake,297,none,none,none,none,none,none,none,none
+394,2.112520128824477,2484,$,Fast Food Restaurant,hotdogs,mexican,none,none,Van Nuys,400,none,none,none,none,none,none,none,none
+395,2.112520128824477,2484,$,Fast Food Restaurant,hotdogs,mexican,none,none,Harvard Heights,475,none,none,none,none,none,none,none,none
+396,2.112520128824477,2484,$,Fast Food Restaurant,hotdogs,mexican,none,none,Winnetka,453,none,none,none,none,none,none,none,none
+397,2.112520128824477,2484,$,Fast Food Restaurant,hotdogs,mexican,none,none,Panorama City,349,none,none,none,none,none,none,none,none
+398,2.112520128824477,2484,$,Fast Food Restaurant,hotdogs,mexican,none,none,Harbor City,424,none,none,none,none,none,none,none,none
+399,4.5,220,$,Mexican Restaurant,mexican,none,none,none,Tujunga,477,none,none,none,none,none,none,none,none
+400,4.0,299,$$,Wine Bar,bars,none,none,none,Echo Park,434,none,none,none,none,none,none,none,none
+401,3.0,477,$$,Seafood Restaurant,mexican,seafood,bars,none,El Sereno,429,none,none,none,none,none,none,none,none
+402,4.0,89,$,Mexican Restaurant,mexican,none,none,none,Naud Junction,329,none,none,none,none,none,none,none,none
+403,3.5,64,$,Mexican Restaurant,mexican,none,none,none,Florence,353,none,none,none,none,none,none,none,none
+404,2.5,5,$,Liquor Store,beer_and_wine,none,none,none,El Sereno,368,none,none,none,none,none,none,none,none
+405,3.1744186046511627,258,$,Mexican Restaurant,mexican,none,none,none,San Pedro,384,none,none,none,none,none,none,none,none
+406,3.3516483516483517,182,$,Mexican Restaurant,mexican,breakfast_brunch,none,none,Laurel Canyon,87,none,none,none,none,none,none,none,none
+407,3.3059171597633137,1690,$$,Mexican Restaurant,mexican,none,none,none,Westchester,429,none,none,none,none,none,none,none,none
+408,3.3059171597633137,1690,$$,Food,mexican,none,none,none,Sylmar,54,none,none,none,none,none,none,none,none
+409,3.8631393986723936,2561,$$,Mexican Restaurant,mexican,bars,breakfast_brunch,none,Sherman Oaks,114,none,none,none,none,none,none,none,none
+410,3.8631393986723936,2561,$$,Mexican Restaurant,mexican,bars,breakfast_brunch,none,Warner Center,445,none,none,none,none,none,none,none,none
+411,4.0,176,$,Coffee Shop,cafes,coffee,none,none,Toy District,428,none,none,none,none,none,none,none,none
+412,4.0,129,$$,Hotel,hotels,none,none,none,Beverly Grove,419,none,none,none,none,none,none,none,none
+413,4.5,186,$$,Bar,pizza,sportsbars,none,none,Hollywood,325,none,none,none,none,none,none,none,none
+414,4.0,861,$$,Indian Restaurant,indpak,vegan,vegetarian,none,Beverly Grove,423,none,none,none,none,none,none,none,none
+415,4.0,653,$$,Middle Eastern Restaurant,tradamerican,breakfast_brunch,mediterranean,none,Northridge,469,none,none,none,none,none,none,none,none
+416,4.0,2375,$$,Thai Restaurant,thai,gluten_free,noodles,none,Westwood Village,267,none,none,none,none,none,none,none,none
+417,4.0,192,$$$$,Gym,sports_clubs,gyms,spas,none,Encino,65,none,none,none,none,none,none,none,none
+418,3.5,152,$$$,Gym,gyms,sports_clubs,spas,none,Hollywood,311,none,none,none,none,none,none,none,none
+419,4.0,328,$$$,Gym,gyms,spas,sports_clubs,none,Westwood Village,230,none,none,none,none,none,none,none,none
+420,4.0,178,$$$$,Gym,gyms,spas,sports_clubs,none,Warner Center,254,none,none,none,none,none,none,none,none
+421,3.5,523,$$,Taco Place,mexican,none,none,none,Fairfax,469,none,none,none,none,none,none,none,none
+422,4.5,111,$,Bookstore,bookstores,none,none,none,Leimert Park,356,none,none,none,none,none,none,none,none
+423,3.5,882,$$,Coffee Shop,coffee,none,none,none,Westwood Village,104,none,none,none,none,none,none,none,none
+424,4.5,59,$,Coffee Shop,cafes,breakfast_brunch,none,none,Pacific Palisades,266,none,none,none,none,none,none,none,none
+425,4.407388404309902,1949,$$,Spa,waxing,skincare,none,none,Woodland Hills,321,none,none,none,none,none,none,none,none
+426,4.407388404309902,1949,$$,Health & Beauty Service,waxing,skincare,none,none,Hollywood,251,none,none,none,none,none,none,none,none
+427,4.407388404309902,1949,$$,Health & Beauty Service,waxing,skincare,none,none,Tarzana,366,none,none,none,none,none,none,none,none
+428,4.0,14,$$,Hot Dog Joint,hotdog,none,none,none,Elysian Park,493,none,none,none,none,none,none,none,none
+429,3.5,194,$$,Shopping Mall,shoppingcenters,none,none,none,Financial District,365,none,none,none,none,none,none,none,none
+430,4.0,865,$$,Italian Restaurant,italian,none,none,none,Hollywood,325,none,none,none,none,none,none,none,none
+431,4.0,396,$$,Italian Restaurant,italian,pizza,none,none,Tarzana,283,none,none,none,none,none,none,none,none
+432,4.0,2528,$$$,New American Restaurant,newamerican,cocktailbars,none,none,Financial District,211,none,none,none,none,none,none,none,none
+433,4.0,175,$$,Falafel Restaurant,kosher,mediterranean,none,none,Woodland Hills,341,none,none,none,none,none,none,none,none
+434,4.0,608,$$,Mediterranean Restaurant,falafel,none,none,none,Northridge,494,none,none,none,none,none,none,none,none
+435,2.011627906976744,43,$$,Discount Store,discountstore,none,none,none,Florence,489,none,none,none,none,none,none,none,none
+436,3.5,1950,$$,Bar,asianfusion,cocktailbars,beerbar,none,Little Tokyo,191,none,none,none,none,none,none,none,none
+437,3.726467331118494,903,$$,Italian Restaurant,italian,none,none,none,Los Feliz,257,none,none,none,none,none,none,none,none
+438,2.7826409495548963,674,$$,Fast Food Restaurant,diners,none,none,none,Northridge,176,none,none,none,none,none,none,none,none
+439,3.14067715784454,2097,$,Burger Joint,hotdogs,tradamerican,icecream,none,Sherman Oaks,275,none,none,none,none,none,none,none,none
+440,3.14067715784454,2097,$,Burger Joint,hotdogs,tradamerican,icecream,none,Woodland Hills,177,none,none,none,none,none,none,none,none
+441,3.14067715784454,2097,$,Burger Joint,hotdogs,tradamerican,icecream,none,North Hollywood,326,none,none,none,none,none,none,none,none
+442,3.14067715784454,2097,$,Burger Joint,hotdogs,tradamerican,icecream,none,West Los Angeles,417,none,none,none,none,none,none,none,none
+443,2.6666666666666665,126,$$,Shoe Store,shoes,none,none,none,Panorama City,418,none,none,none,none,none,none,none,none
+444,4.0,562,$$,Seafood Restaurant,seafood,none,none,none,Sherman Oaks,323,none,none,none,none,none,none,none,none
+445,4.0,67,$$,Fish Market,seafoodmarkets,seafood,none,none,Village Green,427,none,none,none,none,none,none,none,none
+446,4.0,1163,$$,Seafood Restaurant,seafoodmarkets,seafood,none,none,Skid Row,491,none,none,none,none,none,none,none,none
+447,3.5,116,$,Bar,divebars,musicvenues,none,none,Toy District,310,none,none,none,none,none,none,none,none
+448,4.5,109,$$$,Paper / Office Supplies Store,stationery,giftshops,none,none,Westwood Village,270,none,none,none,none,none,none,none,none
+449,4.0,30,$$$,Kids Store,childcloth,none,none,none,Windsor Square,338,none,none,none,none,none,none,none,none
+450,4.0,126,$$,Flower Shop,florists,floraldesigners,none,none,Playa del Rey,182,none,none,none,none,none,none,none,none
+451,4.0,996,$$,Health & Beauty Service,barbers,menshair,none,none,Woodland Hills,64,none,none,none,none,none,none,none,none
+452,3.0,388,$$,Chinese Restaurant,chinese,none,none,none,Chinatown,310,none,none,none,none,none,none,none,none
+453,2.625,256,$,Grocery Store,grocery,none,none,none,Wilmington,314,none,none,none,none,none,none,none,none
+454,2.625,256,$,Grocery Store,grocery,none,none,none,Watts,466,none,none,none,none,none,none,none,none
+455,2.625,256,$,Grocery Store,grocery,none,none,none,South Park,398,none,none,none,none,none,none,none,none
+456,4.5,320,$,Massage Studio,massage,none,none,none,Sherman Oaks,358,none,none,none,none,none,none,none,none
+457,2.7294117647058824,85,$$,Shoe Store,sportswear,shoes,menscloth,none,Panorama City,378,none,none,none,none,none,none,none,none
+458,3.5,53,$,Garden,gardening,none,none,none,Lake View Terrace,448,none,none,none,none,none,none,none,none
+459,4.0,374,$$,Bar,newamerican,whiskeybars,cocktailbars,none,Toluca Lake,445,none,none,none,none,none,none,none,none
+460,3.7303030303030305,165,$,Burger Joint,burgers,icecream,tradamerican,none,Eagle Rock,265,none,none,none,none,none,none,none,none
+461,4.5,244,$$,Beer Bar,newamerican,sportsbars,none,none,Pico Robertson,381,none,none,none,none,none,none,none,none
+462,4.0,770,$$,American Restaurant,newamerican,sandwiches,breakfast_brunch,none,Eagle Rock,114,none,none,none,none,none,none,none,none
+463,4.0,354,$$,Italian Restaurant,italian,pizza,none,none,Tarzana,246,none,none,none,none,none,none,none,none
+464,3.5,2309,$$,Diner,diners,burgers,pizza,none,Los Feliz,425,none,none,none,none,none,none,none,none
+465,4.0,303,$,Restaurant,burgers,tradamerican,none,none,Angeles Mesa,336,none,none,none,none,none,none,none,none
+466,3.5,45,$$,Clothing Store,laundryservices,none,none,none,Beverly Grove,442,none,none,none,none,none,none,none,none
+467,4.0,68,$$,Restaurant,bars,gastropubs,none,none,Exposition Park,182,none,none,none,none,none,none,none,none
+468,4.0,301,$$,Supermarket,grocery,none,none,none,Hermon,367,none,none,none,none,none,none,none,none
+469,2.5,15,$$,Tailor Shop,sewingalterations,laundryservices,none,none,Crenshaw,235,none,none,none,none,none,none,none,none
+470,3.5,378,$,Restaurant,icecream,breakfast_brunch,hotdogs,none,Granada Hills,129,none,none,none,none,none,none,none,none
+471,4.789522058823529,544,$,Creperie,creperies,waffles,desserts,none,Chatsworth,363,none,none,none,none,none,none,none,none
+472,3.5,383,$$,Chinese Restaurant,chinese,none,none,none,Pico Robertson,427,none,none,none,none,none,none,none,none
+473,4.0,644,$$,Asian Restaurant,ramen,noodles,soup,none,Northridge,238,none,none,none,none,none,none,none,none
+474,4.280898876404494,178,$$,Supplement Shop,healthmarkets,vitaminssupplements,none,none,Panorama City,379,none,none,none,none,none,none,none,none
+475,4.280898876404494,178,$$,Supplement Shop,healthmarkets,vitaminssupplements,none,none,Woodland Hills,127,none,none,none,none,none,none,none,none
+476,3.057142857142857,105,$$$,Clothing Store,fashion,none,none,none,Whitley Heights,357,none,none,none,none,none,none,none,none
+477,3.0,579,$$,Korean Restaurant,korean,bbq,soup,none,Westdale,417,none,none,none,none,none,none,none,none
+478,3.3950276243093924,181,$$,Video Game Store,videoandgames,none,none,none,Lake Balboa,36,none,none,none,none,none,none,none,none
+479,3.3950276243093924,181,$$,Video Game Store,videoandgames,none,none,none,Panorama City,379,none,none,none,none,none,none,none,none
+480,3.5,932,$,Pizza Place,pizza,salad,sandwiches,none,Sunset Junction,399,none,none,none,none,none,none,none,none
+481,4.0,9,$,Food,grocery,none,none,none,Vermont Square,467,none,none,none,none,none,none,none,none
+482,3.525154939846883,2743,$$$,Grocery Store,grocery,delis,beer_and_wine,none,Century City,412,none,none,none,none,none,none,none,none
+483,3.525154939846883,2743,$$$,Grocery Store,grocery,delis,beer_and_wine,none,Sherman Oaks,347,none,none,none,none,none,none,none,none
+484,3.525154939846883,2743,$$$,Grocery Store,grocery,delis,beer_and_wine,none,Tarzana,199,none,none,none,none,none,none,none,none
+485,4.0,208,$$,Bar,cocktailbars,none,none,none,Chinatown,267,none,none,none,none,none,none,none,none
+486,4.5,234,$,Asian Restaurant,korean,none,none,none,Carthay,280,none,none,none,none,none,none,none,none
+487,4.0,362,$,Burger Joint,burgers,breakfast_brunch,none,none,Boyle Heights,412,none,none,none,none,none,none,none,none
+488,4.5,115,$,Deli / Bodega,importedfood,none,none,none,Warner Center,463,none,none,none,none,none,none,none,none
+489,4.272659732540862,673,$$,Chocolate Shop,desserts,chocolate,icecream,none,Whitley Heights,422,none,none,none,none,none,none,none,none
+490,3.5,4716,$$$,New American Restaurant,newamerican,breakfast_brunch,none,none,Venice,401,none,none,none,none,none,none,none,none
+491,4.0,349,$$,Hookah Bar,lounges,none,none,none,Fairfax,497,none,none,none,none,none,none,none,none
+492,4.0,928,$$,Coffee Shop,coffee,none,none,none,Windsor Square,422,none,none,none,none,none,none,none,none
+493,3.5,652,$,Bar,cocktailbars,sportsbars,beerbar,none,Echo Park,440,none,none,none,none,none,none,none,none
+494,3.5,195,$$,Chinese Restaurant,chinese,none,none,none,Van Nuys,407,none,none,none,none,none,none,none,none
+495,4.0,1128,$,Bubble Tea Shop,bubbletea,coffee,juicebars,none,Koreatown,312,none,none,none,none,none,none,none,none
+496,4.0,1128,$,Bubble Tea Shop,bubbletea,coffee,juicebars,none,Little Tokyo,330,none,none,none,none,none,none,none,none
+497,4.5,65,$$,Hobby Shop,galleries,summer_camps,artclasses,none,Del Rey,357,none,none,none,none,none,none,none,none
+498,4.0,271,$,Mediterranean Restaurant,greek,mediterranean,none,none,Los Feliz,459,none,none,none,none,none,none,none,none
+499,3.0,40,$$,Sports Bar,sportsbars,none,none,none,San Pedro,497,none,none,none,none,none,none,none,none
+500,4.0,354,$$,Café,kosher,pretzels,mediterranean,none,Pico Robertson,230,none,none,none,none,none,none,none,none
+501,3.5,211,$,Jazz Club,lounges,karaoke,none,none,Chinatown,215,none,none,none,none,none,none,none,none
+502,3.5751633986928106,153,$,Salon / Barbershop,hair,none,none,none,Northridge,250,none,none,none,none,none,none,none,none
+503,3.5751633986928106,153,$,Salon / Barbershop,hair,none,none,none,Eagle Rock,372,none,none,none,none,none,none,none,none
+504,3.7770927968851393,3082,$,Coffee Shop,coffee,breakfast_brunch,catering,none,Hollywood,13,none,none,none,none,none,none,none,none
+505,3.7770927968851393,3082,$,Coffee Shop,coffee,breakfast_brunch,catering,none,Windsor Square,336,none,none,none,none,none,none,none,none
+506,4.5,15,$$$$,Boutique,menscloth,womenscloth,leather,none,Century City,469,none,none,none,none,none,none,none,none
+507,4.0,833,$$,Food Truck,tacos,cocktailbars,venues,none,Beverly Grove,183,none,none,none,none,none,none,none,none
+508,3.911783238815375,1587,$,Pizza Place,pizza,none,none,none,Winnetka,452,none,none,none,none,none,none,none,none
+509,3.911783238815375,1587,$,Pizza Place,pizza,none,none,none,Sylmar,63,none,none,none,none,none,none,none,none
+510,4.5,4645,$,Taco Place,mexican,none,none,none,Angelino Heights,401,none,none,none,none,none,none,none,none
+511,4.5,4645,$,Taco Place,mexican,none,none,none,Downtown,488,Gallery Row,Jewelry District,Toy District,none,none,none,none,none
+512,4.0,1423,$$,Japanese Restaurant,japanese,bbq,asianfusion,none,Sherman Oaks,103,none,none,none,none,none,none,none,none
+513,4.408675799086758,1095,$$,Burger Joint,newamerican,burgers,none,none,Carthay,355,none,none,none,none,none,none,none,none
+514,3.0,61,$$,Mexican Restaurant,mexican,breakfast_brunch,none,none,Century City,200,none,none,none,none,none,none,none,none
+515,3.5,235,$$,Mexican Restaurant,mexican,sportsbars,soup,none,Playa del Rey,499,none,none,none,none,none,none,none,none
+516,4.0,5030,$$,Korean Restaurant,korean,bbq,none,none,Koreatown,240,none,none,none,none,none,none,none,none
+517,4.0,195,$$,Pizza Place,pizza,none,none,none,Atwater Village,456,none,none,none,none,none,none,none,none
+518,4.0,612,$$,Ramen Restaurant,ramen,noodles,none,none,Little Tokyo,361,none,none,none,none,none,none,none,none
+519,3.0,521,$,Burger Joint,burgers,none,none,none,Westdale,421,none,none,none,none,none,none,none,none
+520,3.7410714285714284,560,$$,Sushi Restaurant,sushi,none,none,none,Sherman Oaks,251,none,none,none,none,none,none,none,none
+521,4.0,476,$,Pizza Place,pizza,none,none,none,Playa del Rey,435,none,none,none,none,none,none,none,none
+522,4.5,25,$,Convenience Store,beer_and_wine,none,none,none,Del Rey,355,none,none,none,none,none,none,none,none
+523,4.0,866,$,Coffee Shop,desserts,coffee,gluten_free,none,Sherman Oaks,144,none,none,none,none,none,none,none,none
+524,4.5,113,$$,Deli / Bodega,burgers,sandwiches,breakfast_brunch,none,San Pedro,373,none,none,none,none,none,none,none,none
+525,4.0,92,$,Hot Dog Joint,hotdogs,hotdog,none,none,Van Nuys,336,none,none,none,none,none,none,none,none
+526,4.0,443,$$,Taco Place,mexican,tradamerican,none,none,Pico-Union,326,none,none,none,none,none,none,none,none
+527,3.5,157,$$,Mexican Restaurant,mexican,tradamerican,none,none,Echo Park,452,none,none,none,none,none,none,none,none
+528,4.5,1119,$$,Middle Eastern Restaurant,lebanese,none,none,none,North Hollywood,290,none,none,none,none,none,none,none,none
+529,3.0,117,$$,Cosmetics Shop,othersalons,waxing,none,none,Granada Hills,255,none,none,none,none,none,none,none,none
+530,4.5,483,$,Cosmetics Shop,skincare,hairremoval,hair,none,Northridge,465,none,none,none,none,none,none,none,none
+531,4.5,158,$$,Bookstore,bookstores,none,none,none,Arts District,398,none,none,none,none,none,none,none,none
+532,4.0,119,$$,Cocktail Bar,bars,venues,tradamerican,none,Arts District,373,none,none,none,none,none,none,none,none
+533,4.0,320,$,Coffee Shop,coffee,tea,bubbletea,none,Echo Park,484,none,none,none,none,none,none,none,none
+534,4.543478260869565,23,$,Grocery Store,grocery,none,none,none,Garvanza,173,none,none,none,none,none,none,none,none
+535,3.0,129,$$,Buffet,buffets,chinese,japanese,none,Crenshaw,494,none,none,none,none,none,none,none,none
+536,4.5,118,$$,Bar,wine_bars,beergardens,cafes,none,Skid Row,325,none,none,none,none,none,none,none,none
+537,4.0,388,$$$,Sushi Restaurant,sushi,japanese,none,none,Westdale,427,none,none,none,none,none,none,none,none
+538,3.5,1424,$$$,Japanese Restaurant,newamerican,none,none,none,Century City,120,none,none,none,none,none,none,none,none
+539,3.5,426,$,Burger Joint,burgers,pancakes,none,none,Mission Hills,310,none,none,none,none,none,none,none,none
+540,3.5,411,$$,Shopping Mall,shoppingcenters,none,none,none,Whitley Heights,340,none,none,none,none,none,none,none,none
+541,4.5,670,$,American Restaurant,breakfast_brunch,burgers,none,none,Hollywood,468,none,none,none,none,none,none,none,none
+542,4.0,200,$$,Night Market,farmersmarket,foodtrucks,none,none,Whitley Heights,484,none,none,none,none,none,none,none,none
+543,4.5,59,$$,Hotel,hotels,none,none,none,Whitley Heights,337,none,none,none,none,none,none,none,none
+544,3.5,738,$$,Rock Club,musicvenues,none,none,none,Hollywood,483,none,none,none,none,none,none,none,none
+545,2.5,100,$$,Furniture / Home Store,homeandgarden,none,none,none,Tarzana,231,none,none,none,none,none,none,none,none
+546,4.0,54,$,Café,cafes,diners,coffee,none,Little Tokyo,433,none,none,none,none,none,none,none,none
+547,4.5,372,$$,Vegetarian / Vegan Restaurant,burgers,vegan,hotdogs,none,Edendale,160,none,none,none,none,none,none,none,none
+548,4.0,541,$,Ice Cream Shop,icecream,desserts,none,none,Little Tokyo,276,none,none,none,none,none,none,none,none
+549,3.5,136,$$,Hookah Bar,hookah_bars,none,none,none,Northridge,233,none,none,none,none,none,none,none,none
+550,4.0,782,$$,Burger Joint,burgers,none,none,none,Playa Vista,143,none,none,none,none,none,none,none,none
+551,3.0,79,$$,Clothing Store,womenscloth,accessories,menscloth,none,Whitley Heights,345,none,none,none,none,none,none,none,none
+552,3.619545032497679,2154,$$,Wings Joint,chicken_wings,sandwiches,none,none,Sherman Oaks,466,none,none,none,none,none,none,none,none
+553,4.0,234,$$,Chinese Restaurant,chinese,none,none,none,Northridge,224,none,none,none,none,none,none,none,none
+554,3.5,711,$$,Hotel,hotels,none,none,none,Financial District,434,none,none,none,none,none,none,none,none
+555,3.5,462,$$,Thai Restaurant,thai,none,none,none,Mar Vista,486,none,none,none,none,none,none,none,none
+556,3.689189189189189,407,$$,Pool Hall,poolhalls,sportsbars,none,none,Sherman Oaks,380,none,none,none,none,none,none,none,none
+557,4.0,454,$$,Italian Restaurant,italian,wine_bars,none,none,Westwood Village,278,none,none,none,none,none,none,none,none
+558,3.5,1654,$$,Diner,diners,desserts,breakfast_brunch,none,Los Feliz,389,none,none,none,none,none,none,none,none
+559,3.5,181,$$,Asian Restaurant,chinese,hotpot,none,none,South Central,434,none,none,none,none,none,none,none,none
+560,3.0,3,$,Liquor Store,beer_and_wine,none,none,none,Leimert Park,366,none,none,none,none,none,none,none,none
+561,3.3101822752985544,3182,$$,Mexican Restaurant,mexican,foodstands,none,none,Atwater Village,407,none,none,none,none,none,none,none,none
+562,3.3101822752985544,3182,$$,Taco Place,mexican,foodstands,none,none,Sherman Village,33,none,none,none,none,none,none,none,none
+563,2.0,45,$,Bakery,bakeries,newamerican,mexican,none,Pico-Union,335,none,none,none,none,none,none,none,none
+564,4.5,5,$$,Art Gallery,galleries,none,none,none,Chinatown,400,none,none,none,none,none,none,none,none
+565,4.5,358,$$,Mediterranean Restaurant,mediterranean,none,none,none,Warner Center,134,none,none,none,none,none,none,none,none
+566,5.0,93,$,Dessert Shop,icecream,none,none,none,Sherman Oaks,442,none,none,none,none,none,none,none,none
+567,4.5,458,$$,New American Restaurant,newamerican,asianfusion,none,none,Toluca Lake,463,none,none,none,none,none,none,none,none
+568,3.5,491,$,Indian Restaurant,indpak,none,none,none,Mar Vista,456,none,none,none,none,none,none,none,none
+569,4.183673469387755,343,$$,Lingerie Store,adult,lingerie,giftshops,none,Hollywood,473,none,none,none,none,none,none,none,none
+570,3.5,20,$,Motel,hotels,none,none,none,Hyde Park,136,none,none,none,none,none,none,none,none
+571,3.6995841995841996,481,$,Café,coffee,juicebars,bubbletea,none,Harvard Heights,409,none,none,none,none,none,none,none,none
+572,3.5,256,$$,Spa,hair,none,none,none,Mid-Wilshire,486,none,none,none,none,none,none,none,none
+573,2.6791277258566977,3531,$$,Breakfast Spot,breakfast_brunch,tradamerican,burgers,none,Westdale,359,none,none,none,none,none,none,none,none
+574,2.6791277258566977,3531,$$,Breakfast Spot,breakfast_brunch,tradamerican,burgers,none,Westchester,436,none,none,none,none,none,none,none,none
+575,2.6791277258566977,3531,$$,Breakfast Spot,breakfast_brunch,tradamerican,burgers,none,Elysian Heights,429,none,none,none,none,none,none,none,none
+576,2.6791277258566977,3531,$$,Breakfast Spot,breakfast_brunch,tradamerican,burgers,none,Leimert Park,431,none,none,none,none,none,none,none,none
+577,2.711302211302211,407,$$,Cosmetics Shop,othersalons,none,none,none,Thai Town,292,none,none,none,none,none,none,none,none
+578,4.5,334,$$,Japanese Restaurant,ramen,izakaya,sushi,none,Koreatown,477,none,none,none,none,none,none,none,none
+579,4.0,1598,$$$,Italian Restaurant,italian,none,none,none,Beverly Hills Post Office,431,none,none,none,none,none,none,none,none
+580,3.635548917102315,1339,$,Fast Food Restaurant,burgers,hotdogs,none,none,Sherman Oaks,146,none,none,none,none,none,none,none,none
+581,4.5,43,$$$,Boutique,menscloth,womenscloth,none,none,Atwater Village,462,none,none,none,none,none,none,none,none
+582,2.6011904761904763,84,$,Ice Cream Shop,bakeries,none,none,none,South Central,419,none,none,none,none,none,none,none,none
+583,4.0,1771,$$,Coffee Shop,coffee,none,none,none,Hollywood,425,none,none,none,none,none,none,none,none
+584,4.0,292,$$$,Hotel,hotels,venues,none,none,Century City,424,none,none,none,none,none,none,none,none
+585,4.0,10,$$$,Jewelry Store,propertymgmt,jewelry,none,none,Gallery Row,345,none,none,none,none,none,none,none,none
+586,4.0,146,$$,Bar,tradamerican,beerbar,salad,none,San Pedro,224,none,none,none,none,none,none,none,none
+587,4.5,403,$,Mexican Restaurant,mexican,breakfast_brunch,cafes,none,Wilmington,303,none,none,none,none,none,none,none,none
+588,4.0,518,$,Bubble Tea Shop,bubbletea,coffee,shavedice,none,Eagle Rock,136,none,none,none,none,none,none,none,none
+589,3.0,130,$,Pizza Place,pizza,none,none,none,Garvanza,280,none,none,none,none,none,none,none,none
+590,4.0,344,$$,Japanese Restaurant,sushi,teppanyaki,izakaya,none,Little Tokyo,214,none,none,none,none,none,none,none,none
+591,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,Pico-Union,382,none,none,none,none,none,none,none,none
+592,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,Pacoima,390,none,none,none,none,none,none,none,none
+593,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,Granada Hills,393,none,none,none,none,none,none,none,none
+594,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,San Pedro,311,none,none,none,none,none,none,none,none
+595,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,West Adams,482,none,none,none,none,none,none,none,none
+596,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,Angeles Mesa,302,none,none,none,none,none,none,none,none
+597,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,Westlake,497,none,none,none,none,none,none,none,none
+598,2.1563517915309447,1842,$,Fast Food Restaurant,burgers,hotdogs,tacos,none,Leimert Park,314,none,none,none,none,none,none,none,none
+599,4.0,213,$,Chinese Restaurant,chinese,none,none,none,Chinatown,462,none,none,none,none,none,none,none,none
+600,3.315068493150685,1679,$,Juice Bar,juicebars,none,none,none,Sherman Oaks,310,none,none,none,none,none,none,none,none
+601,3.315068493150685,1679,$,Juice Bar,juicebars,none,none,none,Eagle Rock,62,none,none,none,none,none,none,none,none
+602,3.315068493150685,1679,$,Juice Bar,juicebars,none,none,none,Koreatown,357,none,none,none,none,none,none,none,none
+603,3.315068493150685,1679,$,Juice Bar,juicebars,none,none,none,Thai Town,377,none,none,none,none,none,none,none,none
+604,3.315068493150685,1679,$,Juice Bar,juicebars,none,none,none,Woodland Hills,169,none,none,none,none,none,none,none,none
+605,3.315068493150685,1679,$,Juice Bar,juicebars,none,none,none,Canoga Park,406,none,none,none,none,none,none,none,none
+606,3.315068493150685,1679,$,Juice Bar,juicebars,none,none,none,Windsor Square,282,none,none,none,none,none,none,none,none
+607,2.985294117647059,68,$$$,Boutique,menscloth,womenscloth,none,none,Beverly Hills Post Office,405,none,none,none,none,none,none,none,none
+608,3.5,478,$$,Irish Pub,sportsbars,breakfast_brunch,irish_pubs,none,Whitley Heights,402,none,none,none,none,none,none,none,none
+609,4.5,250,$$,Plaza,shoppingcenters,none,none,none,Little Tokyo,271,none,none,none,none,none,none,none,none
+610,5.0,143,$$,Flower Shop,florists,none,none,none,Los Feliz,263,none,none,none,none,none,none,none,none
+611,4.5,187,$$,Liquor Store,beer_and_wine,none,none,none,Sonoratown ,265,none,none,none,none,none,none,none,none
+612,4.5,1080,$$,Mediterranean Restaurant,persian,seafood,none,none,West Los Angeles,377,none,none,none,none,none,none,none,none
+613,4.0,51,$,Coffee Shop,donuts,none,none,none,Harbor City,359,none,none,none,none,none,none,none,none
+614,4.5,304,$$,Bar,bars,gastropubs,newamerican,none,Sunset Junction,361,none,none,none,none,none,none,none,none
+615,3.5,16,$,Grocery Store,grocery,beer_and_wine,convenience,none,Arlington Heights,406,none,none,none,none,none,none,none,none
+616,4.0,449,$$,Kosher Restaurant,kosher,hotdog,burgers,none,Pico Robertson,209,none,none,none,none,none,none,none,none
+617,4.5,2284,$$,Ice Cream Shop,icecream,none,none,none,Los Feliz,290,none,none,none,none,none,none,none,none
+618,4.5,2284,$$,Ice Cream Shop,icecream,none,none,none,Windsor Square,305,none,none,none,none,none,none,none,none
+619,3.5,137,$,Thai Restaurant,thai,none,none,none,Mission Hills,123,none,none,none,none,none,none,none,none
+620,4.0,280,$$,Korean Restaurant,korean,bbq,none,none,Koreatown,394,none,none,none,none,none,none,none,none
+621,3.5569490131578947,2432,$,Sandwich Place,sandwiches,hotdogs,delis,none,Carthay,304,none,none,none,none,none,none,none,none
+622,3.5569490131578947,2432,$,Sandwich Place,sandwiches,hotdogs,delis,none,Financial District,105,Jewelry District,none,none,none,none,none,none,none
+623,3.5569490131578947,2432,$,Sandwich Place,sandwiches,hotdogs,delis,none,Thai Town,319,none,none,none,none,none,none,none,none
+624,3.5569490131578947,2432,$,Sandwich Place,sandwiches,hotdogs,delis,none,Sawtelle,434,none,none,none,none,none,none,none,none
+625,3.5569490131578947,2432,$,Sandwich Place,sandwiches,hotdogs,delis,none,Mission Hills,221,none,none,none,none,none,none,none,none
+626,3.9038461538461537,5824,$$,Café,breakfast_brunch,cafes,none,none,Beverly Grove,397,none,none,none,none,none,none,none,none
+627,3.9038461538461537,5824,$$,Deli / Bodega,breakfast_brunch,cafes,none,none,Studio City,432,none,none,none,none,none,none,none,none
+628,4.0,2460,$$,Café,breakfast_brunch,newamerican,tapasmallplates,none,Granada Hills,446,none,none,none,none,none,none,none,none
+629,3.1802325581395348,774,$$,Burger Joint,burgers,sandwiches,diners,none,Whitley Heights,381,none,none,none,none,none,none,none,none
+630,3.5,32,$,Diner,salad,breakfast_brunch,wraps,none,University Hills,461,none,none,none,none,none,none,none,none
+631,4.5,201,$,Bakery,bakeries,pizza,desserts,none,San Pedro,429,none,none,none,none,none,none,none,none
+632,4.0,9,$,Mexican Restaurant,mexican,none,none,none,Naud Junction,323,none,none,none,none,none,none,none,none
+633,3.9329427083333335,1536,$$,Juice Bar,vegan,juicebars,breakfast_brunch,none,Pacific Palisades,115,none,none,none,none,none,none,none,none
+634,3.9329427083333335,1536,$$,Juice Bar,vegan,juicebars,breakfast_brunch,none,Downtown,473,Flower District,Gallery Row,Jewelry District,Sonoratown ,none,none,none,none
+635,3.9329427083333335,1536,$$,Juice Bar,vegan,juicebars,breakfast_brunch,none,Sherman Oaks,137,none,none,none,none,none,none,none,none
+636,4.5,173,$,Juice Bar,juicebars,sandwiches,none,none,Hollywood,441,none,none,none,none,none,none,none,none
+637,4.0,150,$,Bakery,bakeries,mexican,none,none,Angelino Heights,468,none,none,none,none,none,none,none,none
+638,4.5,82,$,Korean Restaurant,mediterranean,none,none,none,Bunker Hill,462,none,none,none,none,none,none,none,none
+639,4.5,271,$,Donut Shop,donuts,none,none,none,Sherman Oaks,307,none,none,none,none,none,none,none,none
+640,2.002095557418273,1193,$,Fried Chicken Joint,hotdogs,chicken_wings,chickenshop,none,Reseda,448,none,none,none,none,none,none,none,none
+641,2.002095557418273,1193,$,Fried Chicken Joint,hotdogs,chicken_wings,chickenshop,none,Eagle Rock,427,none,none,none,none,none,none,none,none
+642,2.002095557418273,1193,$,Fried Chicken Joint,hotdogs,chicken_wings,chickenshop,none,Boyle Heights,464,none,none,none,none,none,none,none,none
+643,2.002095557418273,1193,$,Fried Chicken Joint,hotdogs,chicken_wings,chickenshop,none,San Pedro,500,none,none,none,none,none,none,none,none
+644,2.002095557418273,1193,$,Fried Chicken Joint,hotdogs,chicken_wings,chickenshop,none,Village Green,383,none,none,none,none,none,none,none,none
+645,2.002095557418273,1193,$,Fried Chicken Joint,hotdogs,chicken_wings,chickenshop,none,Lincoln Heights,429,none,none,none,none,none,none,none,none
+646,4.5,371,$$$,Japanese Restaurant,izakaya,none,none,none,Little Tokyo,463,none,none,none,none,none,none,none,none
+647,4.0,469,$$,Sushi Restaurant,japanese,sushi,none,none,Toluca Lake,415,none,none,none,none,none,none,none,none
+648,4.5,621,$$$$,Japanese Restaurant,japanese,none,none,none,Little Tokyo,453,none,none,none,none,none,none,none,none
+649,4.0,692,$$,Japanese Restaurant,sushi,ramen,none,none,Westchester,472,none,none,none,none,none,none,none,none
+650,3.5,1863,$$$,Japanese Restaurant,japanese,sushi,venues,none,Hollywood,456,none,none,none,none,none,none,none,none
+651,3.6953316953316953,407,$$,Japanese Restaurant,japanese,sushi,asianfusion,none,South Central,325,none,none,none,none,none,none,none,none
+652,3.7088607594936707,79,$,Chinese Restaurant,chinese,none,none,none,Village Green,463,none,none,none,none,none,none,none,none
+653,5.0,7,$$$$,Art Gallery,galleries,none,none,none,Mid-Wilshire,432,none,none,none,none,none,none,none,none
+654,3.5,576,$$$,Seafood Restaurant,french,bars,breakfast_brunch,none,Bunker Hill,316,none,none,none,none,none,none,none,none
+655,4.300970873786408,103,$$,Cosmetics Shop,cosmetics,skincare,none,none,Century City,432,none,none,none,none,none,none,none,none
+656,4.0,857,$$,Sushi Restaurant,sushi,japanese,korean,none,Windsor Square,456,none,none,none,none,none,none,none,none
+657,3.5,208,$$$,Hotel,hotels,venues,none,none,Carthay,329,none,none,none,none,none,none,none,none
+658,3.0,21,$,Cosmetics Shop,cosmetics,none,none,none,Baldwin Village,139,none,none,none,none,none,none,none,none
+659,3.0,520,$$,Asian Restaurant,buffets,chinese,seafood,none,Little Armenia,488,none,none,none,none,none,none,none,none
+660,4.0,876,$$,Café,coffee,breakfast_brunch,pizza,none,Beverly Grove,212,none,none,none,none,none,none,none,none
+661,4.5,72,$$,Arts & Crafts Store,artsupplies,hobbyshops,none,none,Studio City,372,none,none,none,none,none,none,none,none
+662,3.5,1144,$$,Diner,breakfast_brunch,tradamerican,cocktailbars,none,Hollywood,234,none,none,none,none,none,none,none,none
+663,3.5,645,$,Taco Place,mexican,asianfusion,foodtrucks,none,Palms,43,none,none,none,none,none,none,none,none
+664,3.0,109,$$,Department Store,deptstores,menscloth,womenscloth,none,Westchester,469,none,none,none,none,none,none,none,none
+665,4.5,175,$$,Breakfast Spot,mideastern,none,none,none,Lake Balboa,157,none,none,none,none,none,none,none,none
+666,4.0,583,$$,Ramen Restaurant,ramen,none,none,none,Palms,463,none,none,none,none,none,none,none,none
+667,4.0,1116,$$$,Brazilian Restaurant,steak,brazilian,cocktailbars,none,Tarzana,467,none,none,none,none,none,none,none,none
+668,4.15410199556541,451,$$,Juice Bar,cafes,juicebars,none,none,Windsor Square,296,none,none,none,none,none,none,none,none
+669,4.0,13,$$,Gift Shop,souvenirs,giftshops,media,none,Bunker Hill,177,none,none,none,none,none,none,none,none
+670,4.0,777,$$,Vegetarian / Vegan Restaurant,vegan,none,none,none,Del Rey,358,none,none,none,none,none,none,none,none
+671,4.292540792540793,429,$,Mexican Restaurant,mexican,none,none,none,Central-Alameda,18,none,none,none,none,none,none,none,none
+672,4.5,891,$$,Latin American Restaurant,seafood,latin,none,none,Arlington Heights,481,none,none,none,none,none,none,none,none
+673,4.0,107,$,Mexican Restaurant,mexican,none,none,none,Boyle Heights,448,none,none,none,none,none,none,none,none
+674,4.0,106,$$,Coffee Shop,coffeeroasteries,none,none,none,Century City,437,none,none,none,none,none,none,none,none
+675,4.0,109,$,Bakery,bakeries,none,none,none,Boyle Heights,389,none,none,none,none,none,none,none,none
+676,4.5,63,$,Mexican Restaurant,mexican,foodtrucks,none,none,Naud Junction,354,none,none,none,none,none,none,none,none
+677,4.0,126,$$,Sculpture Garden,bookstores,jewelry,spiritual_shop,none,Echo Park,251,none,none,none,none,none,none,none,none
+678,4.5,425,$$,Ethiopian Restaurant,ethiopian,none,none,none,Carthay,496,none,none,none,none,none,none,none,none
+679,3.5,99,$$,Bowling Alley,bowling,arcades,bars,none,South Central,231,none,none,none,none,none,none,none,none
+680,4.5,361,$$,Café,cafes,none,none,none,Echo Park,454,none,none,none,none,none,none,none,none
+681,5.0,4,$$,Neighborhood,shopping,none,none,none,Windsor Square,362,none,none,none,none,none,none,none,none
+682,3.5,203,$$,Mexican Restaurant,mexican,none,none,none,Naud Junction,298,none,none,none,none,none,none,none,none
+683,4.5,34,$$,Laundry Service,laundryservices,none,none,none,Hollywood Hills West,412,none,none,none,none,none,none,none,none
+684,4.0,107,$$,Grocery Store,grocery,beer_and_wine,delis,none,Hollywood Hills West,388,none,none,none,none,none,none,none,none
+685,2.5,101,$$,Lounge,lounges,none,none,none,Hollywood,95,none,none,none,none,none,none,none,none
+686,4.0,208,$$,Dessert Shop,french,bakeries,desserts,none,Beverly Hills Post Office,359,none,none,none,none,none,none,none,none
+687,3.9394618834080717,1561,$$,Bakery,bakeries,breakfast_brunch,coffee,none,Windsor Square,305,none,none,none,none,none,none,none,none
+688,3.5,425,$$,Mediterranean Restaurant,greek,mediterranean,none,none,Windsor Square,309,none,none,none,none,none,none,none,none
+689,5.0,91,$$,Gift Shop,accessories,galleries,giftshops,none,Eagle Rock,142,none,none,none,none,none,none,none,none
+690,3.5,373,$,Thai Restaurant,thai,none,none,none,Silver Lake,158,none,none,none,none,none,none,none,none
+691,3.9781107798525026,6373,$$,Restaurant,newamerican,sandwiches,none,none,Venice,148,none,none,none,none,none,none,none,none
+692,3.9781107798525026,6373,$$,Restaurant,newamerican,sandwiches,none,none,Bunker Hill,203,none,none,none,none,none,none,none,none
+693,2.248768472906404,203,$$$,Optical Shop,opticians,optometrists,none,none,Sherman Oaks,329,none,none,none,none,none,none,none,none
+694,5.0,90,$,Market,vegan,bakeries,delis,none,Angelino Heights,370,none,none,none,none,none,none,none,none
+695,3.9211908931698773,1142,$,Pizza Place,pizza,italian,none,none,Palms,50,none,none,none,none,none,none,none,none
+696,5.0,8,$$,Grocery Store,grocery,beer_and_wine,convenience,none,Angelino Heights,477,none,none,none,none,none,none,none,none
+697,3.0,37,$$$,Hotel,hotels,none,none,none,Whitley Heights,248,none,none,none,none,none,none,none,none
+698,3.0,72,$$$,Boutique,womenscloth,accessories,none,none,Windsor Square,279,none,none,none,none,none,none,none,none
+699,4.0,451,$$,Bar,lounges,cocktailbars,sportsbars,none,Mid-Wilshire,422,none,none,none,none,none,none,none,none
+700,4.0,367,$$,Sushi Restaurant,sushi,none,none,none,Woodland Hills,321,none,none,none,none,none,none,none,none
+701,2.2598944591029024,758,$,Pizza Place,pizza,hotdogs,none,none,Sylmar,75,none,none,none,none,none,none,none,none
+702,2.2598944591029024,758,$,Pizza Place,pizza,hotdogs,none,none,Wilmington,193,none,none,none,none,none,none,none,none
+703,2.2598944591029024,758,$,Pizza Place,pizza,hotdogs,none,none,Green Meadows,278,none,none,none,none,none,none,none,none
+704,2.2598944591029024,758,$,Pizza Place,pizza,hotdogs,none,none,Pico-Union,312,none,none,none,none,none,none,none,none
+705,2.2598944591029024,758,$,Pizza Place,pizza,hotdogs,none,none,Exposition Park,491,none,none,none,none,none,none,none,none
+706,2.2598944591029024,758,$,Pizza Place,pizza,hotdogs,none,none,San Pedro,281,none,none,none,none,none,none,none,none
+707,2.2598944591029024,758,$,Pizza Place,pizza,hotdogs,none,none,Northridge,122,none,none,none,none,none,none,none,none
+708,3.5,1578,$$,Italian Restaurant,newamerican,none,none,none,Los Feliz,383,none,none,none,none,none,none,none,none
+709,4.5,11,$$,Boutique,toys,shoes,childcloth,none,South Central,442,none,none,none,none,none,none,none,none
+710,3.5,58,$,Fast Food Restaurant,filipino,none,none,none,Glassell Park,419,none,none,none,none,none,none,none,none
+711,3.5,58,$,Filipino Restaurant,filipino,none,none,none,Beverly Park,134,none,none,none,none,none,none,none,none
+712,3.5,146,$$,Shopping Mall,shoppingcenters,none,none,none,Little Tokyo,287,none,none,none,none,none,none,none,none
+713,3.5,283,$$,Grocery Store,grocery,seafoodmarkets,markets,none,Skid Row,486,none,none,none,none,none,none,none,none
+714,4.0,827,$$,Seafood Restaurant,seafood,beerbar,sportsbars,none,Palms,333,none,none,none,none,none,none,none,none
+715,3.5,490,$$$,Hotel,hotels,none,none,none,Whitley Heights,256,none,none,none,none,none,none,none,none
+716,3.5,528,$$,Coffee Shop,coffee,desserts,none,none,Koreatown,284,none,none,none,none,none,none,none,none
+717,4.5,302,$,Sandwich Place,sandwiches,coffee,breakfast_brunch,none,Palms,471,none,none,none,none,none,none,none,none
+718,3.210796915167095,778,$,Mexican Restaurant,mexican,none,none,none,North Hollywood,436,none,none,none,none,none,none,none,none
+719,3.0,1592,$$,Mexican Restaurant,mexican,none,none,none,Chatsworth,252,none,none,none,none,none,none,none,none
+720,4.5,64,$$,Wine Shop,beer_and_wine,none,none,none,Los Feliz,332,none,none,none,none,none,none,none,none
+721,4.5,15,$$$,Shop & Service,womenscloth,accessories,hats,none,West Los Angeles,234,none,none,none,none,none,none,none,none
+722,3.5,556,$$,Italian Restaurant,italian,none,none,none,Windsor Square,427,none,none,none,none,none,none,none,none
+723,3.823529411764706,119,$,Fast Food Restaurant,cajun,hotdogs,none,none,Baldwin Village,139,none,none,none,none,none,none,none,none
+724,3.7285100286532953,1396,$$,Pizza Place,pizza,gluten_free,none,none,Los Feliz,281,none,none,none,none,none,none,none,none
+725,3.5,391,$$,Thai Restaurant,thai,salad,seafood,none,Northridge,275,none,none,none,none,none,none,none,none
+726,4.0,132,$$,Mediterranean Restaurant,greek,mediterranean,wraps,none,Sherman Oaks,443,none,none,none,none,none,none,none,none
+727,3.264705882352941,170,$,Restaurant,grocery,filipino,none,none,Glassell Park,392,none,none,none,none,none,none,none,none
+728,4.5,2134,$$$,Brazilian Restaurant,brazilian,steak,wine_bars,none,Koreatown,462,none,none,none,none,none,none,none,none
+729,3.204724409448819,127,$$,Cosmetics Shop,makeupartists,cosmetics,none,none,Tarzana,453,none,none,none,none,none,none,none,none
+730,4.5,174,$$,Pizza Place,hotdogs,pizza,none,none,Woodland Hills,225,none,none,none,none,none,none,none,none
+731,3.0,182,$$,Diner,diners,tradamerican,breakfast_brunch,none,South Central,260,none,none,none,none,none,none,none,none
+732,2.809061488673139,309,$$,Department Store,deptstores,menscloth,womenscloth,none,Century City,476,none,none,none,none,none,none,none,none
+733,4.5,97,$$,Gym,hair,none,none,none,Whitley Heights,354,none,none,none,none,none,none,none,none
+734,3.993333333333333,75,$$,Women's Store,accessories,shoes,womenscloth,none,Century City,492,none,none,none,none,none,none,none,none
+735,4.0,1074,$$,Mexican Restaurant,mexican,cocktailbars,none,none,Palms,437,none,none,none,none,none,none,none,none
+736,4.0,1228,$$,Italian Restaurant,italian,bars,none,none,Warner Center,337,none,none,none,none,none,none,none,none
+737,3.5,942,$$,Poke Place,poke,none,none,none,Beverly Grove,381,none,none,none,none,none,none,none,none
+738,3.5,324,$$,Restaurant,lounges,cocktailbars,newamerican,none,Koreatown,381,none,none,none,none,none,none,none,none
+739,3.3055925432756323,751,$$,Hotel,newamerican,breakfast_brunch,cocktailbars,none,Hollywood,242,none,none,none,none,none,none,none,none
+740,3.5,258,$$,Italian Restaurant,pizza,italian,none,none,Palms,476,none,none,none,none,none,none,none,none
+741,3.5,360,$$,Chinese Restaurant,chinese,none,none,none,Mission Hills,196,none,none,none,none,none,none,none,none
+742,4.5,100,$,American Restaurant,tradamerican,mexican,none,none,Garvanza,342,none,none,none,none,none,none,none,none
+743,3.877083333333333,240,$$,Gift Shop,cosmetics,none,none,none,Little Tokyo,246,none,none,none,none,none,none,none,none
+744,3.3230016313213704,613,$,Asian Restaurant,filipino,none,none,none,East Hollywood,480,none,none,none,none,none,none,none,none
+745,2.5,82,$$,Cosmetics Shop,othersalons,none,none,none,Westchester,469,none,none,none,none,none,none,none,none
+746,4.5,89,$,Mexican Restaurant,mexican,breakfast_brunch,none,none,Lincoln Heights,427,none,none,none,none,none,none,none,none
+747,4.0,242,$$,Pizza Place,pizza,desserts,chicken_wings,none,Sherman Oaks,360,none,none,none,none,none,none,none,none
+748,4.0,27,$$$,Restaurant,newamerican,none,none,none,Century City,425,none,none,none,none,none,none,none,none
+749,3.9057926829268292,1640,$$,Italian Restaurant,italian,pizza,catering,none,Northridge,242,none,none,none,none,none,none,none,none
+750,2.9141791044776117,268,$$,Department Store,deptstores,none,none,none,Thai Town,448,none,none,none,none,none,none,none,none
+751,4.5,411,$$,Coffee Shop,coffee,none,none,none,Los Feliz,306,none,none,none,none,none,none,none,none
+752,4.0,192,$$$,French Restaurant,french,wine_bars,venues,none,Beverly Grove,336,none,none,none,none,none,none,none,none
+753,3.0,161,$$,Spa,massage,skincare,massage_therapy,none,Sherman Oaks,350,none,none,none,none,none,none,none,none
+754,4.0,185,$,Massage Studio,massage,none,none,none,Playa del Rey,463,none,none,none,none,none,none,none,none
+755,4.0,814,$$$$,Steakhouse,sushi,steak,none,none,Beverly Hills Post Office,243,none,none,none,none,none,none,none,none
+756,4.5,1288,$,Ice Cream Shop,icecream,juicebars,sandwiches,none,Pico-Union,316,none,none,none,none,none,none,none,none
+757,4.5,83,$$,Boutique,womenscloth,none,none,none,Sunset Junction,208,none,none,none,none,none,none,none,none
+758,4.5,127,$$$$,Japanese Restaurant,sushi,japanese,none,none,Beverly Grove,273,none,none,none,none,none,none,none,none
+759,4.0,294,$$,Breakfast Spot,cafes,breakfast_brunch,catering,none,Pacific Palisades,183,none,none,none,none,none,none,none,none
+760,4.0,216,$$,Music Venue,divebars,karaoke,musicvenues,none,Tarzana,291,none,none,none,none,none,none,none,none
+761,4.5,217,$$$,Butcher,meats,seafoodmarkets,none,none,Los Feliz,335,none,none,none,none,none,none,none,none
+762,4.5,1123,$$,Ice Cream Shop,icecream,none,none,none,Gallery Row,454,Historic Core,none,none,none,none,none,none,none
+763,4.5,1123,$$,Ice Cream Shop,icecream,none,none,none,Studio City,403,none,none,none,none,none,none,none,none
+764,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Carthay,316,none,none,none,none,none,none,none,none
+765,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Elysian Heights,426,none,none,none,none,none,none,none,none
+766,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Westwood,433,none,none,none,none,none,none,none,none
+767,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Westdale,491,none,none,none,none,none,none,none,none
+768,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Leimert Park,355,none,none,none,none,none,none,none,none
+769,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,North Hollywood,170,none,none,none,none,none,none,none,none
+770,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Northridge,153,none,none,none,none,none,none,none,none
+771,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Lake Balboa,95,none,none,none,none,none,none,none,none
+772,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Pico-Union,391,none,none,none,none,none,none,none,none
+773,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Exposition Park,284,none,none,none,none,none,none,none,none
+774,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Lincoln Heights,364,none,none,none,none,none,none,none,none
+775,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Boyle Heights,314,none,none,none,none,none,none,none,none
+776,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Harbor Gateway,322,none,none,none,none,none,none,none,none
+777,1.9029998477234658,6567,$,Fast Food Restaurant,burgers,hotdogs,coffee,none,Central City,283,none,none,none,none,none,none,none,none
+778,4.0,454,$$,Korean Restaurant,korean,bbq,beerbar,none,Harvard Heights,459,none,none,none,none,none,none,none,none
+779,4.0,209,$$,Bar,lounges,none,none,none,Chinatown,286,none,none,none,none,none,none,none,none
+780,4.0,112,$$,Speakeasy,speakeasies,cocktailbars,tapasmallplates,none,Fairfax,475,none,none,none,none,none,none,none,none
+781,4.0,1255,$$,Ramen Restaurant,ramen,noodles,none,none,Little Tokyo,422,none,none,none,none,none,none,none,none
+782,4.017182130584192,291,$$,Frozen Yogurt Shop,icecream,customcakes,none,none,Mission Hills,232,none,none,none,none,none,none,none,none
+783,4.017182130584192,291,$$,Frozen Yogurt Shop,icecream,customcakes,none,none,Eagle Rock,366,none,none,none,none,none,none,none,none
+784,4.3883129123468425,4244,$$,Sandwich Place,sandwiches,salad,none,none,Bunker Hill,287,Historic Core,none,none,none,none,none,none,none
+785,4.3883129123468425,4244,$$,Sandwich Place,sandwiches,salad,none,none,Financial District,433,none,none,none,none,none,none,none,none
+786,4.3883129123468425,4244,$$,Sandwich Place,sandwiches,salad,none,none,Brentwood,414,Brentwood Circle,none,none,none,none,none,none,none
+787,4.3883129123468425,4244,$$,Food Service,sandwiches,salad,none,none,Century City,89,none,none,none,none,none,none,none,none
+788,3.5,243,$$,Sushi Restaurant,kosher,sushi,japanese,none,Pico Robertson,212,none,none,none,none,none,none,none,none
+789,4.5,1567,$$,Breakfast Spot,cafes,breakfast_brunch,newamerican,none,Mid-Wilshire,422,none,none,none,none,none,none,none,none
+790,2.5,78,$$,Hotel,hotels,none,none,none,Naud Junction,233,none,none,none,none,none,none,none,none
+791,2.5198412698412698,126,$,Dive Bar,mexican,divebars,none,none,Boyle Heights,45,none,none,none,none,none,none,none,none
+792,4.5,14,$$,Food & Drink Shop,grocery,meats,none,none,Cypress Park,490,none,none,none,none,none,none,none,none
+793,4.0,816,$$,Italian Restaurant,italian,pizza,breakfast_brunch,none,Edendale,219,none,none,none,none,none,none,none,none
+794,4.0,3170,$$,Pizza Place,pizza,italian,wine_bars,none,Sherman Oaks,222,none,none,none,none,none,none,none,none
+795,3.5,2970,$$,Sushi Restaurant,japanese,sushi,venues,none,Encino,331,none,none,none,none,none,none,none,none
+796,4.5,224,$$,Sushi Restaurant,sushi,japanese,none,none,Tarzana,333,none,none,none,none,none,none,none,none
+797,4.0,1523,$,Ice Cream Shop,desserts,icecream,gelato,none,Little Tokyo,277,none,none,none,none,none,none,none,none
+798,4.5,894,$$,Deli / Bodega,delis,salad,sandwiches,none,Little Tokyo,269,none,none,none,none,none,none,none,none
+799,4.0,13072,$$,Dessert Shop,icecream,bakeries,desserts,none,Fairfax,484,none,none,none,none,none,none,none,none
+800,4.0,13072,$$,Ice Cream Shop,icecream,bakeries,desserts,none,Silver Lake,83,none,none,none,none,none,none,none,none
+801,4.5,245,$$,Deli / Bodega,cheese,beer_and_wine,sandwiches,none,Eagle Rock,168,none,none,none,none,none,none,none,none
+802,3.5,321,$$,Coffee Shop,coffee,breakfast_brunch,juicebars,none,Westwood Village,273,none,none,none,none,none,none,none,none
+803,3.2435897435897436,468,$,Mexican Restaurant,mexican,none,none,none,Canoga Park,412,none,none,none,none,none,none,none,none
+804,4.0,836,$,Japanese Restaurant,japanese,none,none,none,Little Tokyo,264,none,none,none,none,none,none,none,none
+805,4.0,27,$$,Gift Shop,bookstores,jewelry,none,none,Encino,330,none,none,none,none,none,none,none,none
+806,3.969298245614035,456,$$,Vegetarian / Vegan Restaurant,salad,newamerican,none,none,Bunker Hill,362,none,none,none,none,none,none,none,none
+807,4.5,50,$$,Kids Store,childcloth,toys,baby_gear,none,Little Tokyo,284,none,none,none,none,none,none,none,none
+808,4.0,693,$,Thai Restaurant,thai,none,none,none,Sherman Village,59,none,none,none,none,none,none,none,none
+809,4.5,834,$$$$,Hotel,hotels,none,none,none,Beverly Hills Post Office,280,none,none,none,none,none,none,none,none
+810,4.5,834,$$$$,Hotel,hotels,none,none,none,Beverly Hills Post Office,304,none,none,none,none,none,none,none,none
+811,3.5,755,$$$,Steakhouse,steak,seafood,bars,none,Financial District,387,none,none,none,none,none,none,none,none
+812,4.0,67,$,Farmers Market,farmersmarket,none,none,none,Palms,480,none,none,none,none,none,none,none,none
+813,4.0,520,$,Dive Bar,pubs,cocktailbars,sandwiches,none,Sherman Oaks,340,none,none,none,none,none,none,none,none
+814,3.652261018889525,1747,$$,Pizza Place,pizza,italian,none,none,Beverly Hills Post Office,387,none,none,none,none,none,none,none,none
+815,3.5,5,$$$,Food & Drink Shop,grocery,none,none,none,South Central,452,none,none,none,none,none,none,none,none
+816,4.0,1666,$$$,American Restaurant,steak,tradamerican,bars,none,Whitley Heights,410,none,none,none,none,none,none,none,none
+817,3.8564650059311982,843,$$,Thai Restaurant,thai,seafood,bbq,none,Chatsworth,295,none,none,none,none,none,none,none,none
+818,4.0,126,$$,Bookstore,mystics,spiritual_shop,gemstonesandminerals,none,Venice,242,none,none,none,none,none,none,none,none
+819,4.0,109,$,Ice Cream Shop,icecream,none,none,none,Playa Vista,70,none,none,none,none,none,none,none,none
+820,4.5,797,$$$$,Japanese Restaurant,japanese,none,none,none,Palms,71,none,none,none,none,none,none,none,none
+821,4.0,437,$$,Middle Eastern Restaurant,persian,halal,mediterranean,none,West Los Angeles,499,none,none,none,none,none,none,none,none
+822,4.0,402,$,Nail Salon,othersalons,eyelashservice,waxing,none,Edendale,486,none,none,none,none,none,none,none,none
+823,4.5,64,$$,Korean Restaurant,korean,none,none,none,Arlington Heights,460,none,none,none,none,none,none,none,none
+824,4.0,63,$$,Fried Chicken Joint,foodtrucks,sandwiches,none,none,Whitley Heights,107,none,none,none,none,none,none,none,none
+825,4.0,3235,$$,Vegetarian / Vegan Restaurant,vegan,vegetarian,newamerican,none,Westwood Village,170,none,none,none,none,none,none,none,none
+826,4.244627054361568,791,$$,Juice Bar,juicebars,healthmarkets,acaibowls,none,Sunset Junction,187,none,none,none,none,none,none,none,none
+827,3.0,100,$$,Coffee Shop,coffeeroasteries,coffee,cafes,none,Beverly Hills Post Office,407,none,none,none,none,none,none,none,none
+828,2.5,190,$,Chinese Restaurant,buffets,chinese,salad,none,Village Green,411,none,none,none,none,none,none,none,none
+829,3.5,317,$,Café,bagels,bakeries,none,none,Sherman Oaks,172,none,none,none,none,none,none,none,none
+830,3.0,206,$$,Print Shop,copyshops,signmaking,custommerchandise,none,Harbor Gateway,92,none,none,none,none,none,none,none,none
+831,4.0,1088,$$,Diner,diners,breakfast_brunch,sandwiches,none,Chinatown,352,none,none,none,none,none,none,none,none
+832,3.5,93,$$,Hotel Bar,newamerican,lounges,none,none,Financial District,495,none,none,none,none,none,none,none,none
+833,2.741151977793199,1441,$,Bagel Shop,bagels,none,none,none,Windsor Square,451,none,none,none,none,none,none,none,none
+834,2.741151977793199,1441,$,Bagel Shop,bagels,none,none,none,Westwood Village,62,none,none,none,none,none,none,none,none
+835,2.741151977793199,1441,$,Bagel Shop,bagels,none,none,none,Pacific Palisades,174,none,none,none,none,none,none,none,none
+836,2.741151977793199,1441,$,Bagel Shop,bagels,none,none,none,Woodland Hills,157,none,none,none,none,none,none,none,none
+837,2.741151977793199,1441,$,Bagel Shop,bagels,none,none,none,Sherman Oaks,316,none,none,none,none,none,none,none,none
+838,4.0,662,$$,Sushi Restaurant,sushi,japanese,none,none,Sherman Oaks,297,none,none,none,none,none,none,none,none
+839,3.5,162,$,Asian Restaurant,noodles,bubbletea,asianfusion,none,Westchester,433,none,none,none,none,none,none,none,none
+840,3.5,1102,$$$,Department Store,menscloth,womenscloth,deptstores,none,Park La Brea,467,none,none,none,none,none,none,none,none
+841,3.5,1102,$$$,Department Store,menscloth,womenscloth,deptstores,none,Century City,309,none,none,none,none,none,none,none,none
+842,3.0,164,$$,Discount Store,deptstores,shoes,womenscloth,none,Beverly Grove,486,none,none,none,none,none,none,none,none
+843,3.4642857142857144,854,$$,Pizza Place,italian,pizza,none,none,Sawtelle,434,none,none,none,none,none,none,none,none
+844,3.6358442657638594,2363,$$,Chinese Restaurant,chinese,noodles,soup,none,Westwood Village,294,none,none,none,none,none,none,none,none
+845,3.6358442657638594,2363,$$,Dumpling Restaurant,chinese,noodles,soup,none,Beverly Grove,488,none,none,none,none,none,none,none,none
+846,4.0,343,$$,Bakery,bakeries,desserts,cupcakes,none,Sherman Oaks,316,none,none,none,none,none,none,none,none
+847,4.5,223,$$$$,Sushi Restaurant,sushi,japanese,none,none,Beverly Hills Post Office,257,none,none,none,none,none,none,none,none
+848,3.67828418230563,373,$$,Pizza Place,pizza,italian,none,none,Granada Hills,454,none,none,none,none,none,none,none,none
+849,3.67828418230563,373,$$,Supermarket,pizza,italian,none,none,Beverly Park,496,Westlake,none,none,none,none,none,none,none
+850,4.0,3470,$$,BBQ Joint,korean,bbq,none,none,Koreatown,496,none,none,none,none,none,none,none,none
+851,3.5,551,$$,Italian Restaurant,italian,wine_bars,pizza,none,Century City,470,none,none,none,none,none,none,none,none
+852,3.6376404494382024,712,$$,Mexican Restaurant,mexican,none,none,none,Bunker Hill,211,none,none,none,none,none,none,none,none
+853,3.8659326424870466,3860,$$,Japanese Restaurant,japanese,sushi,none,none,Encino,326,none,none,none,none,none,none,none,none
+854,2.7737430167597767,179,$$,Paper / Office Supplies Store,officeequipment,copyshops,shredding,none,Harbor Gateway,477,none,none,none,none,none,none,none,none
+855,3.5,562,$$,Italian Restaurant,pizza,italian,seafood,none,Sherman Oaks,167,none,none,none,none,none,none,none,none
+856,4.0,1381,$$,Gastropub,newamerican,bars,breakfast_brunch,none,Sherman Oaks,293,none,none,none,none,none,none,none,none
+857,4.5,764,$$,Yoga Studio,yoga,massage,none,none,Sunset Junction,389,none,none,none,none,none,none,none,none
+858,4.5,764,$$,Yoga Studio,yoga,massage,none,none,Eagle Rock,37,none,none,none,none,none,none,none,none
+859,3.0,221,$$,Hawaiian Restaurant,hawaiian,bbq,none,none,Mission Hills,117,none,none,none,none,none,none,none,none
+860,4.0,4091,$$,Mediterranean Restaurant,mediterranean,lebanese,halal,none,Fairfax,347,none,none,none,none,none,none,none,none
+861,4.0,705,$$,Restaurant,newamerican,breakfast_brunch,none,none,Koreatown,411,none,none,none,none,none,none,none,none
+862,4.0,2027,$$$,New American Restaurant,newamerican,none,none,none,Bunker Hill,83,none,none,none,none,none,none,none,none
+863,4.0,63,$$,Sake Bar,bars,japanese,none,none,Angelino Heights,386,none,none,none,none,none,none,none,none
+864,3.0,54,$,Thrift / Vintage Store,thrift_stores,nonprofit,furniture,none,Atwater Village,467,none,none,none,none,none,none,none,none
+865,3.0,97,$,Clothing Store,thrift_stores,nonprofit,none,none,Hollywood,478,none,none,none,none,none,none,none,none
+866,3.0,715,$$,Chinese Restaurant,chinese,asianfusion,gluten_free,none,Warner Center,187,none,none,none,none,none,none,none,none
+867,4.5,58,$,Food Truck,foodtrucks,tacos,none,none,Koreatown,371,none,none,none,none,none,none,none,none
+868,3.55,120,$,Bakery,bakeries,none,none,none,East Hollywood,270,none,none,none,none,none,none,none,none
+869,4.5,60,$$,Farmers Market,farmersmarket,none,none,none,Pacific Palisades,112,none,none,none,none,none,none,none,none
+870,4.5,67,$$,Pub,pubs,musicvenues,none,none,South Central,373,none,none,none,none,none,none,none,none
+871,4.0,1567,$$,Italian Restaurant,italian,pizza,none,none,Los Feliz,417,none,none,none,none,none,none,none,none
+872,4.5,160,$$,Restaurant,markets,gluten_free,none,none,Atwater Village,460,none,none,none,none,none,none,none,none
+873,4.0,239,$,American Restaurant,bakeries,sandwiches,breakfast_brunch,none,Pacific Palisades,297,none,none,none,none,none,none,none,none
+874,3.5,129,$$,Pizza Place,pizza,italian,none,none,Pacific Palisades,168,none,none,none,none,none,none,none,none
+875,2.53418284789644,2472,$,Chinese Restaurant,chinese,hotdogs,none,none,Century City,435,none,none,none,none,none,none,none,none
+876,2.53418284789644,2472,$,Chinese Restaurant,chinese,hotdogs,none,none,Northridge,235,none,none,none,none,none,none,none,none
+877,2.53418284789644,2472,$,Chinese Restaurant,chinese,hotdogs,none,none,Eagle Rock,359,none,none,none,none,none,none,none,none
+878,2.53418284789644,2472,$,Chinese Restaurant,chinese,hotdogs,none,none,Pacific Palisades,281,none,none,none,none,none,none,none,none
+879,2.53418284789644,2472,$,Chinese Restaurant,chinese,hotdogs,none,none,Harbor City,370,none,none,none,none,none,none,none,none
+880,2.53418284789644,2472,$,Chinese Restaurant,chinese,hotdogs,none,none,Sherman Oaks,179,none,none,none,none,none,none,none,none
+881,2.5,678,$$,Bakery,sandwiches,salad,soup,none,Westchester,391,none,none,none,none,none,none,none,none
+882,2.4080749819754868,1387,$,Pizza Place,pizza,none,none,none,Westwood Village,321,none,none,none,none,none,none,none,none
+883,2.4080749819754868,1387,$,Pizza Place,pizza,none,none,none,Laurel Canyon,453,none,none,none,none,none,none,none,none
+884,2.4080749819754868,1387,$,Pizza Place,pizza,none,none,none,Mission Hills,140,none,none,none,none,none,none,none,none
+885,2.4080749819754868,1387,$,Pizza Place,pizza,none,none,none,Glassell Park,414,none,none,none,none,none,none,none,none
+886,2.4080749819754868,1387,$,Pizza Place,pizza,none,none,none,Hyde Park,56,none,none,none,none,none,none,none,none
+887,4.092647937836222,1673,$,Bakery,bakeries,none,none,none,Valley Glen,418,none,none,none,none,none,none,none,none
+888,3.9170748775367388,1429,$$,Bakery,bakeries,coffee,cakeshop,none,Koreatown,389,none,none,none,none,none,none,none,none
+889,3.9170748775367388,1429,$$,Bakery,bakeries,coffee,cakeshop,none,Encino,487,none,none,none,none,none,none,none,none
+890,3.9170748775367388,1429,$$,Bakery,bakeries,coffee,cakeshop,none,Financial District,310,Jewelry District,none,none,none,none,none,none,none
+891,3.5,616,$$,Breakfast Spot,newamerican,breakfast_brunch,tradamerican,none,Rustic Canyon,244,none,none,none,none,none,none,none,none
+892,4.0,397,$$,Bar,cocktailbars,tacos,tapasmallplates,none,Sonoratown ,268,none,none,none,none,none,none,none,none
+893,4.412611717974181,1007,$,Ice Cream Shop,icecream,gelato,none,none,Sunset Junction,168,none,none,none,none,none,none,none,none
+894,4.0,574,$,Taco Place,mexican,none,none,none,Del Rey,366,none,none,none,none,none,none,none,none
+895,4.5,54,$$,Thrift / Vintage Store,thrift_stores,furniture,none,none,Del Rey,306,none,none,none,none,none,none,none,none
+896,4.5,170,$,Mediterranean Restaurant,mediterranean,none,none,none,Hollywood,438,none,none,none,none,none,none,none,none
+897,4.0,922,$$,Mexican Restaurant,seafood,mexican,bars,none,Bunker Hill,423,none,none,none,none,none,none,none,none
+898,4.5,261,$$,Pizza Place,pizza,italian,chicken_wings,none,Harbor City,352,none,none,none,none,none,none,none,none
+899,4.5,308,$$,Coffee Shop,coffee,breakfast_brunch,none,none,Financial District,89,Jewelry District,none,none,none,none,none,none,none
+900,4.5,308,$$,Coffee Shop,coffee,breakfast_brunch,none,none,Hollywood,46,none,none,none,none,none,none,none,none
+901,4.0,1459,$,Vietnamese Restaurant,vietnamese,noodles,chinese,none,Chinatown,381,none,none,none,none,none,none,none,none
+902,3.5,210,$,Noodle House,vietnamese,none,none,none,Harbor Gateway,84,none,none,none,none,none,none,none,none
+903,4.0,492,$$,Vietnamese Restaurant,vietnamese,noodles,cajun,none,Chatsworth,237,none,none,none,none,none,none,none,none
+904,4.034920634920635,1890,$,Vietnamese Restaurant,vietnamese,none,none,none,Reseda,234,none,none,none,none,none,none,none,none
+905,4.0,155,$$,Vietnamese Restaurant,vietnamese,thai,none,none,Los Feliz,394,none,none,none,none,none,none,none,none
+906,4.0,633,$,Bakery,bakeries,desserts,customcakes,none,Chinatown,224,none,none,none,none,none,none,none,none
+907,3.5,933,$$,Vietnamese Restaurant,vietnamese,none,none,none,Palms,356,none,none,none,none,none,none,none,none
+908,4.0,48,$$,Clothing Store,womenscloth,menscloth,accessories,none,Windsor Square,374,none,none,none,none,none,none,none,none
+909,3.5,220,$$,Deli / Bodega,delis,kosher,sandwiches,none,Pico Robertson,287,none,none,none,none,none,none,none,none
+910,4.0,119,$,Food Truck,foodtrucks,seafood,none,none,Beverly Hills Post Office,464,none,none,none,none,none,none,none,none
+911,4.5,2348,$$,Taiwanese Restaurant,taiwanese,chinese,bubbletea,none,Sunset Junction,404,none,none,none,none,none,none,none,none
+912,4.0,539,$$,Bar,bars,tradamerican,burgers,none,Sherman Oaks,234,none,none,none,none,none,none,none,none
+913,4.0,625,$,Liquor Store,japanese,thai,none,none,Thai Town,497,none,none,none,none,none,none,none,none
+914,3.5492772667542707,761,$,Frozen Yogurt Shop,icecream,none,none,none,Little Tokyo,345,none,none,none,none,none,none,none,none
+915,3.5492772667542707,761,$,Dessert Shop,icecream,none,none,none,Venice,474,none,none,none,none,none,none,none,none
+916,4.0,1021,$$,Middle Eastern Restaurant,mideastern,mediterranean,none,none,Sherman Oaks,38,none,none,none,none,none,none,none,none
+917,3.340909090909091,66,$,Sandwich Place,sandwiches,mediterranean,hotdogs,none,South Central,242,none,none,none,none,none,none,none,none
+918,4.5,997,$,Middle Eastern Restaurant,mideastern,falafel,greek,none,Northridge,214,none,none,none,none,none,none,none,none
+919,1.8034081463009144,1203,$,Pizza Place,pizza,italian,chicken_wings,none,Mar Vista,446,none,none,none,none,none,none,none,none
+920,1.8034081463009144,1203,$,Pizza Place,pizza,italian,chicken_wings,none,Harvard Heights,496,none,none,none,none,none,none,none,none
+921,1.8034081463009144,1203,$,Pizza Place,pizza,italian,chicken_wings,none,South Central,289,none,none,none,none,none,none,none,none
+922,1.8034081463009144,1203,$,Pizza Place,pizza,italian,chicken_wings,none,San Pedro,245,none,none,none,none,none,none,none,none
+923,1.8034081463009144,1203,$,Pizza Place,pizza,italian,chicken_wings,none,Florence,473,none,none,none,none,none,none,none,none
+924,1.8034081463009144,1203,$,Pizza Place,pizza,italian,chicken_wings,none,Leimert Park,423,none,none,none,none,none,none,none,none
+925,4.0,116,$,Mexican Restaurant,mexican,juicebars,none,none,Naud Junction,278,none,none,none,none,none,none,none,none
+926,4.0,3805,$$,Gastropub,bars,gastropubs,tradamerican,none,West Los Angeles,342,none,none,none,none,none,none,none,none
+927,4.0,1240,$,Mexican Restaurant,mexican,none,none,none,Beverly Grove,391,none,none,none,none,none,none,none,none
+928,4.0,91,$$,Farmers Market,farmersmarket,none,none,none,Playa Vista,127,none,none,none,none,none,none,none,none
+929,5.0,5,$$$,Miscellaneous Shop,womenscloth,galleries,menscloth,none,Jewelry District,281,none,none,none,none,none,none,none,none
+930,4.0,922,$$,Poke Place,hawaiian,poke,japanese,none,Westwood Village,194,none,none,none,none,none,none,none,none
+931,4.5,587,$$,Poke Place,poke,none,none,none,Tarzana,36,none,none,none,none,none,none,none,none
+932,4.451923076923077,208,$$$,Clothing Store,accessories,stationery,homedecor,none,Koreatown,422,none,none,none,none,none,none,none,none
+933,4.451923076923077,208,$$$,Stationery Store,accessories,stationery,homedecor,none,Little Tokyo,373,none,none,none,none,none,none,none,none
+934,4.085589396503102,3546,$$,Poke Place,poke,none,none,none,Whitley Heights,471,none,none,none,none,none,none,none,none
+935,4.252818733738074,1153,$$,Poke Place,poke,bubbletea,juicebars,none,Mid-Wilshire,66,none,none,none,none,none,none,none,none
+936,4.5,129,$$,South American Restaurant,peruvian,chickenshop,none,none,Pico-Union,182,none,none,none,none,none,none,none,none
+937,1.8336787564766839,965,$,Fried Chicken Joint,chicken_wings,hotdogs,none,none,Laurel Canyon,485,Valley Village,none,none,none,none,none,none,none
+938,1.8336787564766839,965,$,Fried Chicken Joint,chicken_wings,hotdogs,none,none,West Adams,454,none,none,none,none,none,none,none,none
+939,1.8336787564766839,965,$,Fried Chicken Joint,chicken_wings,hotdogs,none,none,Watts,370,none,none,none,none,none,none,none,none
+940,4.5,223,$$,Sandwich Place,delis,sandwiches,italian,none,Fairfax,486,none,none,none,none,none,none,none,none
+941,3.869565217391304,92,$,Sandwich Place,sandwiches,hotdogs,salad,none,South Central,174,none,none,none,none,none,none,none,none
+942,4.5,473,$$,Greek Restaurant,mediterranean,greek,gelato,none,Tarzana,419,none,none,none,none,none,none,none,none
+943,4.11756040070713,1697,$$,Juice Bar,juicebars,vegan,healthmarkets,none,Flower District,385,Sonoratown ,none,none,none,none,none,none,none
+944,4.11756040070713,1697,$$,Juice Bar,juicebars,vegan,healthmarkets,none,Westwood Village,139,none,none,none,none,none,none,none,none
+945,4.11756040070713,1697,$$,Juice Bar,juicebars,vegan,healthmarkets,none,Venice,178,none,none,none,none,none,none,none,none
+946,4.11756040070713,1697,$$,Juice Bar,juicebars,vegan,healthmarkets,none,Windsor Square,376,none,none,none,none,none,none,none,none
+947,4.11756040070713,1697,$$,Juice Bar,juicebars,vegan,healthmarkets,none,Bunker Hill,397,none,none,none,none,none,none,none,none
+948,4.0,683,$,Pizza Place,pizza,chicken_wings,italian,none,Little Tokyo,338,none,none,none,none,none,none,none,none
+949,4.5,588,$,Donut Shop,donuts,bakeries,none,none,Westdale,394,none,none,none,none,none,none,none,none
+950,4.0,930,$$,Bakery,coffee,sandwiches,cakeshop,none,Atwater Village,481,none,none,none,none,none,none,none,none
+951,4.5,546,$$,Italian Restaurant,italian,seafood,none,none,Toluca Lake,452,none,none,none,none,none,none,none,none
+952,3.5,60,$,Latin American Restaurant,salvadoran,none,none,none,Beverly Park,124,none,none,none,none,none,none,none,none
+953,4.0,212,$$,South American Restaurant,latin,peruvian,seafood,none,Van Nuys,42,none,none,none,none,none,none,none,none
+954,3.0,568,$,Mexican Restaurant,mexican,none,none,none,Valley Glen,451,none,none,none,none,none,none,none,none
+955,4.5,171,$,Tea Room,bubbletea,coffee,juicebars,none,Lake Balboa,63,none,none,none,none,none,none,none,none
+956,3.8137254901960786,102,$,Sandwich Place,sandwiches,delis,none,none,Harbor Gateway,104,none,none,none,none,none,none,none,none
+957,3.8137254901960786,102,$,Sandwich Place,sandwiches,delis,none,none,Crenshaw,116,none,none,none,none,none,none,none,none
+958,3.8137254901960786,102,$,Sandwich Place,sandwiches,delis,none,none,Brookside,203,Civic Center,Highland Park,Little Tokyo,Melrose Hill,Sun Valley,Victoria Park,none,none
+959,3.7376126126126126,444,$$,Juice Bar,juicebars,none,none,none,Los Feliz,347,none,none,none,none,none,none,none,none
+960,4.0,574,$$,Coffee Shop,coffee,breakfast_brunch,none,none,Granada Hills,447,none,none,none,none,none,none,none,none
+961,3.5,597,$$,Dumpling Restaurant,chinese,none,none,none,Playa Vista,21,none,none,none,none,none,none,none,none
+962,2.0,12,$$,Women's Store,womenscloth,accessories,none,none,Watts,490,none,none,none,none,none,none,none,none
+963,4.0,12,$$,American Restaurant,italian,seafood,mexican,none,Larchmont,269,none,none,none,none,none,none,none,none
+964,3.0047818987637043,4287,$$,Supermarket,grocery,none,none,none,Sawtelle,199,none,none,none,none,none,none,none,none
+965,3.0047818987637043,4287,$$,Supermarket,grocery,none,none,none,Westchester,466,none,none,none,none,none,none,none,none
+966,3.0047818987637043,4287,$$,Supermarket,grocery,none,none,none,Westwood Village,455,none,none,none,none,none,none,none,none
+967,3.0047818987637043,4287,$$,Supermarket,grocery,none,none,none,Westdale,496,none,none,none,none,none,none,none,none
+968,3.0047818987637043,4287,$$,Supermarket,grocery,none,none,none,Woodland Hills,225,none,none,none,none,none,none,none,none
+969,3.0047818987637043,4287,$$,Supermarket,grocery,none,none,none,Pacific Palisades,400,none,none,none,none,none,none,none,none
+970,3.0047818987637043,4287,$$,Supermarket,grocery,none,none,none,Chatsworth,396,none,none,none,none,none,none,none,none
+971,3.5,883,$$,Noodle House,ramen,none,none,none,Reseda,479,none,none,none,none,none,none,none,none
+972,4.011145942180425,2871,$,Donut Shop,donuts,none,none,none,Century City,435,none,none,none,none,none,none,none,none
+973,4.0,77,$$$,Doctor's Office,cosmeticsurgeons,medicalspa,healthcoach,none,Beverly Hills Post Office,439,none,none,none,none,none,none,none,none
+974,4.5,322,$$,Health & Beauty Service,medicalspa,laser_hair_removal,skincare,none,Encino,450,none,none,none,none,none,none,none,none
+975,4.0,361,$$,Beer Garden,cocktailbars,musicvenues,beergardens,none,Arts District,163,none,none,none,none,none,none,none,none
+976,5.0,4,$$$,Furniture / Home Store,furniture,homedecor,interiordesign,none,Beverly Grove,396,none,none,none,none,none,none,none,none
+977,4.5,298,$,Mexican Restaurant,mexican,none,none,none,Cypress Park,490,none,none,none,none,none,none,none,none
+978,4.5,3,$$$,Antique Shop,artsandcrafts,antiques,galleries,none,Mid-Wilshire,254,none,none,none,none,none,none,none,none
+979,4.0,402,$,Chinese Restaurant,chinese,none,none,none,Studio City,203,none,none,none,none,none,none,none,none
+980,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Woodland Hills,92,none,none,none,none,none,none,none,none
+981,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Beverly Hills Post Office,320,none,none,none,none,none,none,none,none
+982,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Panorama City,304,none,none,none,none,none,none,none,none
+983,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Windsor Square,393,none,none,none,none,none,none,none,none
+984,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Glassell Park,498,none,none,none,none,none,none,none,none
+985,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Mission Hills,207,none,none,none,none,none,none,none,none
+986,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,San Pedro,415,none,none,none,none,none,none,none,none
+987,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Florence,284,none,none,none,none,none,none,none,none
+988,2.514025245441795,2139,$$,Pharmacy,drugstores,convenience,none,none,Wilmington,133,none,none,none,none,none,none,none,none
+989,3.892302852348993,4768,$$,Korean Restaurant,korean,bbq,none,none,Harvard Heights,356,none,none,none,none,none,none,none,none
+990,3.0,9,$$,Liquor Store,beer_and_wine,none,none,none,Canoga Park,398,none,none,none,none,none,none,none,none
+991,3.219972067039106,716,$$,Mexican Restaurant,mexican,fooddeliveryservices,cocktailbars,none,Echo Park,430,none,none,none,none,none,none,none,none
+992,4.0,847,$,Sushi Restaurant,sushi,japanese,korean,none,Koreatown,38,none,none,none,none,none,none,none,none
+993,3.6988188976377954,508,$$$,Flower Shop,gardening,indoorlandscaping,venues,none,Fairfax,320,none,none,none,none,none,none,none,none
+994,3.6988188976377954,508,$$$,Flower Shop,gardening,indoorlandscaping,venues,none,Baldwin Hills,289,none,none,none,none,none,none,none,none
+995,4.0,39,$$,Hardware Store,hardware,none,none,none,Thai Town,483,none,none,none,none,none,none,none,none
+996,4.0,639,$,Diner,diners,breakfast_brunch,burgers,none,Del Rey,463,none,none,none,none,none,none,none,none
+997,3.0,1432,$$,Mexican Restaurant,mexican,none,none,none,Financial District,484,none,none,none,none,none,none,none,none
+998,4.5,65,$$,Organic Grocery,beer_and_wine,coffee,cheese,none,Palms,367,none,none,none,none,none,none,none,none
+999,2.3823948681397007,1403,$,Clothing Store,deptstores,womenscloth,homedecor,none,Westlake,283,none,none,none,none,none,none,none,none
+1000,2.3823948681397007,1403,$,Clothing Store,deptstores,womenscloth,homedecor,none,Westchester,386,none,none,none,none,none,none,none,none
+1001,2.3823948681397007,1403,$,Clothing Store,deptstores,womenscloth,homedecor,none,Crenshaw,485,none,none,none,none,none,none,none,none
+1002,2.3823948681397007,1403,$,Clothing Store,deptstores,womenscloth,homedecor,none,Beverly Park,414,none,none,none,none,none,none,none,none
+1003,2.3823948681397007,1403,$,Clothing Store,deptstores,womenscloth,homedecor,none,Mission Hills,228,none,none,none,none,none,none,none,none
+1004,2.3823948681397007,1403,$,Clothing Store,deptstores,womenscloth,homedecor,none,Vermont-Slauson,427,none,none,none,none,none,none,none,none
+1005,4.5,64,$$,Adult Boutique,adult,none,none,none,Sunset Junction,98,none,none,none,none,none,none,none,none
+1006,3.0,116,$$,Pizza Place,pizza,none,none,none,Tarzana,333,none,none,none,none,none,none,none,none
+1007,4.5,364,$,Bakery,bakeries,none,none,none,Eagle Rock,82,none,none,none,none,none,none,none,none
+1008,4.5,1078,$$,Gastropub,tapasmallplates,gastropubs,latin,none,Hollywood,277,none,none,none,none,none,none,none,none
+1009,4.0,942,$$$,Steakhouse,steak,seafood,wine_bars,none,Warner Center,277,none,none,none,none,none,none,none,none
+1010,3.409336419753086,1296,$$,Cosmetics Shop,cosmetics,none,none,none,Whitley Heights,387,none,none,none,none,none,none,none,none
+1011,3.409336419753086,1296,$$,Cosmetics Shop,cosmetics,none,none,none,Beverly Hills Post Office,379,none,none,none,none,none,none,none,none
+1012,3.409336419753086,1296,$$,Cosmetics Shop,cosmetics,none,none,none,Pacific Palisades,138,none,none,none,none,none,none,none,none
+1013,2.5,186,$$,Cocktail Bar,lounges,none,none,none,Rustic Canyon,234,none,none,none,none,none,none,none,none
+1014,4.0,4549,$$,Mexican Restaurant,bars,mexican,breakfast_brunch,none,Playa Vista,121,none,none,none,none,none,none,none,none
+1015,4.5,116,$,Thrift / Vintage Store,thrift_stores,antiques,vintage,none,El Sereno,307,none,none,none,none,none,none,none,none
+1016,2.0,29,$,Motel,hotels,none,none,none,University Hills,363,none,none,none,none,none,none,none,none
+1017,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Van Nuys,370,none,none,none,none,none,none,none,none
+1018,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Van Nuys,412,none,none,none,none,none,none,none,none
+1019,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Sherman Oaks,346,none,none,none,none,none,none,none,none
+1020,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Los Feliz,408,none,none,none,none,none,none,none,none
+1021,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Playa del Rey,500,none,none,none,none,none,none,none,none
+1022,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Exposition Park,476,none,none,none,none,none,none,none,none
+1023,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Pacific Palisades,98,none,none,none,none,none,none,none,none
+1024,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Tarzana,368,none,none,none,none,none,none,none,none
+1025,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Harbor City,383,none,none,none,none,none,none,none,none
+1026,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Mar Vista,409,none,none,none,none,none,none,none,none
+1027,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Wilmington,112,none,none,none,none,none,none,none,none
+1028,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Watts,367,none,none,none,none,none,none,none,none
+1029,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Mission Hills,275,none,none,none,none,none,none,none,none
+1030,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Lincoln Heights,285,none,none,none,none,none,none,none,none
+1031,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Lake Balboa,62,none,none,none,none,none,none,none,none
+1032,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Panorama City,316,none,none,none,none,none,none,none,none
+1033,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Green Meadows,289,none,none,none,none,none,none,none,none
+1034,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Vermont Knolls,450,none,none,none,none,none,none,none,none
+1035,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Florence,461,none,none,none,none,none,none,none,none
+1036,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Vermont-Slauson,475,none,none,none,none,none,none,none,none
+1037,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Northridge,315,none,none,none,none,none,none,none,none
+1038,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Panorama City,420,none,none,none,none,none,none,none,none
+1039,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,Bunker Hill,158,none,none,none,none,none,none,none,none
+1040,2.5918300653594772,3060,$,Sandwich Place,sandwiches,none,none,none,West Adams,320,none,none,none,none,none,none,none,none
+1041,4.0,3192,$$$,Sushi Restaurant,sushi,japanese,none,none,Beverly Hills Post Office,260,none,none,none,none,none,none,none,none
+1042,4.5,147,$$,Coffee Shop,coffee,vintage,gardening,none,Del Rey,341,none,none,none,none,none,none,none,none
+1043,4.5,2356,$,Ice Cream Shop,icecream,none,none,none,Westwood Village,487,none,none,none,none,none,none,none,none
+1044,4.0,445,$$,Sake Bar,sushi,ramen,izakaya,none,Mid-Wilshire,378,none,none,none,none,none,none,none,none
+1045,4.0,896,$$,Sushi Restaurant,japanese,sushi,seafood,none,Del Rey,319,none,none,none,none,none,none,none,none
+1046,4.5,3577,$$,Ice Cream Shop,icecream,none,none,none,Windsor Square,439,none,none,none,none,none,none,none,none
+1047,4.5,3577,$$,Ice Cream Shop,icecream,none,none,none,Venice,494,none,none,none,none,none,none,none,none
+1048,3.3838582677165356,508,$,Bagel Shop,bagels,sandwiches,breakfast_brunch,none,Windsor Square,343,none,none,none,none,none,none,none,none
+1049,4.5,358,$$,Café,diners,breakfast_brunch,cafes,none,San Pedro,497,none,none,none,none,none,none,none,none
+1050,4.287298387096774,496,$$,Seafood Restaurant,seafood,none,none,none,Wilmington,200,none,none,none,none,none,none,none,none
+1051,3.7884764114462492,1293,$,Japanese Restaurant,japanese,sushi,poke,none,Sherman Oaks,330,none,none,none,none,none,none,none,none
+1052,4.0,321,$,Vietnamese Restaurant,sandwiches,vietnamese,coffee,none,Reseda,186,none,none,none,none,none,none,none,none
+1053,4.0,146,$$,Gift Shop,toys,baby_gear,accessories,none,Little Tokyo,254,none,none,none,none,none,none,none,none
+1054,3.0,114,$,Grocery Store,intlgrocery,none,none,none,West Los Angeles,433,none,none,none,none,none,none,none,none
+1055,4.0,97,$,Middle Eastern Restaurant,mideastern,hotdogs,none,none,Fashion District,259,none,none,none,none,none,none,none,none
+1056,4.3915094339622645,212,$,Mediterranean Restaurant,bakeries,none,none,none,East Hollywood,392,none,none,none,none,none,none,none,none
+1057,3.5,707,$$,Restaurant,newamerican,breakfast_brunch,seafood,none,Sunset Junction,328,none,none,none,none,none,none,none,none
+1058,2.4958677685950414,121,$,Pizza Place,pizza,italian,none,none,University Hills,436,none,none,none,none,none,none,none,none
+1059,4.5,847,$,Ice Cream Shop,icecream,none,none,none,Naud Junction,421,none,none,none,none,none,none,none,none
+1060,3.1796875,64,$,Grocery Store,grocery,seafoodmarkets,none,none,Glassell Park,419,none,none,none,none,none,none,none,none
+1061,4.0,2055,$$,Seafood Restaurant,seafood,hawaiian,none,none,Financial District,369,none,none,none,none,none,none,none,none
+1062,4.5,165,$$,Comic Shop,comicbooks,none,none,none,Sunset Junction,208,none,none,none,none,none,none,none,none
+1063,3.5,303,$$,Flower Shop,gardening,none,none,none,Laurel Canyon,381,none,none,none,none,none,none,none,none
+1064,4.0,156,$$,Korean Restaurant,korean,none,none,none,South Central,158,none,none,none,none,none,none,none,none
+1065,4.0,344,$,Middle Eastern Restaurant,mediterranean,mideastern,none,none,Atwater Village,413,none,none,none,none,none,none,none,none
+1066,3.5897058823529413,3400,$$,Taco Place,mexican,seafood,bars,none,Echo Park,442,none,none,none,none,none,none,none,none
+1067,3.5897058823529413,3400,$$,Mexican Restaurant,mexican,seafood,bars,none,Toy District,489,none,none,none,none,none,none,none,none
+1068,4.0,662,$$,Korean Restaurant,korean,japanese,asianfusion,none,Koreatown,380,none,none,none,none,none,none,none,none
+1069,4.0,1403,$$,Japanese Restaurant,japanese,hotpot,none,none,Little Tokyo,287,none,none,none,none,none,none,none,none
+1070,4.5,125,$$,Cosmetics Shop,blowoutservices,hairstylists,waxing,none,Edendale,163,none,none,none,none,none,none,none,none
+1071,3.3868817204301074,2325,$$,Burger Joint,tradamerican,hotdogs,burgers,none,Century City,438,none,none,none,none,none,none,none,none
+1072,3.3868817204301074,2325,$$,Burger Joint,tradamerican,hotdogs,burgers,none,Financial District,323,Jewelry District,Sonoratown ,none,none,none,none,none,none
+1073,4.0,530,$$,Coffee Shop,coffee,breakfast_brunch,waffles,none,Fairfax,340,none,none,none,none,none,none,none,none
+1074,3.797554347826087,1840,$,Mexican Restaurant,mexican,none,none,none,Hollywood,469,none,none,none,none,none,none,none,none
+1075,3.797554347826087,1840,$,Mexican Restaurant,mexican,none,none,none,Tarzana,166,none,none,none,none,none,none,none,none
+1076,3.797554347826087,1840,$,Mexican Restaurant,mexican,none,none,none,Northridge,215,none,none,none,none,none,none,none,none
+1077,2.0,55,$,Gas Station,servicestations,convenience,none,none,Sherman Oaks,144,none,none,none,none,none,none,none,none
+1078,2.0,55,$,Gas Station,servicestations,convenience,none,none,Financial District,352,none,none,none,none,none,none,none,none
+1079,2.0,55,$,Gas Station,servicestations,convenience,none,none,Harvard Heights,354,none,none,none,none,none,none,none,none
+1080,2.0,55,$,Gas Station,servicestations,convenience,none,none,Tarzana,43,none,none,none,none,none,none,none,none
+1081,2.0,55,$,Gas Station,servicestations,convenience,none,none,Eagle Rock,35,none,none,none,none,none,none,none,none
+1082,2.0,55,$,Gas Station,servicestations,convenience,none,none,Lake Balboa,49,none,none,none,none,none,none,none,none
+1083,2.0,55,$,Gas Station,servicestations,convenience,none,none,Harbor Gateway,427,none,none,none,none,none,none,none,none
+1084,2.0,55,$,Gas Station,servicestations,convenience,none,none,Sawtelle,492,none,none,none,none,none,none,none,none
+1085,2.0,55,$,Gas Station,servicestations,convenience,none,none,Lincoln Heights,356,none,none,none,none,none,none,none,none
+1086,2.0,55,$,Gas Station,servicestations,convenience,none,none,Pacific Palisades,69,none,none,none,none,none,none,none,none
+1087,3.4740932642487046,193,$$,Shoe Store,shoes,none,none,none,Panorama City,407,none,none,none,none,none,none,none,none
+1088,3.5,330,$,Café,tea,cafes,none,none,Venice,296,none,none,none,none,none,none,none,none
+1089,4.0,255,$$,Thai Restaurant,thai,none,none,none,Pico Robertson,457,none,none,none,none,none,none,none,none
+1090,3.5,1402,$,Thai Restaurant,thai,chinese,none,none,West Los Angeles,459,none,none,none,none,none,none,none,none
+1091,3.5,1402,$,Thai Restaurant,thai,chinese,none,none,Mar Vista,424,none,none,none,none,none,none,none,none
+1092,4.0,1245,$$,Szechuan Restaurant,chinese,none,none,none,West Los Angeles,497,none,none,none,none,none,none,none,none
+1093,4.0,1638,$$,Indonesian Restaurant,indonesian,malaysian,halal,none,Palms,479,none,none,none,none,none,none,none,none
+1094,4.5,721,$$,Breakfast Spot,breakfast_brunch,none,none,none,South Central,314,none,none,none,none,none,none,none,none
+1095,3.5,258,$$,Thai Restaurant,thai,none,none,none,Los Feliz,473,none,none,none,none,none,none,none,none
+1096,4.0,48,$,Pet Café,cafes,beverage_stores,none,none,South Central,215,none,none,none,none,none,none,none,none
+1097,4.5,396,$$,Bookstore,bookstores,none,none,none,Los Feliz,467,none,none,none,none,none,none,none,none
+1098,3.0353982300884956,339,$$,Grocery Store,grocery,none,none,none,Boyle Heights,425,none,none,none,none,none,none,none,none
+1099,3.0353982300884956,339,$$,Grocery Store,grocery,none,none,none,Harvard Heights,60,none,none,none,none,none,none,none,none
+1100,3.0353982300884956,339,$$,Grocery Store,grocery,none,none,none,Hermon,420,none,none,none,none,none,none,none,none
+1101,3.0353982300884956,339,$$,Grocery Store,grocery,none,none,none,Vermont Knolls,251,none,none,none,none,none,none,none,none
+1102,3.0353982300884956,339,$$,Grocery Store,grocery,none,none,none,Encino,159,none,none,none,none,none,none,none,none
+1103,4.0,31,$,Smoke Shop,tobaccoshops,headshops,none,none,Mission Hills,313,none,none,none,none,none,none,none,none
+1104,3.5,98,$,Mexican Restaurant,mexican,none,none,none,Van Nuys,383,none,none,none,none,none,none,none,none
+1105,4.0,697,$$,Sushi Restaurant,sushi,teppanyaki,cocktailbars,none,Woodland Hills,288,none,none,none,none,none,none,none,none
+1106,4.0,1679,$$$,Seafood Restaurant,seafood,none,none,none,Beverly Grove,409,none,none,none,none,none,none,none,none
+1107,3.0,414,$$,Nightclub,bars,danceclubs,musicvenues,none,Whitley Heights,467,none,none,none,none,none,none,none,none
+1108,4.0,709,$$$,American Restaurant,newamerican,seafood,sushi,none,Beverly Hills Post Office,473,none,none,none,none,none,none,none,none
+1109,4.5,186,$$,Beer Bar,beerbar,tapasmallplates,none,none,Koreatown,476,none,none,none,none,none,none,none,none
+1110,3.0,24,$$,Gift Shop,giftshops,souvenirs,none,none,Whitley Heights,428,none,none,none,none,none,none,none,none
+1111,4.5,64,$$$$,Spa,spas,hair,massage,none,Beverly Hills Post Office,311,none,none,none,none,none,none,none,none
+1112,4.0,48,$$,Shopping Mall,galleries,womenscloth,homedecor,none,Hollywood,99,none,none,none,none,none,none,none,none
+1113,5.0,192,$,Science Museum,museums,galleries,none,none,Exposition Park,291,none,none,none,none,none,none,none,none
+1114,4.0,5,$$,Home Service,tattoo,none,none,none,South Central,134,none,none,none,none,none,none,none,none
+1115,5.0,244,$$,Astrologer,spiritual_shop,none,none,none,Sunset Junction,363,none,none,none,none,none,none,none,none
+1116,4.0,101,$$,Breakfast Spot,italian,breakfast_brunch,bars,none,Whitley Heights,247,none,none,none,none,none,none,none,none
+1117,4.5,85,$$,Wine Bar,wine_bars,beer_and_wine,none,none,Toluca Lake,460,none,none,none,none,none,none,none,none
+1118,3.0,709,$$$,Hotel Bar,cocktailbars,lounges,venues,none,Financial District,479,none,none,none,none,none,none,none,none
+1119,4.0,52,$$,Gift Shop,stationery,giftshops,homedecor,none,Los Feliz,291,none,none,none,none,none,none,none,none
+1120,3.5,1042,$$,BBQ Joint,bbq,southern,none,none,Naud Junction,324,none,none,none,none,none,none,none,none
+1121,4.0,601,$$,Cupcake Shop,desserts,bakeries,cakeshop,none,Financial District,400,none,none,none,none,none,none,none,none
+1122,3.5241199478487615,767,$$,Grocery Store,grocery,healthmarkets,organic_stores,none,Woodland Hills,278,none,none,none,none,none,none,none,none
+1123,3.5241199478487615,767,$$,Grocery Store,grocery,healthmarkets,organic_stores,none,Eagle Rock,436,none,none,none,none,none,none,none,none
+1124,4.5,952,$$,Italian Restaurant,italian,pizza,none,none,Sherman Oaks,97,none,none,none,none,none,none,none,none
+1125,4.0,306,$$,New American Restaurant,gluten_free,vegetarian,vegan,none,Los Feliz,422,none,none,none,none,none,none,none,none
+1126,4.0,257,$$,American Restaurant,tradamerican,none,none,none,Sherman Oaks,90,none,none,none,none,none,none,none,none
+1127,2.5,214,$$,Paper / Office Supplies Store,officeequipment,copyshops,mobilephonerepair,none,Sawtelle,468,none,none,none,none,none,none,none,none
+1128,2.5,214,$$,Paper / Office Supplies Store,officeequipment,copyshops,mobilephonerepair,none,Westdale,453,none,none,none,none,none,none,none,none
+1129,2.5,214,$$,Paper / Office Supplies Store,officeequipment,copyshops,mobilephonerepair,none,Westchester,455,none,none,none,none,none,none,none,none
+1130,2.5,214,$$,Paper / Office Supplies Store,officeequipment,copyshops,mobilephonerepair,none,Warner Center,494,none,none,none,none,none,none,none,none
+1131,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Woodland Hills,102,none,none,none,none,none,none,none,none
+1132,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Canoga Park,450,none,none,none,none,none,none,none,none
+1133,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Westwood Village,44,none,none,none,none,none,none,none,none
+1134,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,West Los Angeles,297,none,none,none,none,none,none,none,none
+1135,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Windsor Square,355,none,none,none,none,none,none,none,none
+1136,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Sherman Oaks,279,none,none,none,none,none,none,none,none
+1137,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Bunker Hill,271,none,none,none,none,none,none,none,none
+1138,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Whitley Heights,362,none,none,none,none,none,none,none,none
+1139,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Valley Glen,426,none,none,none,none,none,none,none,none
+1140,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Warner Center,429,none,none,none,none,none,none,none,none
+1141,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,North University Park,276,University Park,University Park,none,none,none,none,none,none
+1142,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Flower District,384,Sonoratown ,none,none,none,none,none,none,none
+1143,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Century City,389,none,none,none,none,none,none,none,none
+1144,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Pacific Palisades,110,none,none,none,none,none,none,none,none
+1145,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Westchester,479,none,none,none,none,none,none,none,none
+1146,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Whitley Heights,285,none,none,none,none,none,none,none,none
+1147,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,San Pedro,445,none,none,none,none,none,none,none,none
+1148,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Bunker Hill,410,none,none,none,none,none,none,none,none
+1149,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Tarzana,180,none,none,none,none,none,none,none,none
+1150,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Little Tokyo,340,none,none,none,none,none,none,none,none
+1151,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Mission Hills,260,none,none,none,none,none,none,none,none
+1152,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Crenshaw,118,none,none,none,none,none,none,none,none
+1153,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Eagle Rock,109,none,none,none,none,none,none,none,none
+1154,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Warner Center,208,none,none,none,none,none,none,none,none
+1155,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Bunker Hill,381,none,none,none,none,none,none,none,none
+1156,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Naud Junction,499,none,none,none,none,none,none,none,none
+1157,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,San Pedro,332,none,none,none,none,none,none,none,none
+1158,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Financial District,194,none,none,none,none,none,none,none,none
+1159,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Bunker Hill,388,none,none,none,none,none,none,none,none
+1160,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Sawtelle,199,none,none,none,none,none,none,none,none
+1161,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Westwood Village,435,none,none,none,none,none,none,none,none
+1162,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Naud Junction,424,none,none,none,none,none,none,none,none
+1163,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Hollywood,284,none,none,none,none,none,none,none,none
+1164,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Northridge,108,none,none,none,none,none,none,none,none
+1165,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Playa Vista,80,none,none,none,none,none,none,none,none
+1166,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Laurel Canyon,364,none,none,none,none,none,none,none,none
+1167,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Century City,222,none,none,none,none,none,none,none,none
+1168,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Little Tokyo,347,Toy District,none,none,none,none,none,none,none
+1169,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Sherman Oaks,410,none,none,none,none,none,none,none,none
+1170,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Financial District,391,none,none,none,none,none,none,none,none
+1171,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Financial District,425,none,none,none,none,none,none,none,none
+1172,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Winnetka,376,none,none,none,none,none,none,none,none
+1173,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Mission Hills,141,none,none,none,none,none,none,none,none
+1174,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,North University Park,492,University Park,University Park,none,none,none,none,none,none
+1175,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,San Pedro,62,none,none,none,none,none,none,none,none
+1176,2.942642405063291,17696,$$,Coffee Shop,coffee,none,none,none,Westlake,31,none,none,none,none,none,none,none,none
+1177,3.767409470752089,359,$$,Coffee Shop,coffee,none,none,none,Los Feliz,429,none,none,none,none,none,none,none,none
+1178,3.5,3,$$,Liquor Store,beer_and_wine,none,none,none,Granada Hills,196,none,none,none,none,none,none,none,none
+1179,3.5,70,$$,Nightclub,musicvenues,bars,breakfast_brunch,none,Hollywood,341,none,none,none,none,none,none,none,none
+1180,4.0,954,$$,Thai Restaurant,thai,none,none,none,Gallery Row,450,none,none,none,none,none,none,none,none
+1181,3.5,207,$$,Thai Restaurant,thai,bars,none,none,Echo Park,431,none,none,none,none,none,none,none,none
+1182,4.0,4010,$$,Burger Joint,burgers,gastropubs,tradamerican,none,Hollywood,181,none,none,none,none,none,none,none,none
+1183,4.5,111,$$,Vegetarian / Vegan Restaurant,vegan,wine_bars,none,none,South Central,320,none,none,none,none,none,none,none,none
+1184,4.5,302,$$,Salon / Barbershop,skincare,waxing,spraytanning,none,Beverly Grove,421,none,none,none,none,none,none,none,none
+1185,4.0,223,$$,Farmers Market,farmersmarket,none,none,none,Studio City,463,none,none,none,none,none,none,none,none
+1186,4.5,175,$$,Sushi Restaurant,sushi,none,none,none,Studio City,484,none,none,none,none,none,none,none,none
+1187,4.5,11,$,Art Gallery,galleries,none,none,none,Angelino Heights,435,none,none,none,none,none,none,none,none
+1188,4.5,253,$,Sandwich Place,tradamerican,delis,none,none,Del Rey,353,none,none,none,none,none,none,none,none
+1189,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Carthay,300,none,none,none,none,none,none,none,none
+1190,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Bunker Hill,133,none,none,none,none,none,none,none,none
+1191,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,East Hollywood,469,none,none,none,none,none,none,none,none
+1192,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Naud Junction,261,none,none,none,none,none,none,none,none
+1193,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Woodland Hills,119,none,none,none,none,none,none,none,none
+1194,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Westlake,461,none,none,none,none,none,none,none,none
+1195,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Village Green,429,none,none,none,none,none,none,none,none
+1196,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Glassell Park,432,none,none,none,none,none,none,none,none
+1197,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Financial District,346,none,none,none,none,none,none,none,none
+1198,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Naud Junction,499,none,none,none,none,none,none,none,none
+1199,2.624051593323217,1318,$,Sandwich Place,sandwiches,none,none,none,Jefferson Park,393,none,none,none,none,none,none,none,none
+1200,4.0,1436,$$,Yoshoku Restaurant,japanese,none,none,none,Little Tokyo,194,none,none,none,none,none,none,none,none
+1201,4.0,1401,$$,Dessert Shop,desserts,coffee,shavedice,none,Koreatown,440,none,none,none,none,none,none,none,none
+1202,4.0,533,$$,Japanese Restaurant,sushi,desserts,japanese,none,Northridge,238,none,none,none,none,none,none,none,none
+1203,4.5,35,$,Laundromat,laundromat,none,none,none,Angelino Heights,364,none,none,none,none,none,none,none,none
+1204,3.350567465321564,793,$,Salon / Barbershop,hair,none,none,none,Beverly Grove,366,none,none,none,none,none,none,none,none
+1205,3.350567465321564,793,$,Salon / Barbershop,hair,none,none,none,Laurel Canyon,478,none,none,none,none,none,none,none,none
+1206,2.582089552238806,134,$,Grocery Store,grocery,bakeries,meats,none,Florence,370,none,none,none,none,none,none,none,none
+1207,4.0,34,$$,Clothing Store,accessories,uniforms,menscloth,none,Whitley Heights,435,none,none,none,none,none,none,none,none
+1208,4.5,74,$$,Kitchen Supply Store,suppliesrestaurant,cafes,gourmet,none,Arlington Heights,405,none,none,none,none,none,none,none,none
+1209,3.5,24,$$$,Furniture / Home Store,antiques,vintage,menscloth,none,Mar Vista,331,none,none,none,none,none,none,none,none
+1210,4.5,3806,$$$,Sushi Restaurant,sushi,japanese,none,none,Little Tokyo,466,none,none,none,none,none,none,none,none
+1211,4.5,414,$$,Sushi Restaurant,japanese,sushi,seafood,none,Koreatown,318,none,none,none,none,none,none,none,none
+1212,4.0,231,$$,Sushi Restaurant,sushi,none,none,none,Beverly Grove,348,none,none,none,none,none,none,none,none
+1213,4.0,189,$$,Creperie,creperies,icecream,cafes,none,Beverly Hills Post Office,333,none,none,none,none,none,none,none,none
+1214,4.0,143,$$,Marijuana Dispensary,cannabisdispensaries,none,none,none,Arts District,458,none,none,none,none,none,none,none,none
+1215,4.014237855946399,2388,$$,Ice Cream Shop,icecream,none,none,none,Fairfax,405,none,none,none,none,none,none,none,none
+1216,4.014237855946399,2388,$$,Ice Cream Shop,icecream,none,none,none,Pacific Palisades,292,none,none,none,none,none,none,none,none
+1217,3.5,1245,$$,Diner,diners,newamerican,breakfast_brunch,none,Beverly Grove,485,none,none,none,none,none,none,none,none
+1218,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Panorama City,413,none,none,none,none,none,none,none,none
+1219,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Warner Center,471,none,none,none,none,none,none,none,none
+1220,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Wilmington,152,none,none,none,none,none,none,none,none
+1221,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,San Pedro,465,none,none,none,none,none,none,none,none
+1222,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Van Nuys,33,none,none,none,none,none,none,none,none
+1223,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Sherman Oaks,214,none,none,none,none,none,none,none,none
+1224,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Leimert Park,495,none,none,none,none,none,none,none,none
+1225,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Woodland Hills,204,none,none,none,none,none,none,none,none
+1226,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Vermont-Slauson,489,none,none,none,none,none,none,none,none
+1227,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Northridge,214,none,none,none,none,none,none,none,none
+1228,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Echo Park,496,none,none,none,none,none,none,none,none
+1229,3.3197217180883243,1653,$$,Mobile Phone Shop,mobilephones,cellphoneaccessories,telecommunications,none,Westchester,435,none,none,none,none,none,none,none,none
+1230,4.0,1238,$$,New American Restaurant,newamerican,mexican,vegan,none,Westwood Village,124,none,none,none,none,none,none,none,none
+1231,2.35990990990991,1110,$,Fast Food Restaurant,hotdogs,mexican,none,none,Hermon,500,none,none,none,none,none,none,none,none
+1232,2.35990990990991,1110,$,Fast Food Restaurant,hotdogs,mexican,none,none,Harbor Gateway,458,none,none,none,none,none,none,none,none
+1233,2.35990990990991,1110,$,Fast Food Restaurant,hotdogs,mexican,none,none,Lincoln Heights,427,none,none,none,none,none,none,none,none
+1234,2.35990990990991,1110,$,Fast Food Restaurant,hotdogs,mexican,none,none,Exposition Park,259,none,none,none,none,none,none,none,none
+1235,4.0,559,$,Mexican Restaurant,mexican,none,none,none,Eagle Rock,304,none,none,none,none,none,none,none,none
+1236,4.0,90,$,Taco Place,tacos,streetvendors,none,none,Mar Vista,471,none,none,none,none,none,none,none,none
+1237,4.0,215,$,Food Truck,mexican,foodtrucks,none,none,Echo Park,459,none,none,none,none,none,none,none,none
+1238,4.0,600,$,Taco Place,mexican,none,none,none,Sunset Junction,284,none,none,none,none,none,none,none,none
+1239,3.5,131,$,Mexican Restaurant,mexican,none,none,none,Chatsworth,375,none,none,none,none,none,none,none,none
+1240,3.228723404255319,470,$,Taco Place,mexican,none,none,none,Hyde Park,224,none,none,none,none,none,none,none,none
+1241,3.7941176470588234,153,$,Taco Place,mexican,none,none,none,San Pedro,438,none,none,none,none,none,none,none,none
+1242,4.039823008849558,113,$,Food Truck,foodtrucks,mexican,none,none,Angelino Heights,407,none,none,none,none,none,none,none,none
+1243,3.960802187784868,2194,$$,Taco Place,mexican,breakfast_brunch,none,none,Sawtelle,434,none,none,none,none,none,none,none,none
+1244,4.0,651,$,Taco Place,mexican,breakfast_brunch,none,none,Atwater Village,479,none,none,none,none,none,none,none,none
+1245,4.0,843,$$$,French Restaurant,french,none,none,none,Echo Park,461,none,none,none,none,none,none,none,none
+1246,3.5,106,$$,Indian Restaurant,indpak,none,none,none,Pacific Palisades,288,none,none,none,none,none,none,none,none
+1247,3.5,433,$$$,Mexican Restaurant,mexican,cocktailbars,breakfast_brunch,none,Rustic Canyon,209,none,none,none,none,none,none,none,none
+1248,3.3488372093023258,43,$,Burger Joint,juicebars,breakfast_brunch,burgers,none,Vermont Square,127,none,none,none,none,none,none,none,none
+1249,4.0,221,$,Mexican Restaurant,mexican,breakfast_brunch,latin,none,El Sereno,330,none,none,none,none,none,none,none,none
+1250,4.077119309262167,2548,$$,Noodle House,ramen,none,none,none,Sherman Oaks,90,none,none,none,none,none,none,none,none
+1251,4.5,51,$,Mexican Restaurant,mexican,none,none,none,Panorama City,302,none,none,none,none,none,none,none,none
+1252,3.5,277,$$,Mexican Restaurant,mexican,none,none,none,Van Nuys,258,none,none,none,none,none,none,none,none
+1253,3.5,219,$,Mexican Restaurant,mexican,none,none,none,Del Rey,318,none,none,none,none,none,none,none,none
+1254,3.0380774032459428,3204,$$,Big Box Store,deptstores,furniture,electronics,none,Financial District,365,none,none,none,none,none,none,none,none
+1255,3.0380774032459428,3204,$$,Big Box Store,deptstores,furniture,electronics,none,Westwood Village,387,none,none,none,none,none,none,none,none
+1256,3.0380774032459428,3204,$$,Big Box Store,deptstores,furniture,electronics,none,North University Park,203,University Park,University Park,none,none,none,none,none,none
+1257,3.0380774032459428,3204,$$,Big Box Store,deptstores,furniture,electronics,none,Mission Hills,143,none,none,none,none,none,none,none,none
+1258,3.0380774032459428,3204,$$,Big Box Store,deptstores,furniture,electronics,none,Little Armenia,486,none,none,none,none,none,none,none,none
+1259,3.794059405940594,1010,$,Indian Restaurant,indpak,none,none,none,Woodland Hills,270,none,none,none,none,none,none,none,none
+1260,3.842677457098284,10256,$$,Salad Place,newamerican,salad,grocery,none,Hollywood,305,none,none,none,none,none,none,none,none
+1261,3.842677457098284,10256,$$,Salad Place,newamerican,salad,grocery,none,Gallery Row,498,Jewelry District,none,none,none,none,none,none,none
+1262,3.842677457098284,10256,$$,Salad Place,newamerican,salad,grocery,none,Westwood Village,124,none,none,none,none,none,none,none,none
+1263,3.842677457098284,10256,$$,Salad Place,newamerican,salad,grocery,none,Century City,442,none,none,none,none,none,none,none,none
+1264,3.5,1535,$$,Sushi Restaurant,japanese,asianfusion,sushi,none,Boyle Heights,63,none,none,none,none,none,none,none,none
+1265,3.5,1161,$$,Italian Restaurant,italian,pizza,none,none,Fairfax,441,none,none,none,none,none,none,none,none
+1266,4.0,86,$$,Restaurant,tradamerican,breakfast_brunch,turkish,none,Atwater Village,477,none,none,none,none,none,none,none,none
+1267,2.0,289,$$,Nightclub,danceclubs,none,none,none,Hollywood,473,none,none,none,none,none,none,none,none
+1268,3.819371727748691,191,$$,Salon / Barbershop,barbers,cosmetics,none,none,Century City,410,none,none,none,none,none,none,none,none
+1269,4.0,489,$$,American Restaurant,newamerican,cocktailbars,none,none,Sunset Junction,110,none,none,none,none,none,none,none,none
+1270,3.5,849,$$,Seafood Restaurant,cajun,seafood,none,none,Westwood Village,152,none,none,none,none,none,none,none,none
+1271,3.5,571,$$,Bar,bars,newamerican,burgers,none,Hollywood,331,none,none,none,none,none,none,none,none
+1272,3.0,419,$$,Bar,musicvenues,divebars,none,none,Venice,319,none,none,none,none,none,none,none,none
+1273,5.0,283,$$,Bar,sandwiches,cocktailbars,gastropubs,none,Financial District,198,none,none,none,none,none,none,none,none
+1274,4.5,1804,$$,Sandwich Place,cafes,sandwiches,none,none,Tarzana,278,none,none,none,none,none,none,none,none
+1275,1.8818181818181818,55,$$,Kids Store,childcloth,none,none,none,Tarzana,331,none,none,none,none,none,none,none,none
+1276,3.557989284588717,3173,$,Coffee Shop,coffee,none,none,none,Sawtelle,451,none,none,none,none,none,none,none,none
+1277,3.557989284588717,3173,$,Coffee Shop,coffee,none,none,none,Los Feliz,263,none,none,none,none,none,none,none,none
+1278,3.557989284588717,3173,$,Coffee Shop,coffee,none,none,none,Century City,94,none,none,none,none,none,none,none,none
+1279,3.557989284588717,3173,$,Coffee Shop,coffee,none,none,none,Hollywood,344,none,none,none,none,none,none,none,none
+1280,3.557989284588717,3173,$,Coffee Shop,coffee,none,none,none,Tarzana,40,none,none,none,none,none,none,none,none
+1281,3.557989284588717,3173,$,Coffee Shop,coffee,none,none,none,Century City,405,none,none,none,none,none,none,none,none
+1282,4.0,190,$,Deli / Bodega,burgers,mexican,breakfast_brunch,none,West Los Angeles,370,none,none,none,none,none,none,none,none
+1283,4.0,1065,$$,Seafood Restaurant,seafood,cocktailbars,cajun,none,Sherman Oaks,200,none,none,none,none,none,none,none,none
+1284,4.0,1125,$$,Southern / Soul Food Restaurant,chickenshop,sandwiches,newamerican,none,Century City,261,none,none,none,none,none,none,none,none
+1285,4.0,683,$$,Italian Restaurant,newamerican,italian,pizza,none,Palms,136,none,none,none,none,none,none,none,none
+1286,4.0,315,$$$,English Restaurant,british,modern_european,cocktailbars,none,Pacific Palisades,159,none,none,none,none,none,none,none,none
+1287,3.5,428,$$,Music Venue,musicvenues,lounges,divebars,none,Echo Park,420,none,none,none,none,none,none,none,none
+1288,3.5,3064,$$$,Speakeasy,cocktailbars,musicvenues,none,none,Toy District,457,none,none,none,none,none,none,none,none
+1289,4.0,1337,$$$,Italian Restaurant,italian,none,none,none,Arts District,285,none,none,none,none,none,none,none,none
+1290,3.5,129,$$,Food Court,newamerican,bars,none,none,Exposition Park,181,none,none,none,none,none,none,none,none
+1291,3.5,520,$$,Sports Bar,newamerican,burgers,sportsbars,none,Palms,356,none,none,none,none,none,none,none,none
+1292,3.5,80,$,Food Truck,foodtrucks,burgers,hotdog,none,Century City,303,none,none,none,none,none,none,none,none
+1293,3.5,374,$$,Mediterranean Restaurant,mediterranean,mideastern,venues,none,Encino,85,none,none,none,none,none,none,none,none
+1294,3.0,395,$$,Chinese Restaurant,chinese,none,none,none,Reseda,414,none,none,none,none,none,none,none,none
+1295,3.4563683624210917,2693,$,Burger Joint,salad,burgers,sandwiches,none,Encino,475,none,none,none,none,none,none,none,none
+1296,3.4563683624210917,2693,$,Burger Joint,salad,burgers,sandwiches,none,Northridge,357,none,none,none,none,none,none,none,none
+1297,3.4563683624210917,2693,$,Burger Joint,salad,burgers,sandwiches,none,Mission Hills,216,none,none,none,none,none,none,none,none
+1298,3.4563683624210917,2693,$,Burger Joint,salad,burgers,sandwiches,none,Echo Park,496,none,none,none,none,none,none,none,none
+1299,3.4563683624210917,2693,$,Burger Joint,salad,burgers,sandwiches,none,Financial District,81,none,none,none,none,none,none,none,none
+1300,4.5,584,$$,Pizza Place,pizza,delis,beer_and_wine,none,Lincoln Heights,341,none,none,none,none,none,none,none,none
+1301,3.0,346,$$$,Nightclub,lounges,none,none,none,Hollywood,263,none,none,none,none,none,none,none,none
+1302,4.0,304,$$,Strip Club,stripclubs,none,none,none,Whitley Heights,378,none,none,none,none,none,none,none,none
+1303,4.5,5,$,Gift Shop,giftshops,hobbyshops,none,none,Whitley Heights,468,none,none,none,none,none,none,none,none
+1304,2.619281599457811,2951,$$,Hardware Store,gardening,appliances,hardware,none,Playa Vista,477,none,none,none,none,none,none,none,none
+1305,2.619281599457811,2951,$$,Hardware Store,gardening,appliances,hardware,none,Elysian Heights,386,none,none,none,none,none,none,none,none
+1306,2.619281599457811,2951,$$,Hardware Store,gardening,appliances,hardware,none,Chesterfield Square,442,none,none,none,none,none,none,none,none
+1307,4.5,63,$,Jazz Club,jazzandblues,none,none,none,South Central,445,none,none,none,none,none,none,none,none
+1308,4.0,1443,$$,Breakfast Spot,newamerican,breakfast_brunch,tradamerican,none,Sunset Junction,487,none,none,none,none,none,none,none,none
+1309,4.0,174,$,Laundromat,laundromat,none,none,none,Palms,344,none,none,none,none,none,none,none,none
+1310,4.0,2117,$$$,French Restaurant,french,mediterranean,modern_european,none,Beverly Grove,484,none,none,none,none,none,none,none,none
+1311,4.0,99,$$,Arts & Crafts Store,artsandcrafts,knittingsupplies,none,none,Atwater Village,482,none,none,none,none,none,none,none,none
+1312,5.0,114,$$,Salon / Barbershop,hair,none,none,none,Sherman Oaks,244,none,none,none,none,none,none,none,none
+1313,4.0,2410,$$$,Performing Arts Venue,theater,newamerican,none,none,Whitley Heights,389,none,none,none,none,none,none,none,none
+1314,4.0,112,$$,Cocktail Bar,cocktailbars,newamerican,none,none,Little Tokyo,475,none,none,none,none,none,none,none,none
+1315,4.0,317,$,Fast Food Restaurant,burgers,none,none,none,Chatsworth,342,none,none,none,none,none,none,none,none
+1316,4.0,655,$$,Cocktail Bar,sportsbars,venues,newamerican,none,West Los Angeles,244,none,none,none,none,none,none,none,none
+1317,4.0,272,$$,Hotel Bar,cocktailbars,lounges,none,none,Koreatown,466,none,none,none,none,none,none,none,none
+1318,4.0,3663,$$,American Restaurant,tradamerican,bars,sandwiches,none,Eagle Rock,336,none,none,none,none,none,none,none,none
+1319,3.5,189,$$$,Hotel,hotels,none,none,none,Beverly Grove,439,none,none,none,none,none,none,none,none
+1320,3.9770892996615466,3841,$$,Pie Shop,desserts,coffee,breakfast_brunch,none,Arts District,490,none,none,none,none,none,none,none,none
+1321,3.9770892996615466,3841,$$,Bakery,desserts,coffee,breakfast_brunch,none,Hollywood,470,none,none,none,none,none,none,none,none
+1322,4.5,7,$$$,Boutique,womenscloth,accessories,none,none,Venice,216,none,none,none,none,none,none,none,none
+1323,3.5,183,$,Thai Restaurant,thai,none,none,none,Eagle Rock,380,none,none,none,none,none,none,none,none
+1324,4.0,189,$$,Sporting Goods Shop,sportgoods,tennis,badminton,none,Atwater Village,416,none,none,none,none,none,none,none,none
+1325,4.200564971751413,708,$$,Yoga Studio,spas,acupuncture,massage_therapy,none,Edendale,235,none,none,none,none,none,none,none,none
+1326,4.5,217,$$,Record Shop,vinyl_records,musicvenues,musicvideo,none,Hollywood,197,none,none,none,none,none,none,none,none
+1327,4.0,677,$$,Sushi Restaurant,sushi,japanese,none,none,Pico Robertson,308,none,none,none,none,none,none,none,none
+1328,4.0,154,$$,Food Truck,foodtrucks,breakfast_brunch,none,none,Pico Robertson,319,none,none,none,none,none,none,none,none
+1329,3.5,183,$$,Rock Club,bars,musicvenues,none,none,Silver Lake,101,none,none,none,none,none,none,none,none
+1330,4.0,194,$$,Lounge,lounges,musicvenues,none,none,Hollywood,374,none,none,none,none,none,none,none,none
+1331,4.0,730,$$,American Restaurant,cocktailbars,newamerican,tradamerican,none,Sherman Oaks,297,none,none,none,none,none,none,none,none
+1332,4.0,140,$,Rock Club,musicvenues,none,none,none,Toy District,366,none,none,none,none,none,none,none,none
+1333,4.0,1108,$$,Hot Dog Joint,newamerican,burgers,fooddeliveryservices,none,Encino,180,none,none,none,none,none,none,none,none
+1334,4.0,1108,$$,Hot Dog Joint,newamerican,burgers,fooddeliveryservices,none,Century City,161,none,none,none,none,none,none,none,none
+1335,4.5,31,$$,Boutique,womenscloth,accessories,none,none,Mar Vista,239,none,none,none,none,none,none,none,none
+1336,3.5,1569,$$$,New American Restaurant,bars,italian,none,none,Venice,220,none,none,none,none,none,none,none,none
+1337,4.0,362,$$,New American Restaurant,cocktailbars,newamerican,breakfast_brunch,none,Westwood Village,279,none,none,none,none,none,none,none,none
+1338,4.5,576,$$,Vape Store,vapeshops,none,none,none,Sherman Oaks,404,none,none,none,none,none,none,none,none
+1339,4.0,1420,$$,Vegetarian / Vegan Restaurant,vegan,none,none,none,Palms,428,none,none,none,none,none,none,none,none
+1340,3.7551020408163267,98,$$,Supplement Shop,vitaminssupplements,none,none,none,Canoga Park,374,none,none,none,none,none,none,none,none
+1341,3.5,1712,$$,Breakfast Spot,newamerican,breakfast_brunch,waffles,none,Hollywood,345,none,none,none,none,none,none,none,none
+1342,4.024484536082475,776,$$,Bar,lounges,none,none,none,Hollywood,396,none,none,none,none,none,none,none,none
+1343,3.0,1283,$$$,Hotel,hotels,venues,none,none,Bunker Hill,477,none,none,none,none,none,none,none,none
+1344,4.0,903,$$,Concert Hall,musicvenues,venues,none,none,Koreatown,285,none,none,none,none,none,none,none,none
+1345,5.0,367,$$,Cosmetics Shop,hair,none,none,none,Atwater Village,467,none,none,none,none,none,none,none,none
+1346,4.0,231,$$,Hawaiian Restaurant,poke,seafood,hawaiian,none,Palms,352,none,none,none,none,none,none,none,none
+1347,4.5,24,$$$,Outdoor Supply Store,luggage,accessories,custommerchandise,none,Venice,453,none,none,none,none,none,none,none,none
+1348,4.0,350,$$,Mexican Restaurant,mexican,vegan,gluten_free,none,Century City,391,none,none,none,none,none,none,none,none
+1349,3.944055944055944,286,$$,Gift Shop,homedecor,toys,stationery,none,Little Tokyo,254,none,none,none,none,none,none,none,none
+1350,4.0,521,$$,Steakhouse,sportsbars,irish_pubs,tradamerican,none,Carthay,431,none,none,none,none,none,none,none,none
+1351,4.0,878,$$,Sushi Restaurant,japanese,sushi,none,none,Warner Center,423,none,none,none,none,none,none,none,none
+1352,4.5,48,$,Donut Shop,donuts,none,none,none,Hyde Park,25,none,none,none,none,none,none,none,none
+1353,3.5,846,$$,Sandwich Place,sandwiches,hotdogs,icecream,none,Mid-Wilshire,20,none,none,none,none,none,none,none,none
+1354,2.347826086956522,161,$$,Pizza Place,pizza,none,none,none,South Central,254,none,none,none,none,none,none,none,none
+1355,4.0,149,$$,Restaurant,japanese,bbq,chickenshop,none,Little Tokyo,357,none,none,none,none,none,none,none,none
+1356,4.0,57,$$,Toy / Game Store,toys,comicbooks,hobbyshops,none,Sherman Oaks,164,none,none,none,none,none,none,none,none
+1357,4.0,364,$$,Sushi Restaurant,japanese,sushi,none,none,Harbor Gateway,82,none,none,none,none,none,none,none,none
+1358,3.8701596806387224,5010,$$,Grocery Store,grocery,none,none,none,Westchester,381,none,none,none,none,none,none,none,none
+1359,3.8701596806387224,5010,$$,Grocery Store,grocery,none,none,none,Toluca Lake,488,none,none,none,none,none,none,none,none
+1360,3.8701596806387224,5010,$$,Grocery Store,grocery,none,none,none,Westwood Village,306,none,none,none,none,none,none,none,none
+1361,3.8701596806387224,5010,$$,Grocery Store,grocery,none,none,none,Sawtelle,287,none,none,none,none,none,none,none,none
+1362,3.8701596806387224,5010,$$,Grocery Store,grocery,none,none,none,Hollywood,352,none,none,none,none,none,none,none,none
+1363,3.8701596806387224,5010,$$,Grocery Store,grocery,none,none,none,North University Park,214,University Park,University Park,none,none,none,none,none,none
+1364,4.5,525,$$,Italian Restaurant,italian,pizza,salad,none,Pico Robertson,298,none,none,none,none,none,none,none,none
+1365,4.0,98,$$,Health & Beauty Service,skincare,waxing,eyelashservice,none,Sherman Village,46,none,none,none,none,none,none,none,none
+1366,3.3966244725738397,237,$$,Café,tradamerican,breakfast_brunch,none,none,Woodland Hills,476,none,none,none,none,none,none,none,none
+1367,3.3966244725738397,237,$$,Deli / Bodega,tradamerican,breakfast_brunch,none,none,Warner Center,176,none,none,none,none,none,none,none,none
+1368,4.5,89,$$,Restaurant,coffee,cafes,breakfast_brunch,none,Echo Park,423,none,none,none,none,none,none,none,none
+1369,4.0,245,$$$,Japanese Restaurant,izakaya,none,none,none,Angelino Heights,437,none,none,none,none,none,none,none,none
+1370,3.2900763358778624,131,$,Discount Store,deptstores,none,none,none,Westchester,464,none,none,none,none,none,none,none,none
+1371,3.5,457,$$,Thai Restaurant,thai,salad,seafood,none,Pico Robertson,274,none,none,none,none,none,none,none,none
+1372,4.039068100358423,1395,$,Bubble Tea Shop,juicebars,tea,bubbletea,none,Little Tokyo,321,none,none,none,none,none,none,none,none
+1373,5.0,1,$,Liquor Store,beer_and_wine,none,none,none,Vermont Square,295,none,none,none,none,none,none,none,none
+1374,4.0,43,$$,Hotel,hotels,hospitals,none,none,Westwood Village,447,none,none,none,none,none,none,none,none
+1375,3.5,332,$$,Cosmetics Shop,cosmetics,hair,skincare,none,Sherman Oaks,431,none,none,none,none,none,none,none,none
+1376,3.5,332,$$,Cosmetics Shop,cosmetics,hair,skincare,none,Westwood Village,252,none,none,none,none,none,none,none,none
+1377,3.5,1293,$$,Burger Joint,burgers,newamerican,gastropubs,none,Hollywood,94,none,none,none,none,none,none,none,none
+1378,3.5,1293,$$,Burger Joint,burgers,newamerican,gastropubs,none,Financial District,488,Jewelry District,Sonoratown ,none,none,none,none,none,none
+1379,3.0875,320,$$$,Shoe Store,shoes,none,none,none,Sunset Junction,181,none,none,none,none,none,none,none,none
+1380,3.0,31,$$,Restaurant,tradamerican,salad,none,none,University Hills,451,none,none,none,none,none,none,none,none
+1381,4.0,1051,$$,Italian Restaurant,noodles,italian,none,none,Carthay,329,none,none,none,none,none,none,none,none
+1382,3.0,31,$$,Restaurant,burgers,none,none,none,Bunker Hill,268,none,none,none,none,none,none,none,none
+1383,4.5,501,$$$$,Sushi Restaurant,japanese,none,none,none,Beverly Hills Post Office,480,none,none,none,none,none,none,none,none
+1384,3.7949526813880126,317,$$,Clothing Store,womenscloth,menscloth,homedecor,none,South Central,183,none,none,none,none,none,none,none,none
+1385,3.7949526813880126,317,$$,Clothing Store,womenscloth,menscloth,homedecor,none,Sherman Oaks,222,none,none,none,none,none,none,none,none
+1386,3.7949526813880126,317,$$,Clothing Store,womenscloth,menscloth,homedecor,none,Financial District,481,Jewelry District,Sonoratown ,none,none,none,none,none,none
+1387,4.0,1153,$$,New American Restaurant,newamerican,salad,sandwiches,none,Playa Vista,136,none,none,none,none,none,none,none,none
+1388,4.0,1153,$$,New American Restaurant,newamerican,salad,sandwiches,none,Woodland Hills,212,none,none,none,none,none,none,none,none
+1389,4.5,371,$$,American Restaurant,salad,sandwiches,newamerican,none,Northridge,131,none,none,none,none,none,none,none,none
+1390,4.5,130,$$,Spa,skincare,cosmetics,none,none,Beverly Hills Post Office,371,none,none,none,none,none,none,none,none
+1391,4.0,515,$$,Breakfast Spot,breakfast_brunch,none,none,none,Tarzana,379,none,none,none,none,none,none,none,none
+1392,2.450389794472006,1411,$$,Grocery Store,grocery,none,none,none,Mission Hills,141,none,none,none,none,none,none,none,none
+1393,2.450389794472006,1411,$$,Grocery Store,grocery,none,none,none,Tarzana,179,none,none,none,none,none,none,none,none
+1394,2.450389794472006,1411,$$,Grocery Store,grocery,none,none,none,Northridge,181,none,none,none,none,none,none,none,none
+1395,4.0,940,$$,Vegetarian / Vegan Restaurant,thai,vegan,none,none,Beverly Grove,282,none,none,none,none,none,none,none,none
+1396,4.0,2653,$$,Vegetarian / Vegan Restaurant,vegan,newamerican,none,none,Hollywood,101,none,none,none,none,none,none,none,none
+1397,4.0,2653,$$,Vegetarian / Vegan Restaurant,vegan,newamerican,none,none,Westwood Village,84,none,none,none,none,none,none,none,none
+1398,4.0,2653,$$,Vegetarian / Vegan Restaurant,vegan,newamerican,none,none,Jewelry District,277,none,none,none,none,none,none,none,none
+1399,5.0,8,$,Juice Bar,markets,streetvendors,none,none,Boyle Heights,480,none,none,none,none,none,none,none,none
+1400,4.263671875,256,$$,Liquor Store,beer_and_wine,none,none,none,Toluca Lake,434,none,none,none,none,none,none,none,none
+1401,4.0,41,$$,Farmers Market,farmersmarket,none,none,none,Venice,481,none,none,none,none,none,none,none,none
+1402,2.5921532846715327,548,$$$,Mobile Phone Shop,mobilephones,isps,electronics,none,Panorama City,411,none,none,none,none,none,none,none,none
+1403,2.5921532846715327,548,$$$,Mobile Phone Shop,mobilephones,isps,electronics,none,Koreatown,320,none,none,none,none,none,none,none,none
+1404,4.0,328,$$,Italian Restaurant,italian,breakfast_brunch,none,none,Windsor Square,405,none,none,none,none,none,none,none,none
+1405,3.5,690,$$,Italian Restaurant,italian,pizza,wine_bars,none,Bunker Hill,118,none,none,none,none,none,none,none,none
+1406,4.5,961,$$,Vegetarian / Vegan Restaurant,vegan,asianfusion,none,none,Sherman Oaks,157,none,none,none,none,none,none,none,none
+1407,3.5,585,$$$,Italian Restaurant,italian,none,none,none,Beverly Hills Post Office,313,none,none,none,none,none,none,none,none
+1408,4.0,125,$$$,Hotel,hotels,none,none,none,Beverly Hills Post Office,341,none,none,none,none,none,none,none,none
+1409,2.950854700854701,234,$$,Lingerie Store,womenscloth,none,none,none,Whitley Heights,340,none,none,none,none,none,none,none,none
+1410,2.950854700854701,234,$$,Lingerie Store,womenscloth,none,none,none,Leimert Park,500,none,none,none,none,none,none,none,none
+1411,3.1018518518518516,324,$$,Lingerie Store,lingerie,none,none,none,Whitley Heights,338,none,none,none,none,none,none,none,none
+1412,3.1018518518518516,324,$$,Lingerie Store,lingerie,none,none,none,Century City,415,none,none,none,none,none,none,none,none
+1413,3.1018518518518516,324,$$,Lingerie Store,lingerie,none,none,none,Westwood Village,258,none,none,none,none,none,none,none,none
+1414,4.625,24,$,Video Store,videoandgames,none,none,none,Eagle Rock,363,none,none,none,none,none,none,none,none
+1415,4.5,349,$,Mexican Restaurant,mexican,breakfast_brunch,none,none,Chatsworth,457,none,none,none,none,none,none,none,none
+1416,4.0,708,$,Cosmetics Shop,threadingservices,waxing,sugaring,none,Westwood Village,229,none,none,none,none,none,none,none,none
+1417,4.0,418,$$,Wine Bar,wine_bars,italian,none,none,Los Feliz,268,none,none,none,none,none,none,none,none
+1418,4.0,26,$$,Supplement Shop,vitaminssupplements,none,none,none,Mission Hills,234,none,none,none,none,none,none,none,none
+1419,4.5,170,$$,Bar,pubs,german,none,none,South Central,284,none,none,none,none,none,none,none,none
+1420,3.0,892,$$$,Hotel,hotels,none,none,none,Hollywood,470,none,none,none,none,none,none,none,none
+1421,2.7650602409638556,83,$$,Donut Shop,donuts,bakeries,sandwiches,none,Arlington Heights,229,none,none,none,none,none,none,none,none
+1422,5.0,7,$$,Men's Store,menscloth,accessories,none,none,Beverly Grove,403,none,none,none,none,none,none,none,none
+1423,3.241573033707865,89,$$,Shoe Store,shoes,sportswear,none,none,Florence,386,none,none,none,none,none,none,none,none
+1424,3.4318706697459582,433,$,Restaurant,hotdogs,asianfusion,none,none,Garvanza,469,none,none,none,none,none,none,none,none
+1425,3.9203125,320,$,Dessert Shop,waffles,desserts,none,none,Whitley Heights,461,none,none,none,none,none,none,none,none
+1426,4.0,351,$$,Burrito Place,mexican,seafood,cocktailbars,none,Elysian Valley,431,none,none,none,none,none,none,none,none
+1427,2.742351046698873,1863,$$,Pharmacy,drugstores,cosmetics,convenience,none,Sawtelle,296,none,none,none,none,none,none,none,none
+1428,2.742351046698873,1863,$$,Pharmacy,drugstores,cosmetics,convenience,none,Eagle Rock,130,none,none,none,none,none,none,none,none
+1429,2.742351046698873,1863,$$,Pharmacy,drugstores,cosmetics,convenience,none,Tarzana,168,none,none,none,none,none,none,none,none
+1430,2.742351046698873,1863,$$,Pharmacy,drugstores,cosmetics,convenience,none,Reseda,250,none,none,none,none,none,none,none,none
+1431,2.742351046698873,1863,$$,Pharmacy,drugstores,cosmetics,convenience,none,Boyle Heights,439,none,none,none,none,none,none,none,none
+1432,2.742351046698873,1863,$$,Pharmacy,drugstores,cosmetics,convenience,none,Hollywood,231,none,none,none,none,none,none,none,none
+1433,1.6791497975708503,988,$,Big Box Store,deptstores,grocery,none,none,Harbor Gateway,301,none,none,none,none,none,none,none,none
+1434,4.5,2729,$$,Ice Cream Shop,icecream,coffee,none,none,Tarzana,58,none,none,none,none,none,none,none,none
+1435,3.0,200,$$$,Lounge,lounges,cocktailbars,none,none,Hollywood,179,none,none,none,none,none,none,none,none
+1436,3.0,608,$$$,Thrift / Vintage Store,vintage,womenscloth,menscloth,none,Fairfax,485,none,none,none,none,none,none,none,none
+1437,4.0,1020,$$,Thai Restaurant,thai,noodles,soup,none,Sunset Junction,491,none,none,none,none,none,none,none,none
+1438,4.0,314,$$,Café,coffee,breakfast_brunch,none,none,Watts,426,none,none,none,none,none,none,none,none
+1439,2.5,271,$$$,Furniture / Home Store,homedecor,furniture,none,none,Beverly Grove,232,none,none,none,none,none,none,none,none
+1440,2.5,271,$$$,Furniture / Home Store,homedecor,furniture,none,none,Sonoratown ,414,none,none,none,none,none,none,none,none
+1441,3.645,900,$,Bagel Shop,bakeries,bagels,none,none,Woodland Hills,324,none,none,none,none,none,none,none,none
+1442,3.5,1133,$$$,Shopping Mall,shoppingcenters,none,none,none,Century City,451,none,none,none,none,none,none,none,none
+1443,3.5,470,$,Thai Restaurant,thai,chinese,seafood,none,Westwood Village,465,none,none,none,none,none,none,none,none
+1444,2.9863636363636363,110,$,Snack Place,pretzels,none,none,none,Panorama City,405,none,none,none,none,none,none,none,none
+1445,4.0,246,$,Sandwich Place,sandwiches,hotdogs,salad,none,Century City,425,none,none,none,none,none,none,none,none
+1446,4.0,246,$,Sandwich Place,sandwiches,hotdogs,salad,none,Thai Town,495,none,none,none,none,none,none,none,none
+1447,3.096059479553903,6725,$$$,Grocery Store,grocery,none,none,none,Sherman Village,49,none,none,none,none,none,none,none,none
+1448,3.096059479553903,6725,$$$,Grocery Store,grocery,none,none,none,Westwood Village,324,none,none,none,none,none,none,none,none
+1449,3.096059479553903,6725,$$$,Grocery Store,grocery,none,none,none,Beverly Hills Post Office,173,none,none,none,none,none,none,none,none
+1450,3.096059479553903,6725,$$$,Grocery Store,grocery,none,none,none,South Central,230,none,none,none,none,none,none,none,none
+1451,3.096059479553903,6725,$$$,Grocery Store,grocery,none,none,none,Playa Vista,84,none,none,none,none,none,none,none,none
+1452,3.096059479553903,6725,$$$,Grocery Store,grocery,none,none,none,Financial District,149,Jewelry District,none,none,none,none,none,none,none
+1453,3.096059479553903,6725,$$$,Grocery Store,grocery,none,none,none,Sherman Oaks,364,none,none,none,none,none,none,none,none
+1454,4.5,120,$$,Clothing Store,sportgoods,accessories,jewelry,none,Westlake,303,none,none,none,none,none,none,none,none
+1455,3.0132575757575757,264,$,Hot Dog Joint,hotdogs,hotdog,sandwiches,none,Harbor Gateway,456,none,none,none,none,none,none,none,none
+1456,3.0132575757575757,264,$,Hot Dog Joint,hotdogs,hotdog,sandwiches,none,Northridge,250,none,none,none,none,none,none,none,none
+1457,3.0132575757575757,264,$,Hot Dog Joint,hotdogs,hotdog,sandwiches,none,Laurel Canyon,476,Valley Village,none,none,none,none,none,none,none
+1458,2.785529715762274,387,$$$,Kitchen Supply Store,kitchenandbath,gourmet,none,none,Beverly Hills Post Office,465,none,none,none,none,none,none,none,none
+1459,2.527027027027027,1739,$$,Wings Joint,chicken_wings,none,none,none,Northridge,72,none,none,none,none,none,none,none,none
+1460,2.527027027027027,1739,$$,Wings Joint,chicken_wings,none,none,none,Mission Hills,220,none,none,none,none,none,none,none,none
+1461,4.5,6,$$$,Men's Store,menscloth,accessories,cosmetics,none,Arts District,471,none,none,none,none,none,none,none,none
+1462,3.5,1492,$$,Sushi Restaurant,chinese,sushi,lounges,none,Financial District,344,none,none,none,none,none,none,none,none
+1463,4.0,558,$$,Bar,whiskeybars,cocktailbars,beerbar,none,Little Tokyo,357,none,none,none,none,none,none,none,none
+1464,3.4787735849056602,212,$$,American Restaurant,sandwiches,italian,pizza,none,Tarzana,156,none,none,none,none,none,none,none,none
+1465,3.5,1342,$$,American Restaurant,newamerican,bars,none,none,Hollywood,491,none,none,none,none,none,none,none,none
+1466,4.0,1408,$$,Brazilian Restaurant,brazilian,none,none,none,Sonoratown ,273,none,none,none,none,none,none,none,none
+1467,4.0,164,$$,Japanese Restaurant,sushi,japanese,wine_bars,none,Silver Lake,87,none,none,none,none,none,none,none,none
+1468,3.5,3742,$$$,Sushi Restaurant,japanese,asianfusion,newamerican,none,Whitley Heights,429,none,none,none,none,none,none,none,none
+1469,4.0,495,$,Bakery,bakeries,cakeshop,desserts,none,Little Tokyo,279,none,none,none,none,none,none,none,none
+1470,3.5,654,$$,Dive Bar,sportsbars,chicken_wings,none,none,Los Feliz,475,none,none,none,none,none,none,none,none
+1471,3.688878235858102,1043,$$,Sushi Restaurant,japanese,sushi,seafoodmarkets,none,Los Feliz,255,none,none,none,none,none,none,none,none
+1472,4.0,99,$,Ice Cream Shop,icecream,desserts,juicebars,none,South Central,263,none,none,none,none,none,none,none,none
+1473,4.0,54,$,Ice Cream Shop,icecream,none,none,none,Woodland Hills,166,none,none,none,none,none,none,none,none
+1474,4.0,419,$$,Korean Restaurant,korean,soup,comfortfood,none,Koreatown,430,none,none,none,none,none,none,none,none
+1475,3.208754208754209,297,$,Donut Shop,donuts,sandwiches,coffee,none,Playa del Rey,489,none,none,none,none,none,none,none,none
+1476,3.3,445,$$,Grocery Store,beer_and_wine,fooddeliveryservices,grocery,none,Sunset Junction,442,none,none,none,none,none,none,none,none
+1477,4.0,2667,$$,Middle Eastern Restaurant,mediterranean,armenian,none,none,West Los Angeles,412,none,none,none,none,none,none,none,none
+1478,4.0,2667,$$,Middle Eastern Restaurant,mediterranean,armenian,none,none,Little Armenia,383,none,none,none,none,none,none,none,none
+1479,2.0,462,$$,Clothing Store,menscloth,womenscloth,none,none,Century City,465,none,none,none,none,none,none,none,none
+1480,3.5,612,$$,Sushi Restaurant,sushi,japanese,asianfusion,none,Little Tokyo,279,none,none,none,none,none,none,none,none
+1481,3.0,86,$$,Shoe Store,outlet_stores,sportswear,none,none,Century City,343,none,none,none,none,none,none,none,none
+1482,2.6176470588235294,119,$,Convenience Store,servicestations,convenience,none,none,Lincoln Heights,396,none,none,none,none,none,none,none,none
+1483,2.6176470588235294,119,$,Convenience Store,servicestations,convenience,none,none,Laurel Canyon,430,Valley Village,none,none,none,none,none,none,none
+1484,2.6176470588235294,119,$,Convenience Store,servicestations,convenience,none,none,Woodland Hills,104,none,none,none,none,none,none,none,none
+1485,2.6176470588235294,119,$,Convenience Store,servicestations,convenience,none,none,East Hollywood,488,none,none,none,none,none,none,none,none
+1486,4.5,1452,$,Burger Joint,hotdog,burgers,breakfast_brunch,none,San Pedro,232,none,none,none,none,none,none,none,none
+1487,3.5,106,$$,Baby Store,baby_gear,toys,none,none,Sawtelle,389,none,none,none,none,none,none,none,none
+1488,4.5,173,$,Café,desserts,coffee,breakfast_brunch,none,Koreatown,434,none,none,none,none,none,none,none,none
+1489,4.5,267,$$,Café,cafes,juicebars,breakfast_brunch,none,Echo Park,416,none,none,none,none,none,none,none,none
+1490,3.5,145,$$$$,Lounge,bars,venues,breakfast_brunch,none,Whitley Heights,491,none,none,none,none,none,none,none,none
+1491,4.0,165,$$$,Clothing Store,sportswear,womenscloth,menscloth,none,Century City,414,none,none,none,none,none,none,none,none
+1492,4.290322580645161,62,$$,Clothing Store,sportswear,none,none,none,Beverly Hills Post Office,431,none,none,none,none,none,none,none,none
+1493,4.5,256,$$,French Restaurant,sandwiches,coffee,breakfast_brunch,none,Jewelry District,243,none,none,none,none,none,none,none,none
+1494,4.5,843,$$,Italian Restaurant,italian,japanese,none,none,Little Tokyo,489,none,none,none,none,none,none,none,none
+1495,4.0,169,$$,Italian Restaurant,pizza,italian,bars,none,Arts District,325,none,none,none,none,none,none,none,none
+1496,4.5,38,$$,Boutique,womenscloth,jewelry,accessories,none,Venice,492,none,none,none,none,none,none,none,none
+1497,3.914514692787177,1123,$$,Salad Place,salad,vegetarian,none,none,Century City,272,none,none,none,none,none,none,none,none
+1498,3.914514692787177,1123,$$,Salad Place,salad,vegetarian,none,none,Financial District,296,Jewelry District,none,none,none,none,none,none,none
+1499,4.5,209,$,Frozen Yogurt Shop,icecream,none,none,none,Pacific Palisades,154,none,none,none,none,none,none,none,none
+1500,4.326797385620915,153,$$,Other Repair Shop,electronicsrepair,mobilephonerepair,mobilephones,none,South Central,290,none,none,none,none,none,none,none,none

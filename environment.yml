@@ -18,3 +18,5 @@ dependencies:
   - html5lib
   - beautifulsoup4
   - folium
+  - geopy
+  - shap
